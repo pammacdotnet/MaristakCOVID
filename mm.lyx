@@ -99,35 +99,11 @@
 \begin_body
 
 \begin_layout Section
-The COVID-19 outbreak and its impact on the educational system in Spain
+Materials and methods
 \end_layout
 
 \begin_layout Standard
-En este sección hablar de lo que ha supuesto el covid a nivel educativo
- en España.
-\end_layout
-
-\begin_layout Standard
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "IEEEhowto:IEEEtranpage"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-subsection
-\end_layout
-
-\begin_layout Subsection
-another subsection
+Descripcion del analisis estadístico
 \end_layout
 
 \end_body
