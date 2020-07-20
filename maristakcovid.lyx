@@ -273,7 +273,6 @@ et al.
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-preview true
 filename "abstract.lyx"
 
 \end_inset
@@ -284,7 +283,6 @@ filename "abstract.lyx"
 \begin_layout Standard
 \begin_inset CommandInset include
 LatexCommand input
-preview true
 filename "intro.lyx"
 
 \end_inset
@@ -358,7 +356,7 @@ bla blaasdfa
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 btprint "btPrintCited"
-bibfiles "maristak,natalia,maristakcovid,intro"
+bibfiles "maristak,natalia,intro,mm"
 
 \end_inset
 
