@@ -148,6 +148,14 @@ According to the Provincial Innovation Framework Document [*], among the
  The lines of strategic development that can be useful in the innovative
  approach of the schools are cooperative learning and collaborative learning.
  
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Cooperative360"
+literal "true"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -266,17 +274,6 @@ The Maristak Durango school, belonging to the network of centers of the
  Level of ICT maturity in 2018.
 \end_layout
 
-\begin_layout Standard
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Cooperative360"
-literal "true"
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Subsection
 A brief presentation to Maristas Iberica
 \end_layout
@@ -314,11 +311,6 @@ name "sec:durango"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-[Descripción del colegio (líneas, alumnos, estudios, profesorado) y de cómo
- ha respondido a la pandemia (herramientas, metodologías, etc.).]
 \end_layout
 
 \begin_layout Standard
@@ -432,7 +424,9 @@ According to the data published from the survey on Information and Communication
 
 \begin_layout Standard
 In relation to the applied methodologies, VET cycles works in the ETHAZI
- (High Performance Cycles) modality and Cooperative Learning in High School.
+ (High Performance Cycles) model [*tknika*], where the central element on
+ which the whole learning model is articulated is collaborative based learning
+ based on challenges, and Cooperative Learning in High School.
 \end_layout
 
 \begin_layout Standard
@@ -452,15 +446,124 @@ Transition from face-to-face education to online:
 How have we worked in the face of a state of sanitary emergency?
 \end_layout
 
-\begin_layout Standard
-[...]
+\begin_layout Itemize
+Tools/programmes/platforms used for distance teaching: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+G Suit: chrome, gmail, calendar, drive, docs, sheets, slides, forms, corubrics,
+ classroom, meet, hangouts, Jamboard...
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Methodology:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The class is created in Classroom.
+ 
+\end_layout
+
+\begin_layout Itemize
+The class assignments are created in Classroom (with due date).
+ 
+\end_layout
+
+\begin_layout Itemize
+The office tools (docs, sheets, slides) are used in class activities and
+ all documentation is saved in drive.
+ 
+\end_layout
+
+\begin_layout Itemize
+The evaluation rubric corresponding to the tasks is implemented through
+ the CoRubrics plugin.
+ 
+\end_layout
+
+\begin_layout Itemize
+Students' work is reviewed directly in Classroom.
+ 
+\end_layout
+
+\begin_layout Itemize
+For exams, questionnaires are created in Classroom with the forms tool.
+ 
+\end_layout
+
+\begin_layout Itemize
+The schedules of the virtual classes are stored in the Classroom calendar,
+ which are linked to the corresponding meet room.
+ 
+\end_layout
+
+\begin_layout Itemize
+Students receive all notifications by mail (gmail).
+ 
+\end_layout
+
+\begin_layout Itemize
+The virtual classes are through meet (with grid view extension to view all
+ students and assitance extension to export the list of attendees).
+ Classes are recorded and automatically stored in drive, available to students.
+ 
+\end_layout
+
+\begin_layout Itemize
+The chrome Web Paint extension can be used to make corrections above the
+ student‘s projection.
+ 
+\end_layout
+
+\begin_layout Itemize
+Jamboard is used as a whiteboard in the virtual class.
+ 
+\end_layout
+
+\begin_layout Itemize
+Hangouts for instant communications (chat), for example in an exam.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+What kind of instruction is given: tools vebsite (videos, manuals, instructions,
+ tricks, good practices), communications by email, virtual meetings and
+ corporate platforms.
+ 
+\end_layout
+
+\begin_layout Itemize
+Assessment/evaluation: individual or group demonstrations through videoconferenc
+e and individual virtual exams and questionnaires (share desktop, record
+ and limit time).
+ 
+\end_layout
+
+\begin_layout Itemize
+Student cooperation: students must work virtually.
+ Individually or in groups (students use other tools for teamwork, for example
+ Discord).
+\end_layout
+
+\begin_layout Itemize
+What is the most demanding for students and teachers: try to replicate face-to-f
+ace training in online format.
+ 
+\end_layout
+
+\begin_layout Itemize
+The tools selection and pre-training with digital tools is key.
 \end_layout
 
 \begin_layout Standard
 RESOURCES –> students without necessary digital resources 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 [...] (listado pdte.) 
 \end_layout
 
@@ -480,38 +583,31 @@ Greater flexibility and sensitivity with the current situation in the evaluation
 \end_layout
 
 \begin_layout Itemize
-About attendance and work of the students weekly: 
+Regarding student attendance and work, attendance at online sessions, level
+ of communication / participation with teachers and work teams, emails,
+ etc.
+ have been measured weekly.
+ And on the other hand, the delivery of works, activities, development of
+ the tasks of the challenge, learning proposals, meeting deadlines has also
+ been measured.
 \end_layout
 
-\begin_deeper
-\begin_layout Itemize
-The tutor fills in the list of students and the list of teachers / subjects.
- 
-\end_layout
-
-\begin_layout Itemize
-Attendance: Scale from 0 to 3 in which we measure attendance at online sessions,
- level of communication / participation with teachers and in work teams,
- emails, etc.
- 
-\end_layout
-
-\begin_layout Itemize
-Work: Scale from 0 to 3 in which we measure the delivery of work, activities,
- development of challenge tasks, learning proposals, meeting deadlines.
-\end_layout
-
-\end_deeper
 \begin_layout Standard
 Results of the analysis carried out on the qualifications of the students
  in a normal situation compared to the emergency situation (online).
 \end_layout
 
 \begin_layout Standard
-[...]
+In order to compare the results of the students to analyze the impact of
+ the sudden change in the format on their learning, the grades obtained
+ in a period prior to the emergency situation were taken, where the training
+ was carried out normally (face-to-face), and on the other hand, the qualificati
+ons obtained in the period of the state of emergency have been taken, where
+ 100% of the training has been carried out in online format.
 \end_layout
 
 \begin_layout Standard
+[...]
 \begin_inset Float table
 wide false
 sideways false
@@ -937,9 +1033,6 @@ Final results
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
@@ -1205,6 +1298,12 @@ Results by sex
 \end_inset
 
 Family Satisfaction Report
+\end_layout
+
+\begin_layout Standard
+A survey was carried out to determine the degree of satisfaction of the
+ families of the students, from which 84 responses were received and the
+ following conclusions were drawn:
 \end_layout
 
 \begin_layout Standard
