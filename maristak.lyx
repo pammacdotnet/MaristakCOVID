@@ -367,7 +367,7 @@ Model D: teaching in Basque as a vehicular language, except in the subject
 
 \end_deeper
 \begin_layout Enumerate
-Vocation and Education Training (VET Cycles): 
+Vocational Education and Training (VET Cycles): 
 \end_layout
 
 \begin_deeper
@@ -417,7 +417,7 @@ High School: 30,272 (women: 16,408.
 \end_layout
 
 \begin_layout Enumerate
-Vocation and Education Training: 
+Vocational Education and Training: 
 \end_layout
 
 \begin_deeper
@@ -518,9 +518,9 @@ Regarding devices, a commitment is made to the Bring Your Own Device (BYOD)
 \begin_layout Standard
 During the period of confinement, of the 361 students evaluated, only 10%
  have required that the center give them a device to work from home.
- These students are vocational (19 higher, 14 middle and 3 basic), since
- all High school Students have their own device, which has facilitated online
- work.
+ These students are Vocational students (19 higher, 14 middle and 3 basic),
+ since all High School students have their own device, which has facilitated
+ online work.
 \end_layout
 
 \begin_layout Standard
@@ -658,7 +658,18 @@ ons obtained in the period of the state of emergency have been taken, where
 \end_layout
 
 \begin_layout Standard
-[...]
+In the second VET courses, only those students who had something pending
+ for the second call have been selected, since the first call ends in February,
+ so they have not had to work online.
+\end_layout
+
+\begin_layout Standard
+In general, as displayed in Figure 1, the student body is mostly male, but
+ in VET there is still more evidence of the difference between the number
+ of women versus men.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
@@ -666,7 +677,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename C:/Users/i.lejarreta/Documents/IRATXE/IKASKETAK/UNIR/DOCTORADO/Tesis/MARISTAK/NUM_STUDENTS2.pdf
+	filename percentage_students.pdf
+	scale 50
 	rotateAngle 90
 
 \end_inset
@@ -678,7 +690,12 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-% of students
+Percentage of students.
+ F: female, M: male.
+ 1: firt level, 2: second level.
+ HS: High School, VETB: Basic Vocational Education and Training, VETM: Middle
+ Grade Vocational Education and Training, VETS: Higher Degree Vocational
+ Education and Training.
 \end_layout
 
 \end_inset
@@ -688,7 +705,11 @@ status open
 
 \end_inset
 
+As evidenced in Figure 2, the line of the scores in the COVID situation
+ is above the line of the scores in the normal situation, in most cases.
+\end_layout
 
+\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
@@ -696,7 +717,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename C:/Users/i.lejarreta/Documents/IRATXE/IKASKETAK/UNIR/DOCTORADO/Tesis/MARISTAK/points.pdf
+	filename scores.pdf
 
 \end_inset
 
@@ -707,7 +728,56 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Scores
+Average scores.
+ F: female, M: male.
+ 1: firt level, 2: second level.
+ HS: High School, VETB: Basic Vocational Education and Training, VETM: Middle
+ Grade Vocational Education and Training, VETS: Higher Degree Vocational
+ Education and Training.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Figure 3 shows the difference between the scores in the normal situation,
+ compared to the COVID situation.
+ In most cases, the difference is positive, 62% vs.
+ 38% that has affected it negatively.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename scores_diff.pdf
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Difference scores.
+ F: female, M: male.
+ 1: firt level, 2: second level.
+ HS: High School, VETB: Basic Vocational Education and Training, VETM: Middle
+ Grade Vocational Education and Training, VETS: Higher Degree Vocational
+ Education and Training.
 \end_layout
 
 \end_inset
@@ -721,7 +791,12 @@ Scores
 
 \end_inset
 
+Table 1 shows the final results of the students evaluated in the COVID situation
+, where it is evident that except in the higher cycle (average: -0.17), the
+ rest of the stages have been positively affected by them.
+\end_layout
 
+\begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
@@ -761,7 +836,7 @@ EVALUATED STUDENTS
 \begin_inset Text
 
 \begin_layout Plain Layout
-PRE-COVID RATING
+PRE-COVID SCORE
 \end_layout
 
 \end_inset
@@ -770,7 +845,7 @@ PRE-COVID RATING
 \begin_inset Text
 
 \begin_layout Plain Layout
-COVID RATING
+COVID SCORE
 \end_layout
 
 \end_inset
@@ -1122,7 +1197,7 @@ TOTAL
 \begin_inset Text
 
 \begin_layout Plain Layout
-38
+38%
 \end_layout
 
 \end_inset
@@ -1139,7 +1214,7 @@ TOTAL
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Final results
+Final results.
 \end_layout
 
 \end_inset
@@ -1149,7 +1224,11 @@ Final results
 
 \end_inset
 
+The results shown by sex in Table 2 show that women are in the minority,
+ but that the result has been more positive in female students.
+\end_layout
 
+\begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
@@ -1188,7 +1267,7 @@ EVALUATED STUDENTS
 \begin_inset Text
 
 \begin_layout Plain Layout
-%
+% STUDENTS
 \end_layout
 
 \end_inset
@@ -1197,7 +1276,7 @@ EVALUATED STUDENTS
 \begin_inset Text
 
 \begin_layout Plain Layout
-PRE-COVID RATING
+PRE-COVID SCORE
 \end_layout
 
 \end_inset
@@ -1206,7 +1285,7 @@ PRE-COVID RATING
 \begin_inset Text
 
 \begin_layout Plain Layout
-COVID RATING
+COVID SCORE
 \end_layout
 
 \end_inset
@@ -1400,7 +1479,7 @@ TOTAL
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Results by sex
+Results by sex.
 \end_layout
 
 \end_inset
@@ -1423,8 +1502,33 @@ A survey was carried out to determine the degree of satisfaction of the
  following conclusions were drawn:
 \end_layout
 
-\begin_layout Standard
-[...]
+\begin_layout Itemize
+97.8% knew the situation regarding the tasks and follow-up of the students
+ that were carried out from school.
+\end_layout
+
+\begin_layout Itemize
+74.2% were quite or very satisfied with the volume of work sent to the student.
+ 14.9% indicated an excess of work volume.
+\end_layout
+
+\begin_layout Itemize
+89.9% were quite or very satisfied with the information sent to families.
+ 6.4% indicated lack of information.
+\end_layout
+
+\begin_layout Itemize
+92.1% were quite or very satisfied with respect to the training provided
+ to students through the use of computer applications.
+\end_layout
+
+\begin_layout Itemize
+91.1% were quite or very satisfied with the schedule.
+\end_layout
+
+\begin_layout Itemize
+80.9% were quite or very satisfied regarding the feedback that the students
+ receive regarding the tasks they have been carrying out and their follow-up.
 \end_layout
 
 \end_body
