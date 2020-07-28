@@ -114,13 +114,141 @@ name "sec:covid+education"
 \end_layout
 
 \begin_layout Standard
-En este sección hablar de lo que ha supuesto el covid a nivel educativo
- en España.
- Se puede empezar con una visión global.
+The COVID-19 is an infectious disease detected in Wuhan, China, in December
+ 2019.
+ Its quick spread provoked a worldwide pandemic declared by the World Health
+ Organization (WHO) the March, 11th 2020, when more than 80.000 cases and
+ 3.100 deaths were registered in China and more than 37.000 cases were detected
+ in the rest of the world.
+ Life of citizens around the world was affected, since extraordinary measures
+ to contain the pandemic included, between others, preventive quarantine
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Xie2020"
+literal "false"
+
+\end_inset
+
+.
+ Diverse spheres of society were affected by those measures, with a high
+ impact in economy 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Fernandes2020"
+literal "false"
+
+\end_inset
+
+.
+ However, in this paper we are focused on the impact in education, where
+ a quick transition from face-to-face to online classes was needed.
 \end_layout
 
 \begin_layout Subsection
 Global impact of the 2019 coronavirus in education
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Viner2020"
+literal "false"
+
+\end_inset
+
+ studied the global impact of COVID-19 and found that 107 countries had
+ closed their schools by March 2020, with around 862 million of students
+ affected.
+ Firstly, Chinese Universities closed their doors and tried to adapt their
+ teaching methods to the new scenario.
+ While taking into consideration teachers and students health and the economic
+ impact for campus, Universities also studied how to adapt teaching and
+ research to the new situation 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Wang2020"
+literal "false"
+
+\end_inset
+
+.
+ Besides delaying the start of the academic course, the Chinese authorities
+ asked to innovation in education, leading to the implementation of online
+ educational platforms to support teachers in the training to new scenarios
+ and overcome technological difficulties, as well as sharing high-quality
+ resources.
+\end_layout
+
+\begin_layout Standard
+In view of the long-term suspension of classes, the Chinese Ministry of
+ Education launched the initiative “suspending classes without stopping
+ learning” 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Zhang2020"
+literal "false"
+
+\end_inset
+
+, which encouraged traditional schools to migrate to online courses.
+ As later would happen in many other countries, time to develop proposals
+ and actions was really short and some of the initiatives lack of some the
+ details.
+ However, what was promptly assumed was that education during the pandemic
+ would have different features, and would be fed with sanitary recommendations,
+ including mental health care.
+ And this quick transition from face-to-face to online education has generated
+ several doubts about work overload, efficacy or efficiency, for example,
+ which are still under study.
+\end_layout
+
+\begin_layout Standard
+While the effect of the pandemic advanced worldwide, the different countries
+ took social distancing, isolation and quarantine measures, including restrictio
+ns to educational centers 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nicola2020"
+literal "false"
+
+\end_inset
+
+.
+ More than 100 countries have closed their schools, although some small
+ differences or exceptions could be found.
+ For example, Germany and Italy declared a complete closure of schools,
+ but United Kingdom allowed classes assistance to children of workers of
+ the key industries.
+ 
+\end_layout
+
+\begin_layout Standard
+Although these initiatives have a clear goal to break the spread of the
+ disease, some co-lateral effects have been found.
+ For example, 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rundle2020"
+literal "false"
+
+\end_inset
+
+ have put the focus on sedentarism and gain of weight of confined students,
+ and 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nicola2020"
+literal "false"
+
+\end_inset
+
+ pointed out that the dropout rates can increase, as well as students with
+ low incomes are unable to receive their free meals.
+ Moreover, families in that situation experience other difficulties related
+ to education of children, such as a lack of technological devices or Internet
+ connection.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -136,6 +264,228 @@ name "sec:covid+spain"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+The first case of COVID-19 in Spain was published
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.redaccionmedica.com/secciones/sanidad-hoy/coronavirus-infectados-espan
+a-y-evolucion-covid19-desde-origen-4148
+\end_layout
+
+\end_inset
+
+, 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://gacetamedica.com/investigacion/espana-confirma-su-primer-caso-de-coronavi
+rus
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ by social media on January 31st, 2020, and was reflected by the WHO in
+ its report
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200201-si
+trep-12-ncov.pdf?sfvrsn=273c5d35_2
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ number 12 from February, the 1st 2020.
+ From this date to March, the 14th, when the state of alarm was declared
+ in Spain, a total amount of 4231 cases and 120 deaths were confirmed in
+ Spain by the WHO.
+ 
+\end_layout
+
+\begin_layout Standard
+The state of alarm was intended to 
+\emph on
+guarantee citizens’ health, content the disease and reinforce the sanitary
+ system
+\emph default
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.boe.es/eli/es/rd/2020/03/14/463/con
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ The most relevant measured imposed by this state of alarm were related
+ to the limitation of free circulation of people, being only allowed to
+ go out to buy necessities, visit the doctor, caring of dependent people,
+ or working when that was not possible to be developed online, and similar
+ situation of need.
+ 
+\end_layout
+
+\begin_layout Standard
+In the educative field, the legal document
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.boe.es/eli/es/rd/2020/03/14/463/con
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ also indicated 
+\emph on
+Containment measures for education and training
+\emph default
+, which meant the suspension of any kind of formative face-to-face formation,
+ promoting the transition to an online method whenever it is possible.
+ To concretize this mandate, the Ministry of Education shared a set of resources
+ to be used in the online teaching
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.educacionyfp.gob.es/destacados/covid19.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, including a collection of digital resources, open courses for teachers,
+ TV channel with educational contents divided by ages, access to private
+ initiatives freely available, recommendations, etc.
+ Moreover, the Ministry of Education provided students in economic difficulties
+ with SIM cards with Internet connection, in order to ease their continuity
+ in the educative system
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.educacionyfp.gob.es/prensa/actualidad/2020/03/20200330-tarjetasdatos.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Despite all these measures, some reports highlight difficulties to put the
+ online education in action.
+ According to 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Rodicio"
+literal "true"
+
+\end_inset
+
+, although both teachers and students have done their best to adapt their
+ process to online education, the actual situation was not a change to a
+ online teaching, but a try to continue a similar approach to the face-to-face
+ education in a technology mediated scenario.
+ That means that there was no time for a formation phase for teachers and
+ this sudden switch to tele-working supposed a challenge for some of them.
+ It also was a challenge for families, who found themselves confined at
+ home, having to care of children and their formation at the same time that
+ most of them had to tele-work, too 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Moreno"
+literal "true"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+After a de-escalating period, the state of alarm was deposed on June, 21st
+ 2020, and the summer break gave the possibility to analyze the results
+ and to prepare the next academic year.
+ The Ministry of Education promotes the restart of face-to-face education,
+ being aware of new restrictions could be imposed and a plan to face them
+ needs to be prepared.
+ Additionally, the digital gap needs to be considered in order to limit
+ its consequences in general but, particularly, in the event of a new quarantine.
+ Thus, Spain is currently in a situation of new normality, where social
+ distance measures, use of masks, tight control of new cases and outbreaks
+ tracking have become usual concerns of citizens, in addition to economic
+ crisis derived from quarantine, and expectation for the educational system
+ restarting and continuity of the academic year.
+ 
 \end_layout
 
 \begin_layout Standard
