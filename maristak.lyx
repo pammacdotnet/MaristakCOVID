@@ -141,10 +141,17 @@ Maristas Ibérica
 \end_layout
 
 \begin_layout Standard
-According to the Provincial Innovation Framework Document [https://innova.marista
-siberica.es/documento-marco/], among the features of the innovative center
- are four categories in which the options for change in a center can be
- grouped: structure, technology, physical environment and people.
+According to the Provincial Innovation Framework Document 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Maristas2018"
+literal "false"
+
+\end_inset
+
+, among the features of the innovative center are four categories in which
+ the options for change in a center can be grouped: structure, technology,
+ physical environment and people.
  The lines of strategic development that can be useful in the innovative
  approach of the schools are cooperative learning and collaborative learning.
  
@@ -232,12 +239,26 @@ The degree of acquisition of digital competence can be measured, determining
 \end_layout
 
 \begin_layout Standard
-The Department of Education of the Basque Government, through the “DECREE
- 174/2012, of September 11, which approves the Technological Maturity Model
- of the Educational Center (ICT Maturity) and establishes the certifications
- and certifying stamps of the different maturity levels of educational centers”[
-https://www.euskadi.eus/madurez-asignaturas-eima-tecn-informacion/web01-a3hsare/es
-/] proposes a new Technological Modernization plan for educational centers
+The Department of Education of the Basque Government, through the 
+\begin_inset Quotes bld
+\end_inset
+
+DECREE 174/2012, of September 11, which approves the Technological Maturity
+ Model of the Educational Center (ICT Maturity) and establishes the certificatio
+ns and certifying stamps of the different maturity levels of educational
+ centers
+\begin_inset Quotes brd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "EducationDepartment2012"
+literal "false"
+
+\end_inset
+
+ proposes a new Technological Modernization plan for educational centers
  in order to adapt them to the society of the current century, as well as
  with the aim of promoting a methodological change in teaching processes
  - learning.
@@ -280,9 +301,25 @@ A brief presentation to Maristas Iberica
 \end_layout
 
 \begin_layout Standard
-The Marist Provinces [https://maristas.es/] with activities in Spain (Compostela,
- Ibérica, L´Hermitage and Mediterránea) constitute a group called "Marist
- Conference of Provinces with activities in Spain" (CME).
+The 
+\begin_inset CommandInset href
+LatexCommand href
+name "Marist"
+target "https://maristas.es/"
+literal "false"
+
+\end_inset
+
+ Provinces with activities in Spain (Compostela, Ibérica, L´Hermitage and
+ Mediterránea) constitute a group called 
+\begin_inset Quotes bld
+\end_inset
+
+Marist Conference of Provinces with activities in Spain
+\begin_inset Quotes brd
+\end_inset
+
+ (CME) .
  
 \end_layout
 
@@ -294,9 +331,17 @@ Every year the CME coordinates the preparation of didactic materials and
 \end_layout
 
 \begin_layout Standard
-The Iberian Province [https://maristasiberica.es/] is one of the Marist Provinces
- that has activities in Spain and Romania, with 15 schools, 3 social activities
- and more than 15,000 students.
+The 
+\begin_inset CommandInset href
+LatexCommand href
+name "Iberian Province"
+target "https://maristasiberica.es/"
+literal "false"
+
+\end_inset
+
+ is one of the Marist Provinces that has activities in Spain and Romania,
+ with 15 schools, 3 social activities and more than 15,000 students.
 \end_layout
 
 \begin_layout Subsection
@@ -315,9 +360,17 @@ name "sec:durango"
 \end_layout
 
 \begin_layout Standard
-Maristak Durango Ikastetxea [https://www.maristak.com/] is an Educational
- Community of social initiative, concerted, confessional, committed to today's
- environment and society, open to all people from simplicity and closeness.
+\begin_inset CommandInset href
+LatexCommand href
+name "Maristak Durango Ikastetxea"
+target "https://www.maristak.com/"
+literal "false"
+
+\end_inset
+
+ is an Educational Community of social initiative, concerted, confessional,
+ committed to today's environment and society, open to all people from simplicit
+y and closeness.
 \end_layout
 
 \begin_layout Standard
@@ -343,26 +396,6 @@ Humanistic and Social Sciences (models A and D).
 \begin_layout Enumerate
 Scientific and technological (models A and D).
  
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Comment
-status open
-
-\begin_layout Plain Layout
-Model A: teaching in Spanish as a vehicular language, except in the subject
- of Basque Language and Literature.
- 
-\end_layout
-
-\begin_layout Plain Layout
-Model D: teaching in Basque as a vehicular language, except in the subject
- of Spanish Language and Literature.
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \end_deeper
@@ -400,17 +433,43 @@ Training for Employment (non-regulated training).
 \end_layout
 
 \begin_layout Standard
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Model A: teaching in Spanish as a vehicular language, except in the subject
+ of Basque Language and Literature.
+ 
+\end_layout
+
+\begin_layout Plain Layout
+Model D: teaching in Basque as a vehicular language, except in the subject
+ of Spanish Language and Literature.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 In general, the age range of the students enrolled in these stages is approximat
 ely between 16 and 18 in High School, between 15 and 18 in VET basic, between
  16 and 17 in VET Middle and greater than or equal to 18 in VET High.
 \end_layout
 
 \begin_layout Standard
-According to data from non-university education in the Basque Country 2018/2019,
- published by the Statistics of School Activity, Department of Education
- of the Basque Government [https://www.euskadi.eus/informacion/publicaciones-dae/w
-eb01-a2hestat/es/], in the autonomous community there are 387 centers that
- offer high school and / or voacational education.
+According to data from non-university education in the Basque Country, published
+ by the Statistics of School Activity 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "EducationDepartment2019"
+literal "false"
+
+\end_inset
+
+, in the autonomous community there are 387 centers that offer high school
+ and / or voacational education.
 \end_layout
 
 \begin_layout Standard
@@ -445,24 +504,49 @@ Higher Degree: 21,468 (women: 7,691.
 \end_deeper
 \begin_layout Standard
 According to the data published from the survey on Information and Communication
- Technologies in the Educational Centers of the Basque Country 2016-17 [https://
-www.euskadi.eus/informacion/publicaciones-tic/web01-a2hestat/es/], 59.18% of
- the centers in the Basque Country participate in projects related to educationa
-l technologies,where includes Maristak Durango.
+ Technologies in the Educational Centers of the Basque Country 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "EducationDepartment2017"
+literal "false"
+
+\end_inset
+
+, 59.18% of the centers in the Basque Country participate in projects related
+ to educational technologies,where includes Maristak Durango.
 \end_layout
 
 \begin_layout Standard
-In relation to the applied methodologies, Cooperative Learning [Kagan,S.
- 1994.
- Kagan cooperative learning.
- 2nd ed.
- San Clemente, CA: Kagan Publishing.] in High School, while VET cycles work
- in the ETHAZI (High Performance Cycles) model [https://ethazi.tknika.eus/],
- where the central element on which the whole learning model is articulated
- is collaborative based learning based on challenges, a methodology promoted
- by TKnika (a centre promoted by the Deputy Ministry of Vocational Education
- and Training of the Education Department of the Basque Government) [https://tkn
-ika.eus/].
+In relation to the applied methodologies, Cooperative Learning 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Kagan1994"
+literal "false"
+
+\end_inset
+
+ in High School, while VET cycles work in the 
+\begin_inset CommandInset href
+LatexCommand href
+name "ETHAZI"
+target "https://ethazi.tknika.eus/"
+literal "false"
+
+\end_inset
+
+ (High Performance Cycles) model, where the central element on which the
+ whole learning model is articulated is collaborative based learning based
+ on challenges, a methodology promoted by 
+\begin_inset CommandInset href
+LatexCommand href
+name "Tknika"
+target "https://tknika.eus/"
+literal "false"
+
+\end_inset
+
+ (a centre promoted by the Deputy Ministry of Vocational Education and Training
+ of the Education Department of the Basque Government).
 \end_layout
 
 \begin_layout Standard
@@ -527,6 +611,9 @@ During the period of confinement, of the 361 students evaluated, only 10%
  These students are Vocational students (19 higher, 14 middle and 3 basic),
  since all High School students have their own device, which has facilitated
  online work.
+ The fact of requiring a work device has not been a problem in their results,
+ since 53% of these students have improved their score, with a positive
+ average difference of 0.22 points compared to 0.15 for the rest.
 \end_layout
 
 \begin_layout Standard
@@ -543,73 +630,71 @@ For distance learning, the selection of tools, programs and platforms used
  Jamboard, etc.
 \end_layout
 
-\begin_layout Itemize
-Methodology (example):
+\begin_layout Standard
+An example in terms of the methodology followed: 
 \end_layout
 
-\begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 The class is created in Classroom.
  
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 The class assignments are created in Classroom (with due date).
  
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 The office tools are used in class activities and all documentation is saved
  in drive.
  
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 The evaluation rubric corresponding to the tasks is implemented through
  the CoRubrics plugin.
  
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 Students' work is reviewed directly in Classroom.
  
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 For exams, questionnaires are created in Classroom with the forms tool.
  
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 The schedules of the virtual classes are stored in the Classroom calendar,
  which are linked to the corresponding meet room.
  
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 Students receive all notifications by mail (Gmail).
  
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 The virtual classes are through meet, mixed with some Chrome extensions
  that make it easy to track the online class.
  Classes are recorded and automatically stored in drive, available to students.
  
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 Jamboard is used as a whiteboard in the virtual class and some Chrome extensions
  to make corrections about the student's work.
  
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 Hangouts for instant communications (chat), for example in an exam.
  
 \end_layout
 
-\end_deeper
 \begin_layout Standard
 During the learning process, student cooperation is very important, because
  students must work virtually both individually and in teams.
@@ -668,6 +753,9 @@ In the second VET courses, only those students who had something pending
 In general, as displayed in Figure 1, the student body is mostly male, but
  in VET there is still more evidence of the difference between the number
  of women versus men.
+ The most obvious cause is due to the specialties they take at school based
+ on the needs of the area, most of them related to jobs related to the male
+ sector.
 \end_layout
 
 \begin_layout Standard
@@ -680,10 +768,9 @@ status open
 \noindent
 \align center
 \begin_inset Graphics
-	filename percentage_students.pdf
-	lyxscale 50
+	filename percentage_students_s.pdf
+	lyxscale 75
 	width 100col%
-	rotateAngle 90
 
 \end_inset
 
@@ -694,7 +781,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Percentage of students.
+Percentage of students by stage, course and sex.
  F: female, M: male.
  1: firt level, 2: second level.
  HS: High School, VETB: Basic Vocational Education and Training, VETM: Middle
@@ -709,8 +796,69 @@ Percentage of students.
 
 \end_inset
 
-As evidenced in Figure 2, the line of the scores in the COVID situation
+Figure 2 shows the comparative percentages of the number of students who
+ have maintained or improved their scores, compared to those who have worsened,
+ along with the number of students in each stage and course.
+ The graph clearly shows that most of the students have improved in all
+ stages, except for the first year of VETS, which is the group with the
+ highest number of students, where the average result has decreased.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename percentage_students_PN.pdf
+	lyxscale 75
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Percentage of students by stage and course with percentage of students who
+ have improved the score with those who have worsened.
+ 1: firt level, 2: second level.
+ HS: High School, VETB: Basic Vocational Education and Training, VETM: Middle
+ Grade Vocational Education and Training, VETS: Higher Degree Vocational
+ Education and Training.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+As evidenced in Figure 3, the line of the scores in the COVID situation
  is above the line of the scores in the normal situation, in most cases.
+ The first High School course has obtained the highest average score and
+ the second VETB course is the one with the lowest score, where the approved
+ average grade is not reached.
+ The cause of this situation is not due to the COVID situation because in
+ the comparison it can be seen that they do not worsen, but rather that
+ some students who had difficulties beforehand have dropped out of online
+ classes, which significantly lowers the average course score.
 \end_layout
 
 \begin_layout Standard
@@ -736,8 +884,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Average scores.
- F: female, M: male.
+Average scores by stage and course.
  1: firt level, 2: second level.
  HS: High School, VETB: Basic Vocational Education and Training, VETM: Middle
  Grade Vocational Education and Training, VETS: Higher Degree Vocational
@@ -755,11 +902,22 @@ Average scores.
 \end_layout
 
 \begin_layout Standard
-Figure 3 shows the difference between the scores in the normal situation,
- compared to the COVID situation.
- In most cases, the difference is positive, 62% vs.
- 38% that has affected it negatively, as shown in Table 1.
- 
+Figure 4 shows the difference between the average scores in the normal situation
+, compared to the COVID situation.
+ In most cases, the difference is positive, 66% vs.
+ 34% that has affected it negatively.
+ The greatest positive difference has been obtained by the second group
+ of VETM, with an average 0.76 point improvement.
+ On the other hand, the first of VETM and VETS have obtained a negative
+ difference of -0.04 and -0.21.
+ Although the difference is not excessive, the reason could have been due
+ to the fact that the student who usually in these stages and course are
+ working as a team in solving the challenges, has not been benefited by
+ the scores of the group work, with which It can be deduced that collaborative
+ work has failed in online classes, since not being sneaky together affects
+ their work and consequently their results.
+ The second VET courses have worked differently, since in this period they
+ no longer worked on the challenges.
 \end_layout
 
 \begin_layout Standard
@@ -785,8 +943,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Difference scores.
- F: female, M: male.
+Difference scores by stage and course.
  1: firt level, 2: second level.
  HS: High School, VETB: Basic Vocational Education and Training, VETM: Middle
  Grade Vocational Education and Training, VETS: Higher Degree Vocational
@@ -798,6 +955,76 @@ Difference scores.
 
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The results also show how, in the High School stage, the average of the
+ students in the different levels has obtained good results in the evaluation
+ carried out in online format, compared to the face-to-face, which shows
+ that they are digitally prepared to face a situation of sudden change in
+ relation to the digital resources used in learning.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+SELECTIVIDAD
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Figure 5 shows the maximum average results that the student has obtained
+ in both situations, where it can be seen that the maximum scores have improved
+ in most cases, except in the first case of VETS, which is directly related
+ to the decrease in the average of scores commented previously.
+ The second VETM course is the one that has improved the maximum score the
+ most, 1.5 points, up to a maximum of 7 points.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename scores_max.pdf
+	lyxscale 75
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Maximum average results by stage and course, in normal situation compared
+ to the COVID situation.
+ 1: firt level, 2: second level.
+ HS: High School, VETB: Basic Vocational Education and Training, VETM: Middle
+ Grade Vocational Education and Training, VETS: Higher Degree Vocational
+ Education and Training.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Plain Layout
 
 \end_layout
@@ -808,17 +1035,29 @@ Difference scores.
 \end_layout
 
 \begin_layout Standard
-The results show how in the High School stage, the average of the students
- in the different levels and sexes has obtained better results in the evaluation
- carried out in online format, compared to the face-to-face, which shows
- that they have been digitally prepared to face to a situation of sudden
- change in relation to the digital resources used in learning.
-\end_layout
-
-\begin_layout Standard
 Table 1 shows the final results of the students evaluated in the COVID situation
 , where it is evident that except in the higher cycle (average: -0.17 points),
  the rest of the stages have been positively affected by them.
+\end_layout
+
+\begin_layout Standard
+Of the 361 students evaluated in total, they have obtained an average of
+ 5.90 points in the evaluation of the different subjects of the corresponding
+ stage during a period prior to the covid situation (normal, face-to-face),
+ compared to an average of 6.02 points in the covid location (online).
+ The difference is positive, 0.12 points.
+ 62% of the students have improved or maintained their results, compared
+ to 38% who have decreased their scores.
+ High school, with 37.67% of the total amount, is the stage where the best
+ results have been obtained, with an improvement of 0.45 points, where 79%
+ of students have benefited from an improvement in their grades.
+ Higher Degree Vocational Education and Training, which represents 29.09%,
+ is the only stage where the average result has decreased 0.17 points, although
+ 43% of students have improved their score.
+ Middle Grade Vocational Education and Training, which represents 23.27%,
+ has increased 0.15 points and Basic Vocational Education and Training, which
+ represents 9.97%, has also improved by 0.06 average points in 61% of the
+ students.
 \end_layout
 
 \begin_layout Standard
@@ -829,9 +1068,10 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Tabular
-<lyxtabular version="3" rows="6" columns="7">
+<lyxtabular version="3" rows="6" columns="8">
 <features tabularvalignment="middle">
 <column alignment="center" valignment="middle" width="1cm">
+<column alignment="center" valignment="middle" width="0.8cm">
 <column alignment="center" valignment="middle" width="0.8cm">
 <column alignment="center" valignment="middle" width="0.8cm">
 <column alignment="center" valignment="middle" width="0.8cm">
@@ -857,6 +1097,17 @@ STAGE
 
 \size small
 STUDENTS
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+% STUDENTS
 \end_layout
 
 \end_inset
@@ -940,6 +1191,15 @@ HIGH SCHOOL
 
 \end_inset
 </cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+37.67%
+\end_layout
+
+\end_inset
+</cell>
 <cell alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
@@ -1015,6 +1275,15 @@ VET: BASIC
 
 \size small
 36
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+9.97%
 \end_layout
 
 \end_inset
@@ -1098,13 +1367,11 @@ VET: MIDDLE
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\size small
-5.57
+23.27%
 \end_layout
 
 \end_inset
@@ -1115,7 +1382,7 @@ VET: MIDDLE
 \begin_layout Plain Layout
 
 \size small
-5.72
+5.85
 \end_layout
 
 \end_inset
@@ -1126,7 +1393,18 @@ VET: MIDDLE
 \begin_layout Plain Layout
 
 \size small
-0.15
+5.99
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+0.13
 \end_layout
 
 \end_inset
@@ -1177,13 +1455,20 @@ VET: HIGH
 
 \end_inset
 </cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+29.09%
+\end_layout
+
+\end_inset
+</cell>
 <cell alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\size small
-5.95
+6.13
 \end_layout
 
 \end_inset
@@ -1194,7 +1479,7 @@ VET: HIGH
 \begin_layout Plain Layout
 
 \size small
-5.78
+5.95
 \end_layout
 
 \end_inset
@@ -1256,13 +1541,13 @@ TOTAL
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="middle" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \size small
-5.90
+361
 \end_layout
 
 \end_inset
@@ -1273,7 +1558,7 @@ TOTAL
 \begin_layout Plain Layout
 
 \size small
-6.02
+5.19
 \end_layout
 
 \end_inset
@@ -1284,7 +1569,7 @@ TOTAL
 \begin_layout Plain Layout
 
 \size small
-0.12
+6.35
 \end_layout
 
 \end_inset
@@ -1295,7 +1580,18 @@ TOTAL
 \begin_layout Plain Layout
 
 \size small
-62%
+0.16
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="middle" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\size small
+66%
 \end_layout
 
 \end_inset
@@ -1306,7 +1602,7 @@ TOTAL
 \begin_layout Plain Layout
 
 \size small
-38%
+34%
 \end_layout
 
 \end_inset
@@ -1323,24 +1619,9 @@ TOTAL
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Final results.
- Of the 361 students evaluated in total, they have obtained an average of
- 5.90 points in the evaluation of the different subjects of the corresponding
- stage during a period prior to the covid situation (normal, face-to-face),
- compared to an average of 6.02 points in the covid location (online).
- The difference is positive, 0.12 points.
- 62% of the students have improved or maintained their results, compared
- to 38% who have decreased their scores.
- High school, with 37.67% of the total amount, is the stage where the best
- results have been obtained, with an improvement of 0.45 points, where 79%
- of students have benefited from an improvement in their grades.
- Higher Degree Vocational Education and Training, which represents 29.09%,
- is the only stage where the average result has decreased 0.17 points, although
- 43% of students have improved their score.
- Middle Grade Vocational Education and Training, which represents 23.27%,
- has increased 0.15 points and Basic Vocational Education and Training, which
- represents 9.97%, has also improved by 0.06 average points in 61% of the
- students.
+Final results by stage, with the number of students evaluated, comparison
+ of the results in both situations and the percentage of students who have
+ improved the results compared to those who have worsened in each stage.
 \end_layout
 
 \end_inset
@@ -1352,6 +1633,15 @@ Final results.
 
 The results shown by sex in Table 2 show that women are in the minority,
  but that the result has been more positive in female students.
+\end_layout
+
+\begin_layout Standard
+In a classification by sex, of the total number of students evaluated in
+ the COVID situation, 28% are represented by the female sector, compared
+ to 72% who are men.
+ From the point of view of sex, both have improved their scores, although
+ the female sex has obtained better results, with 0.52 average points of
+ improvement.
 \end_layout
 
 \begin_layout Standard
@@ -1458,7 +1748,7 @@ FEMALE
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.93
+6.61
 \end_layout
 
 \end_inset
@@ -1467,7 +1757,7 @@ FEMALE
 \begin_inset Text
 
 \begin_layout Plain Layout
-6.64
+7.14
 \end_layout
 
 \end_inset
@@ -1476,7 +1766,7 @@ FEMALE
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.71
+0.52
 \end_layout
 
 \end_inset
@@ -1514,7 +1804,7 @@ MALE
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.82
+6.02
 \end_layout
 
 \end_inset
@@ -1523,7 +1813,7 @@ MALE
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.84
+6.04
 \end_layout
 
 \end_inset
@@ -1532,7 +1822,7 @@ MALE
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.03
+0.01
 \end_layout
 
 \end_inset
@@ -1570,7 +1860,7 @@ TOTAL
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.87
+6.19
 \end_layout
 
 \end_inset
@@ -1579,7 +1869,7 @@ TOTAL
 \begin_inset Text
 
 \begin_layout Plain Layout
-6.24
+6.35
 \end_layout
 
 \end_inset
@@ -1588,7 +1878,7 @@ TOTAL
 \begin_inset Text
 
 \begin_layout Plain Layout
-0.37
+0.16
 \end_layout
 
 \end_inset
@@ -1605,13 +1895,9 @@ TOTAL
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Results by sex.
- In a classification by sex, of the total number of students evaluated in
- the COVID situation, 28% are represented by the female sector, compared
- to 72% who are men.
- From the point of view of sex, both have improved their scores, an average
- of 0.37 points of improvement, although the female sex has obtained better
- results, with 0.71 average points of improvement.
+Final results by sex, with the number of students evaluated, comparison
+ of the results in a normal situation versus the COVID situation in each
+ stage.
 \end_layout
 
 \end_inset
