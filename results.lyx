@@ -180,9 +180,10 @@ Percentage of students by stage, course and sex.
 
 \end_inset
 
-Figure 2 shows the comparative percentages of the number of students who
- have maintained or improved their scores, compared to those who have worsened,
- along with the number of students in each stage and course.
+The comparative percentages of the number of students who have maintained
+ or improved their scores, compared to those who have worsened, together
+ with the number of students in each stage and course can be seen in Figure
+ 2.
  The graph clearly shows that most of the students have improved in all
  stages, except for the first year of VETS, which is the group with the
  highest number of students, where the average result has decreased.
@@ -235,10 +236,10 @@ As evidenced in Figure 3, the line of the scores in the COVID situation
  The first High School course has obtained the highest average score and
  the second VETB course is the one with the lowest score, where the approved
  average grade is not reached.
- The cause of this situation is not due to the COVID situation because in
- the comparison it can be seen that they do not worsen, but rather that
- some students who had difficulties beforehand have dropped out of online
- classes, which significantly lowers the average course score.
+ The cause of this situation is not due to the current emergency situation
+ because in the comparison it can be seen that they do not worsen, but rather
+ that some students who had difficulties beforehand have dropped out of
+ online classes, which significantly lowers the average course score.
 \end_layout
 
 \begin_layout Standard
@@ -282,10 +283,9 @@ Average scores by stage and course.
 \end_layout
 
 \begin_layout Standard
-Figure 4 shows the difference between the average scores in the normal situation
-, compared to the COVID situation.
- In most cases, the difference is positive, 66% vs.
- 34% that has affected it negatively.
+The difference between the mean scores in the normal situation, compared
+ to the COVID situation, which is displayed in Figure 4, shows that in most
+ cases, the difference is positive, 66% vs 34% those that are not have benefited.
  The greatest positive difference has been obtained by the second group
  of VETM, with an average 0.76 point improvement.
  On the other hand, the first of VETM and VETS have obtained a negative
@@ -350,6 +350,22 @@ The results also show how, in the High School stage, the average of the
 \end_layout
 
 \begin_layout Standard
+In the case of High School, one evidence is in the results obtained in the
+ Assessment for Access to University (EAU), where in ordinary call, 50%
+ of students have chosen to take the test and has been passed by 100% of
+ the same, with an average grade of 7.13 points.
+ On the other hand, in an extraordinary call the results have not been so
+ good, where the test has been carried out by 16% of the students, of whom,
+ it has exceeded 69%, with an average mark of 5.98 points.
+ The cause may be due to the fact that students who in a normal situation
+ would not have chosen to take the test, have been encouraged to present
+ themselves, since it was expected that it would be easier and more flexible.
+ On the other hand, due to the special situation, the test has been delayed
+ and this has affected the result since the students were in a state of
+ exhaustion with the need for vacations.
+\end_layout
+
+\begin_layout Standard
 Figure 5 shows the maximum average results that the student has obtained
  in both situations, where it can be seen that the maximum scores have improved
  in most cases, except in the first case of VETS, which is directly related
@@ -402,18 +418,18 @@ Maximum average results by stage and course, in normal situation compared
 
 \begin_layout Standard
 Table 1 shows the final results of the students evaluated in the COVID situation
-, where it is evident that except in the higher cycle (average: -0.17 points),
- the rest of the stages have been positively affected by them.
+, where it is evident that except in the upper cycle (average: -0.17 points),
+ the rest of the stages have been positively affected.
 \end_layout
 
 \begin_layout Standard
-Of the 361 students evaluated in total, they have obtained an average of
- 5.90 points in the evaluation of the different subjects of the corresponding
- stage during a period prior to the covid situation (normal, face-to-face),
- compared to an average of 6.02 points in the covid location (online).
- The difference is positive, 0.12 points.
- 62% of the students have improved or maintained their results, compared
- to 38% who have decreased their scores.
+The 361 students evaluated in total, have obtained an average of 6.19 points
+ in the evaluation of the different subjects of the corresponding stage
+ during a period prior to the COVID situation (normal, face-to-face), compared
+ to an average of 6.35 points in the situation of COVID (online).
+ The difference is positive, 0.16 points.
+ 66% of the students have improved or maintained their results, compared
+ to 34% who have decreased their scores.
  High school, with 37.67% of the total amount, is the stage where the best
  results have been obtained, with an improvement of 0.45 points, where 79%
  of students have benefited from an improvement in their grades.
@@ -421,9 +437,9 @@ Of the 361 students evaluated in total, they have obtained an average of
  is the only stage where the average result has decreased 0.17 points, although
  43% of students have improved their score.
  Middle Grade Vocational Education and Training, which represents 23.27%,
- has increased 0.15 points and Basic Vocational Education and Training, which
- represents 9.97%, has also improved by 0.06 average points in 61% of the
- students.
+ has increased 0.13 points and Basic Vocational Education and Training, which
+ represents 9.97%, has also improved 61% of students with 0.06 average improvement
+ points.
 \end_layout
 
 \begin_layout Standard
@@ -924,7 +940,7 @@ TOTAL
 \begin_layout Plain Layout
 
 \size small
-5.19
+6.19
 \end_layout
 
 \end_inset
