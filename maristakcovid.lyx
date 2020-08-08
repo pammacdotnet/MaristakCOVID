@@ -78,7 +78,7 @@ End
 \use_dash_ligatures false
 \graphics default
 \default_output_format default
-\output_sync 0
+\output_sync 1
 \bibtex_command bibtex
 \index_command default
 \float_placement h

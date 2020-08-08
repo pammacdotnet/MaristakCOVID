@@ -254,7 +254,7 @@ status open
 \begin_inset Graphics
 	filename scores.pdf
 	lyxscale 75
-	width 100col%
+	width 92col%
 
 \end_inset
 
@@ -312,7 +312,7 @@ status open
 \begin_inset Graphics
 	filename scores_diff.pdf
 	lyxscale 75
-	width 100col%
+	width 85col%
 
 \end_inset
 
@@ -449,19 +449,38 @@ sideways false
 status open
 
 \begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+arraystretch}{1.8}
+\end_layout
+
+\end_inset
+
+
+\size small
+
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="8">
 <features tabularvalignment="middle">
-<column alignment="center" valignment="middle" width="0.8cm">
-<column alignment="center" valignment="middle" width="0.8cm">
-<column alignment="center" valignment="middle" width="0.8cm">
-<column alignment="center" valignment="middle" width="0.8cm">
-<column alignment="center" valignment="middle" width="0.8cm">
-<column alignment="center" valignment="middle" width="0.75cm">
-<column alignment="center" valignment="middle" width="0.8cm">
-<column alignment="center" valignment="middle" width="0.8cm">
+<column alignment="center" valignment="middle" width="0.83cm">
+<column alignment="center" valignment="middle" width="0.34cm">
+<column alignment="center" valignment="middle" width="0.34cm">
+<column alignment="center" valignment="middle" width="0.87cm">
+<column alignment="center" valignment="middle" width="0.88cm">
+<column alignment="center" valignment="middle" width="0.55cm">
+<column alignment="center" valignment="middle" width="0.78cm">
+<column alignment="center" valignment="middle" width="0.78cm">
 <row>
-<cell alignment="center" valignment="middle" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -472,29 +491,29 @@ STAGE
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="middle" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \size small
-STUDENTS
+#
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \size small
-% STUDENTS
+%
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="middle" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -505,7 +524,7 @@ PRE-COVID SCORE
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="middle" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -516,7 +535,7 @@ COVID SCORE
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="middle" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -527,7 +546,7 @@ DIFF
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="middle" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="middle" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -538,13 +557,13 @@ DIFF
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="middle" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="middle" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 
 \size small
-- RESULTS
+– RESULTS
 \end_layout
 
 \end_inset
@@ -557,7 +576,7 @@ DIFF
 \begin_layout Plain Layout
 
 \size small
-HIGH SCHOOL
+HIGH
 \end_layout
 
 \end_inset
@@ -577,7 +596,9 @@ HIGH SCHOOL
 \begin_inset Text
 
 \begin_layout Plain Layout
-37.67%
+
+\size small
+38
 \end_layout
 
 \end_inset
@@ -645,7 +666,7 @@ HIGH SCHOOL
 \begin_layout Plain Layout
 
 \size small
-VET: BASIC
+VETB
 \end_layout
 
 \end_inset
@@ -665,7 +686,9 @@ VET: BASIC
 \begin_inset Text
 
 \begin_layout Plain Layout
-9.97%
+
+\size small
+10
 \end_layout
 
 \end_inset
@@ -733,7 +756,7 @@ VET: BASIC
 \begin_layout Plain Layout
 
 \size small
-VET: MIDDLE
+VETM
 \end_layout
 
 \end_inset
@@ -753,7 +776,9 @@ VET: MIDDLE
 \begin_inset Text
 
 \begin_layout Plain Layout
-23.27%
+
+\size small
+22
 \end_layout
 
 \end_inset
@@ -821,7 +846,7 @@ VET: MIDDLE
 \begin_layout Plain Layout
 
 \size small
-VET: HIGH
+VETH
 \end_layout
 
 \end_inset
@@ -841,7 +866,9 @@ VET: HIGH
 \begin_inset Text
 
 \begin_layout Plain Layout
-29.09%
+
+\size small
+30
 \end_layout
 
 \end_inset
@@ -850,6 +877,8 @@ VET: HIGH
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\size small
 6.13
 \end_layout
 
@@ -929,7 +958,7 @@ TOTAL
 \begin_layout Plain Layout
 
 \size small
-361
+100
 \end_layout
 
 \end_inset
@@ -1030,20 +1059,37 @@ In a classification by sex, of the total number of students evaluated in
 \begin_inset Float table
 wide false
 sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset ERT
 status open
 
 \begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+arraystretch}{1.8}
+\end_layout
+
+\end_inset
+
+
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="6">
 <features tabularvalignment="middle">
 <column alignment="center" valignment="middle" width="1cm">
+<column alignment="center" valignment="middle" width="1.6cm">
 <column alignment="center" valignment="middle" width="1cm">
 <column alignment="center" valignment="middle" width="1cm">
 <column alignment="center" valignment="middle" width="1cm">
-<column alignment="center" valignment="middle" width="1cm">
-<column alignment="center" valignment="middle" width="1cm">
+<column alignment="center" valignment="middle" width="0.6cm">
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1052,7 +1098,7 @@ SEX
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1061,7 +1107,7 @@ EVALUATED STUDENTS
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1070,7 +1116,7 @@ EVALUATED STUDENTS
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1079,7 +1125,7 @@ PRE-COVID SCORE
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1092,14 +1138,14 @@ COVID SCORE
 \begin_inset Text
 
 \begin_layout Plain Layout
-DIFFERENCE
+DIFF
 \end_layout
 
 \end_inset
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1108,7 +1154,7 @@ FEMALE
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1117,16 +1163,16 @@ FEMALE
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-28%
+28
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1135,7 +1181,7 @@ FEMALE
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1144,7 +1190,7 @@ FEMALE
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1155,7 +1201,7 @@ FEMALE
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1164,7 +1210,7 @@ MALE
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1173,16 +1219,16 @@ MALE
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-72%
+72
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1191,7 +1237,7 @@ MALE
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1200,7 +1246,7 @@ MALE
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1211,7 +1257,7 @@ MALE
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1220,7 +1266,7 @@ TOTAL
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1229,16 +1275,16 @@ TOTAL
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-100%
+100
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1247,7 +1293,7 @@ TOTAL
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1256,7 +1302,7 @@ TOTAL
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
