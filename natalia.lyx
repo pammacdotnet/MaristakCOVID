@@ -117,12 +117,15 @@ name "sec:covid+education"
 The COVID-19 is an infectious disease detected in Wuhan, China, in December
  2019.
  Its quick spread provoked a worldwide pandemic declared by the World Health
- Organization (WHO) the March, 11th 2020, when more than 80.000 cases and
- 3.100 deaths were registered in China and more than 37.000 cases were detected
+ Organization (WHO) the March 11, 2020, when more than 80.000 cases and 3.100
+ deaths were registered in China and more than 37.000 cases were detected
  in the rest of the world.
  Life of citizens around the world was affected, since extraordinary measures
  to contain the pandemic included, between others, preventive quarantine
- 
+\begin_inset space ~
+\end_inset
+
+
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Xie2020"
@@ -132,7 +135,11 @@ literal "false"
 
 .
  Diverse spheres of society were affected by those measures, with a high
- impact in economy 
+ impact in economy
+\begin_inset space ~
+\end_inset
+
+
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Fernandes2020"
@@ -187,8 +194,15 @@ literal "false"
 
 \begin_layout Standard
 In view of the long-term suspension of classes, the Chinese Ministry of
- Education launched the initiative “suspending classes without stopping
- learning” 
+ Education launched the initiative 
+\emph on
+suspending classes without stopping learning
+\emph default
+
+\begin_inset space ~
+\end_inset
+
+
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Zhang2020"
@@ -211,7 +225,11 @@ literal "false"
 \begin_layout Standard
 While the effect of the pandemic advanced worldwide, the different countries
  took social distancing, isolation and quarantine measures, including restrictio
-ns to educational centers 
+ns to educational centers
+\begin_inset space ~
+\end_inset
+
+
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Nicola2020"
@@ -231,7 +249,7 @@ literal "false"
 \begin_layout Standard
 Although these initiatives have a clear goal to break the spread of the
  disease, some co-lateral effects have been found.
- For example, 
+ For example, authors in 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Rundle2020"
@@ -240,7 +258,11 @@ literal "false"
 \end_inset
 
  have put the focus on sedentarism and gain of weight of confined students,
- and 
+ and
+\begin_inset space ~
+\end_inset
+
+
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Nicola2020"
@@ -257,7 +279,7 @@ literal "false"
 \end_layout
 
 \begin_layout Subsection
-The SARS-CoV-2 pandemic and the Spanish educational systems
+The SARS-CoV-2 pandemic and the Spanish educational system
 \begin_inset space ~
 \end_inset
 
@@ -272,9 +294,14 @@ name "sec:covid+spain"
 \end_layout
 
 \begin_layout Standard
+XXX Educación descentralizada por comunidad autónoma.
+ Introducir el concepto de región autónoma…
+\end_layout
+
+\begin_layout Standard
 The first case of COVID-19 in Spain was published
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Flex URL
@@ -282,8 +309,7 @@ status open
 
 \begin_layout Plain Layout
 
-https://www.redaccionmedica.com/secciones/sanidad-hoy/coronavirus-infectados-espan
-a-y-evolucion-covid19-desde-origen-4148
+https://bit.ly/covidevolspain
 \end_layout
 
 \end_inset
@@ -398,7 +424,17 @@ https://www.boe.es/eli/es/rd/2020/03/14/463/con
 
 \end_inset
 
- also indicated 
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+¿Qué legal document?
+\end_layout
+
+\end_inset
+
+also indicated 
 \emph on
 Containment measures for education and training
 \emph default
@@ -485,7 +521,7 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-After a de-escalating period, the state of alarm was deposed on June, 21st
+After a de-escalating period, the state of alarm was deposed on June 21,
  2020, and the summer break gave the possibility to analyze the results
  and to prepare the next academic year.
  The Ministry of Education promotes the restart of face-to-face education,

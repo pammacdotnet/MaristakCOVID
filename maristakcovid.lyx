@@ -28,6 +28,14 @@
 \urlstyle{tt}
 \renewcommand\UrlFont{\color{blue}\ttfamily\footnotesize}
 \usepackage[super]{nth}
+
+\makeatletter
+\renewenvironment{description}%
+               {\list{}{\leftmargin=10pt % <------- Adjust this length
+                        \labelwidth\z@ \itemindent-\leftmargin
+                        \let\makelabel\descriptionlabel}}%
+               {\endlist}
+\makeatother
 \end_preamble
 \options journal
 \use_default_options false
@@ -283,6 +291,56 @@ filename "abstract.lyx"
 \end_inset
 
 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+let
+\backslash
+ref
+\backslash
+Cref
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand
+\backslash
+equationautorefname{
+\backslash
+@gobble}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+Crefformat{table}{#2Table~#1#3}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand
+\backslash
+UrlFont{
+\backslash
+color{blue}
+\backslash
+ttfamily
+\backslash
+footnotesize}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -350,7 +408,7 @@ filename "conclusions.lyx"
 \end_layout
 
 \begin_layout Section*
-Acknowlegment
+Acknowledgement
 \end_layout
 
 \begin_layout Standard
