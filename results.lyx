@@ -116,21 +116,12 @@ name "sec:results"
 \begin_layout Standard
 Results of the analysis carried out on the qualifications of the students
  in a normal situation compared to the emergency situation (online).
-\end_layout
-
-\begin_layout Standard
-In order to compare the results of the students to analyse the impact of
+ In order to compare the results of the students to analyse the impact of
  the sudden change in the format on their learning, the grades obtained
  in a period prior to the emergency situation were taken, where the training
- was carried out normally (face-to-face), and on the other hand, the qualificati
-ons obtained in the period of the state of emergency have been taken, where
- 100% of the training has been carried out in online format.
-\end_layout
-
-\begin_layout Standard
-In the second VET courses, only those students who had something pending
- for the second call have been selected, since the first call ends in February,
- so they have not had to work online.
+ was carried out normally (F2F), and on the other hand, the qualifications
+ obtained in the period of the state of emergency have been taken, where
+ 100% of the training has been carried out in DL.
 \end_layout
 
 \begin_layout Standard
@@ -171,7 +162,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Percentage of students by stage, course and sex.
+Percentage of students by stage, course and gender.
  F: female, M: male.
  1: first level, 2: second level.
  HS: High School, VETB: Basic Vocational Education and Training, VETM: Middle
@@ -413,9 +404,9 @@ name "fig:diffscores"
 \begin_layout Standard
 The results also show how, in the High School stage, the average of the
  students in the different levels has obtained good results in the evaluation
- carried out in online format, compared to the face-to-face, which shows
- that they are digitally prepared to face a situation of sudden change in
- relation to the digital resources used in learning.
+ carried out in DL, compared to the F2F, which shows that they are digitally
+ prepared to face a situation of sudden change in relation to the digital
+ resources used in learning.
  
 \end_layout
 
@@ -424,9 +415,9 @@ In the case of High School, one evidence is in the results obtained in the
  Assessment for Access to University (EAU), where in ordinary call, 50%
  of students have chosen to take the test and has been passed by 100% of
  the same, with an average grade of 7.13 points.
- On the other hand, in an extraordinary call the results have not been so
- good, where the test has been carried out by 16% of the students, of whom,
- it has exceeded 69%, with an average mark of 5.98 points.
+ In the extraordinary call the results have not been as good although better
+ than the previous year, where the test has been carried out by 16% of the
+ students, of which it has exceeded 77%.
  The cause may be due to the fact that students who in a normal situation
  would not have chosen to take the test, have been encouraged to present
  themselves, since it was expected that it would be easier and more flexible.
@@ -514,13 +505,10 @@ reference "tab:finalresults"
 , we show the final results of the students evaluated in the COVID situation,
  where it is evident that except in the upper cycle (average: -0.17 points),
  the rest of the stages have been positively affected.
-\end_layout
-
-\begin_layout Standard
-The 361 students evaluated in total, have obtained an average of 6.19 points
+ The 361 students evaluated in total, have obtained an average of 6.19 points
  in the evaluation of the different subjects of the corresponding stage
- during a period prior to the COVID situation (normal, face-to-face), compared
- to an average of 6.35 points in the situation of COVID (online).
+ during a period prior to the COVID situation (normal, F2F), compared to
+ an average of 6.35 points in the situation of COVID (DL).
  The difference is positive, 0.16 points.
  66% of the students have improved or maintained their results, compared
  to 34% who have decreased their scores.
@@ -1213,16 +1201,6 @@ name "tab:finalresults"
 \end_inset
 
  
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Acorta el texto del caption y ponlo en el cuerpo del texto.
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \end_inset
@@ -1241,22 +1219,23 @@ reference "tab:resultsbysex"
 
  show that women are in the minority, but that the result has been more
  positive in female students.
-\end_layout
-
-\begin_layout Standard
-In a classification by sex, of the total number of students evaluated in
- the COVID situation, 28% are represented by the female sector, compared
- to 72% who are men.
- From the point of view of sex, both have improved their scores, although
- the female sex has obtained better results, with 0.52 average points of
- improvement.
+ In a classification by gender, of the total number of students evaluated
+ in the COVID situation, 28% are represented by the female sector, compared
+ to 72% who are male.
+ From the point of view of gender, both have improved their scores, although
+ the female gender has obtained better results, with 0.52 average points
+ of improvement.
+ The difference may be due to the fact that females are a minority, of which
+ if the result is positive, it is more evident, and on the other hand, it
+ may be due to the fact that females have organized themselves better and
+ have fewer distractions in front of the computer.
 \end_layout
 
 \begin_layout Standard
 \begin_inset Float table
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \noindent
@@ -1302,7 +1281,7 @@ rowcolor[gray]{0.8}
 
 \end_inset
 
-SEX
+GENDER
 \end_layout
 
 \end_inset
@@ -1580,7 +1559,7 @@ TOTAL
 
 \begin_layout Plain Layout
 Final results (F2F vs.
- DL) grouped by sex.
+ DL) grouped by gender.
 \begin_inset space ~
 \end_inset
 
@@ -1602,7 +1581,7 @@ name "tab:resultsbysex"
 \end_inset
 
 According to the teaching staff, students in general have adapted well to
- the situation of the online format.
+ the situation of the DL.
  Some stages have meant a greater challenge for the teacher due to the fact
  of connecting or engaging with the students from a distance, due to the
  special casuistry of the students, but once they managed to attract the
@@ -1611,38 +1590,20 @@ According to the teaching staff, students in general have adapted well to
  drop out because they are not in school, since it is not easy to follow
  up from a distance, especially with the distractions that exist and without
  any control.
-\end_layout
-
-\begin_layout Standard
-An attempt has been made to respect the schedule and classes as they were
- proposed for the face-to-face format, trying to replicate all possible
- activities to the new format, although some practices have had to be adapted
- or postponed.
- 
-\end_layout
-
-\begin_layout Standard
-Group work among the students themselves has been another challenge, since
+ An attempt has been made to respect the schedule and classes as they were
+ proposed for the F2F format, trying to replicate all possible activities
+ to the new format, although some practices have had to be adapted or postponed.
+ Group work among the students themselves has been another challenge, since
  the methodologies applied in the school required students to work as a
  team to carry out the activities.
- 
-\end_layout
-
-\begin_layout Standard
-The timing of assessment has been the most complex issue, because it is
+ The timing of assessment has been the most complex issue, because it is
  not easy to have the control of the students as it is in class, and after
  many meetings on how to proceed, the evaluation tasks have had to be adapted
  to ensure that the alumando has managed to achieve the required learning
  objectives.
-\end_layout
-
-\begin_layout Standard
-Many meetings have been held among teachers to cope with the sudden change
+ Many meetings have been held among teachers to cope with the sudden change
  and to work in coordination.
-\end_layout
-
-\begin_layout Standard
-Definitively, the difficulties and problems that exist in the classroom
+ Definitively, the difficulties and problems that exist in the classroom
  have been transferred to the online class, making it clear that the transition
  has been satisfactory in terms of the digital resources used in the classroom.
 \end_layout
