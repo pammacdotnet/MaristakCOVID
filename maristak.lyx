@@ -145,7 +145,7 @@ Compostela, Ibérica, L'Hermitage and Mediterránea
 Marist Conference of Provinces with activities in Spain
 \emph default
  or CME, for short.The essential objective of the CME is to serve the common
- interests of the member Provinces and each year the CME coordinates the
+ interests of the member provinces and each year the CME coordinates the
  development of teaching materials and resources around a motto that serves
  as motivation throughout the course for the classrooms.
  The four Marist Provinces offer different formative proposals, which have
@@ -184,6 +184,18 @@ literal "false"
 
  is one of the Marist Provinces that has activities in Spain and Romania,
  with 15 schools, 3 social activities and more than 15,000 students.
+ The schools are distributed by the communities that belong to the province,
+ , as can be seen in the map represented in 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:map-schools"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+:
 \end_layout
 
 \begin_layout Standard
@@ -191,10 +203,76 @@ literal "false"
 status open
 
 \begin_layout Plain Layout
-MAPA: Chamberí 1.571 Bilbao 1.282 Zalla 635 Erandio 650 Guadalajara 708 Durango
- 504 Navalmoral 581 San José del Parque 1.318 Logroño 1.588 Villalba 702 Sarrigure
-n 1.759 Zaragoza 1.078 Toledo 1.262 Talavera 835 Espiral 86 Centro Universit.
+DATOS MAPA: 
+\end_layout
+
+\begin_layout Plain Layout
+País Vasco: Bilbao 1.282, Zalla 635, Erandio 650, Durango 504 
+\end_layout
+
+\begin_layout Plain Layout
+Madrid: Chamberí 1.571, San José del Parque 1.318, Villalba 702, Espiral 86,
+ Centro Universit.
  Cardenal Cisneros 1.357
+\end_layout
+
+\begin_layout Plain Layout
+La Rioja: Logroño 1.588
+\end_layout
+
+\begin_layout Plain Layout
+Extremadura: Navalmoral de la Mata 581
+\end_layout
+
+\begin_layout Plain Layout
+Navarra: Sarriguren 1.759
+\end_layout
+
+\begin_layout Plain Layout
+Castilla-La Mancha: Toledo 1.262, Talavera 835, Guadalajara 708
+\end_layout
+
+\begin_layout Plain Layout
+Aragón; Zaragoza 1.078
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename maristas_iberica.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Map with schools and number of students in the Iberian Marist province.
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:map-schools"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -210,7 +288,7 @@ Maristas Ibérica
  stands out for its involvement in educational innovation and its strong
  commitment to technology in the educational environment.
  In recent years, a great deal of work has been done on the incorporation
- of ICTs in the classroom, which establishes it as a benchmark in this field,
+ of ICT in the classroom, which establishes it as a benchmark in this field,
  allowing an analysis of great interest to the entire educational community,
  with the aim of continuing to progress in obtaining better results.
 \end_layout
@@ -285,13 +363,9 @@ One of the criteria for implementing innovation in a Marist school is that
  economic status.
  Educators' job is to make sure they receive the same tools and knowledge
  to help reduce the digital divide.
- 
-\end_layout
-
-\begin_layout Standard
-The methodological proposal raises a new technological paradigm, where the
- focus of Information Technology turns to Learning Technology, so that technolog
-y serves as a vehicle to achieve meaningful learning by students.
+ The methodological proposal raises a new technological paradigm, where
+ the focus of Information Technology turns to Learning Technology, so that
+ technology serves as a vehicle to achieve meaningful learning by students.
  As objectives, the aim is to improve the digital competence of students,
  measuring the evolution in the acquisition of this competence.
  And on the other hand, establish technological tools as elements of methodologi
@@ -310,18 +384,10 @@ ning process.
 \end_layout
 
 \begin_layout Standard
-The Department of Education of the Basque Government, through the 
-\begin_inset Quotes bld
-\end_inset
-
-DECREE 174/2012, of September 11, which approves the Technological Maturity
- Model of the Educational Center (ICT Maturity) and establishes the certificatio
-ns and certifying stamps of the different maturity levels of educational
- centers
-\begin_inset Quotes brd
-\end_inset
-
- 
+The Department of Education of the Basque Government, by decree approves
+ the Model of Technological Maturity of the Educational Center (ICT Maturity)
+ and establishes the certifications and accrediting seals of the different
+ levels of maturity of the educational centers 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "EducationDepartment2012"
@@ -337,20 +403,18 @@ literal "false"
  the incorporation of digital content in the different subjects, the implementat
 ion of telematic platforms that support pedagogical, administrative and
  communication work and relations with the school community.
-\end_layout
-
-\begin_layout Standard
-The Educational Maturity Model of the Educational Center will serve as a
- frame of reference with which to compare and to have as a shared objective;
+ The Educational Maturity Model of the Educational Center will serve as
+ a frame of reference with which to compare and to have as a shared objective;
  and to be a guide for the effective and efficient digitization of the pedagogic
 al and administrative processes of each educational center.
- This model allows obtaining an exact diagnosis of the technological situation
- of a school, and the improvement path to follow to reach the agreed level.
- This model allows assessing the degree of digitization of the processes
- of a school and marking the line to follow in terms of technologies, practices
- and capacities of all agents of the educational community, to achieve the
- following levels of technological maturity, taking into account the peculiariti
-es and specific needs of each center.
+ This model allows to obtain an exact diagnosis of the technological situation
+ of a school, and the improvement path to follow in order to reach the agreed
+ level.
+ It also makes it possible to assess the degree of digitization of the processes
+ of a school and mark the line to follow in terms of technologies, practices
+ and capacities of all the agents of the educational community, to reach
+ the levels of technological maturity, taking into account the peculiarities
+ and specific needs of each center.
  The model is structured in three levels (basic, medium and advanced) that
  gradually increase the degree of digitization of the processes of an educationa
 l center and the involvement of teachers in the use of ICT.
@@ -367,7 +431,7 @@ Maristak Durango
  of the Basque Government, achieving the Advanced Level of ICT maturity
  in 2018.
  For the research on the sudden transition from a F2F to DL training, the
- Maristak Duarngo school has been taken as a reference, due to its involvement
+ Maristak Durango school has been taken as a reference, due to its involvement
  and effort in the incorporation of ICT in the educational environment,
  with the aim of benefiting the entire educational community, current and
  future.
@@ -397,7 +461,7 @@ literal "false"
 
 \end_inset
 
- is an Educational Community of social initiative, concerted, confessional,
+ is an educational community of social initiative, concerted, confessional,
  committed to today's environment and society, open to all people from simplicit
 y and closeness.
  It is an charter school (private school that receives public funds) that
@@ -430,9 +494,9 @@ Social
 \begin_inset space ~
 \end_inset
 
-Sciences is teached in two models, A and B, where model A corresponds to
- teaching in Spanish as a vehicular language, except in the subject of Basque
- Language and Literature.
+Sciences consists of 54 students and is teached in two models, A and B,
+ where model A corresponds to teaching in Spanish as a vehicular language,
+ except in the subject of Basque Language and Literature.
  And model D, the most common in the Basque Country, refers to teaching
  in Basque as a vehicular language, except in the subject of Spanish Language
  and Literature.
@@ -447,7 +511,8 @@ and
 \begin_inset space ~
 \end_inset
 
-Technological is also teach in models A and D.
+Technological consists of 82 students and is also teach in models A and
+ D.
  
 \end_layout
 
@@ -500,7 +565,7 @@ Higher
 \begin_inset space ~
 \end_inset
 
-degree consists of 186 students distributed in the specialties of Network
+degree consists of 185 students distributed in the specialties of Network
  Computer Systems Administration, Administration and Finance, and Automation
  and Industrial Robotics, in model A.
  And Design of Mechanical Manufacturing in model D.
@@ -525,11 +590,18 @@ Employment: various courses are teach according to the demand of the current
 \end_layout
 
 \begin_layout Standard
-In general, the age range of the students enrolled in these stages is approximat
-ely between 16 and 18 for High School, between 15 and 18 for VET basic,
- between 16 and 17 for VET Middle and greater than or equal to 18 for the
- case of VET High.
- All the aforementioned information is also graphically presented in 
+In general terms, the age range of the students enrolled in these stages
+ is approximately between 16 and 18 for High School, between 15 and 18 for
+ VET basic, between 16 and 17 for VET Middle and greater than or equal to
+ 18 for the case of VET High.
+ The average age in High School for both genders is 18 years, in basic VET
+ 17, in middle VET 18 in females and 19 in males, and in higher VET, 23
+ in females and 22 in males.
+ The average age in High School is 18 in first and 19 in second, in basic
+ VET 18 in first and 19 in second, in middle VET 18 in first and 20 in second,
+ and in higher VET, 22 in first and 23 in second.
+ All the aforementioned information is also graphically presented in percentages
+ in 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "fig:categories"
@@ -537,13 +609,6 @@ reference "fig:categories"
 \end_inset
 
 .
- Percentages by gender and age, the average in High School for both genders
- is 18, in basic VET 17, in middle VET 18 in females and 19 in males, and
- in higher VET, 23 in females and 22 in males.
- Percentages by level and age, the average in High School is 18 in first
- and 19 in second, in basic VET 18 in first and 19 in second, in middle
- VET 18 in first and 20 in second, and in higher VET, 22 in first and 23
- in second.
  These data are consistent with the data from non-university education in
  the Basque Country, published by the Statistics of School Activity
 \begin_inset space ~
@@ -573,7 +638,7 @@ status open
 \begin_inset Graphics
 	filename categories_ages_gender.pdf
 	lyxscale 44
-	width 100col%
+	width 50col%
 
 \end_inset
 
@@ -581,7 +646,7 @@ status open
 \begin_inset Graphics
 	filename categories_ages_courses.pdf
 	lyxscale 44
-	width 100col%
+	width 50col%
 
 \end_inset
 
@@ -592,8 +657,8 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Schematic categorization of the students (age-gender and age-level) who
- have participated in the present study.
+Schematic categorization of students in percentages of age-gender and age-level
+ who participated in the present study.
 \begin_inset space ~
 \end_inset
 
@@ -619,13 +684,14 @@ name "fig:categories"
 
 \begin_layout Standard
 Following the province's guidelines, Maristak Durango has naturally and
- systematically incorporated ICTs as a fundamental part of the classes in
+ systematically incorporated ICT as a fundamental part of the classes in
  all its stages.
- This practice has given excellent results, since the school has higher
- stages, which has led to the implementation of technology in a more efficient
- way in the operation of the classes.
+ This practice has given excellent results so far, since the school has
+ higher stages and this has led to the implementation of the technology
+ in a more efficient way in the operation of the classes.
  Maristak Durango has always been at the forefront of educational technology,
- participating in multiple national and international projects.
+ participating in multiple national and international projects and investing
+ as much as possible.
  According to the data published from the survey on Information and Communicatio
 n Technologies in the Educational Centers of the Basque Country 
 \begin_inset CommandInset citation
@@ -673,36 +739,35 @@ literal "false"
 \end_layout
 
 \begin_layout Standard
-The effort made so far has led to the decision to measure the impact that
- this practice is having on the results of the students, in order to strengthen
- the strategy and in situations such as the state of emergency, which has
- forced a change sudden in the practice of training, is where the great
- strength that exists in the use of technological resources in the school
- has been seen.
+The effort and investment made so far, has led to the decision to measure
+ the impact that all this is having on the results of the students, in order
+ to strengthen the strategy; and in situations such as the state of emergency,
+ which has forced a sudden change in training, is where the great strength
+ that exists in the use of technological resources at school has been palpable.
  Due to the current situation in relation to COVID-19, the college determines
  and establishes issues related to the technological development of the
  center, which help to foresee, as far as possible, various actions in the
  face of a new upswing.
  For this reason, tasks, managers and timing of all the computer processes
- planned for the beginning of the next course have been defined.
- For the school, it is important to analyze the transition from classroom
- to online education.
- Thanks to the work done so far in terms of digitizing content and incorporating
- technology in the classroom, the transition has been more feasible.
+ planned for the beginning of the next course have been defined.For the school,
+ it is important to analyze the transition from F2F to DL training.
+ Thanks to the work done in terms of digitizing content and incorporating
+ technology in the classroom, the transition has been more feasible and
+ efficient.
  Both teachers and students have been prepared to face change in a satisfactory
  way, being able to respond to the needs of the situation.
  
 \end_layout
 
 \begin_layout Standard
-Within the digital project, a plan is established for the next academic
- year with the aim of reinforcing, advancing, and improving the centre's
- strategy.
- Currently, 100% of students work on digital skills in the classroom and
- teachers are in continuous training in digital skills applying a combination
- of educational tools, in addition to a careful selection of third-party
- applications with proven efficacy and safety in the educational field.,
- which are collected on a tools website with videos, manuals, instructions,
+Within the school's digital project, a plan is established for the next
+ academic year with the aim of reinforcing, advancing, and improving the
+ centre's strategy.
+ 1899/5000 Currently, 100% of students work on digital skills in the classroom
+ and teachers are in continuous training in digital skills applying a combinatio
+n of educational tools, in addition to a careful selection of third-party
+ applications, with proven efficacy and safety in the educational field,
+ which are compiled on a tools website with videos, manuals, instructions,
  tips and good practices.
  Most of the content is digitized and digital books designed for the purpose
  of presenting information using different resources such as text, graphics,
@@ -710,13 +775,13 @@ Within the digital project, a plan is established for the next academic
  will be used, that help the understanding of the subjects.
  The school has online platforms, with digital material equivalent to books
  generated by Maristak staff, and additional material, activities, etc.,
- which will help students to better understand the content of the subjects.
- In addition, students may have the necessary software licenses to install
+ which help students better understand the content of the subjects.
+ Additionally, students can have the necessary software licenses to install
  on their devices.
- Regarding devices, a commitment is made to the Bring Your Own Device (BYOD)
+ In terms of devices, it is committed to the Bring Your Own Device (BYOD)
  model.
- Faced with a situation of this type and others that may occur, it has been
- seen the need to promote from the center the possibility that students
+ Faced with a situation of this type and others that may arise, it has been
+ seen the need to promote from the center, the possibility that students
  have their own device to work from anywhere, which will allow them to alternate
  F2F classes with DL.
  During the period of confinement, of the 361 students evaluated, only 10%
