@@ -199,49 +199,6 @@ noprefix "false"
 \end_layout
 
 \begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-DATOS MAPA: 
-\end_layout
-
-\begin_layout Plain Layout
-País Vasco: Bilbao 1.282, Zalla 635, Erandio 650, Durango 504 
-\end_layout
-
-\begin_layout Plain Layout
-Madrid: Chamberí 1.571, San José del Parque 1.318, Villalba 702, Espiral 86,
- Centro Universit.
- Cardenal Cisneros 1.357
-\end_layout
-
-\begin_layout Plain Layout
-La Rioja: Logroño 1.588
-\end_layout
-
-\begin_layout Plain Layout
-Extremadura: Navalmoral de la Mata 581
-\end_layout
-
-\begin_layout Plain Layout
-Navarra: Sarriguren 1.759
-\end_layout
-
-\begin_layout Plain Layout
-Castilla-La Mancha: Toledo 1.262, Talavera 835, Guadalajara 708
-\end_layout
-
-\begin_layout Plain Layout
-Aragón; Zaragoza 1.078
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
@@ -250,6 +207,7 @@ status open
 \begin_layout Plain Layout
 \begin_inset Graphics
 	filename mapa_maristas.pdf
+	lyxscale 75
 	width 100col%
 
 \end_inset
