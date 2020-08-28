@@ -159,13 +159,44 @@ General Design of Marist Formation
 
 \begin_layout Standard
 The Marist schools in Spain are distributed among the 4 provinces, with
- 10 schools in L’Hermitage, 14 in Compostela, 17 in Mediterranean and 14
- in Iberian; and they have the educational stages of nursery, infant, primary,
- secondary, high school and Vocational Education and Training.
- In addition, the Marist community has another 17 provinces in the world,
- 3 common works, 5 NGOs and international organizations, 6 social works,
- 5 publishing houses in the world, 3 University majors and 8 centers for
- coexistence and training.
+ 10 schools in L’Hermitage, 14 in the Compostela, 17 in Mediterranean and
+ 14 in Iberian areas, respectively.
+ The offered educational stages comprise nursery, infant, primary, secondary,
+ HS and VET.
+ In addition, the Marist community has another 17 educational districts
+ in the world, 3 common works
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Qué son los common works??
+\end_layout
+
+\end_inset
+
+, 5 NGOs and international organisations, 6 social missions, 5 publishing
+ houses 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Qué son los publishing houses??
+\end_layout
+
+\end_inset
+
+, 3 College-level institutions and 8 extra centres for coexistence and training
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Qué son estos coexistence centres??
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Subsection
@@ -182,10 +213,10 @@ literal "false"
 
 \end_inset
 
- is one of the Marist Provinces that has activities in Spain and Romania,
- with 15 schools, 3 social activities and more than 15,000 students.
+ is in charge of the teaching work in Spain and Romania, with 15 schools,
+ 3 social activities and more than 15,000 students.
  The schools are distributed by the communities that belong to the province,
- , as can be seen in the map represented in 
+ as can be seen in the map represented in 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "fig:map-schools"
@@ -195,14 +226,12 @@ noprefix "false"
 
 \end_inset
 
-:
-\end_layout
-
-\begin_layout Standard
+.
+ 
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -219,7 +248,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Map with schools and number of students in the Iberian Marist province.
+Map with schools and # of students (Iberian Marist section).
 \begin_inset CommandInset label
 LatexCommand label
 name "fig:map-schools"
@@ -240,7 +269,7 @@ name "fig:map-schools"
 \end_layout
 
 \begin_layout Standard
-The province of 
+
 \emph on
 Maristas Ibérica
 \emph default
@@ -394,6 +423,60 @@ Maristak Durango
  and effort in the incorporation of ICT in the educational environment,
  with the aim of benefiting the entire educational community, current and
  future.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+\begin_inset Graphics
+	filename percentage_students_s.pdf
+	lyxscale 75
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Percentage of students by stage, course and gender.
+ F: female, M: male.
+ 1: first level, 2: second level.
+ HS: High School, VETB: Basic Vocational Education and Training, VETM: Middle
+ Grade Vocational Education and Training, VETS: Higher Degree Vocational
+ Education and Training.
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:studentclassification"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -597,15 +680,19 @@ status open
 \begin_inset Graphics
 	filename categories_ages_gender.pdf
 	lyxscale 44
-	width 50col%
+	width 45col%
 
+\end_inset
+
+
+\begin_inset space \qquad{}
 \end_inset
 
 
 \begin_inset Graphics
 	filename categories_ages_courses.pdf
 	lyxscale 44
-	width 50col%
+	width 45col%
 
 \end_inset
 
@@ -616,8 +703,8 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Schematic categorization of students in percentages of age-gender and age-level
- who participated in the present study.
+Percentage of students according to gender-level (M for boys and F for girls)
+ and age-level that have participated in the present study.
 \begin_inset space ~
 \end_inset
 
@@ -660,7 +747,7 @@ literal "false"
 
 \end_inset
 
-, 59.18% of the centers in the Basque Country participate in projects related
+, 59.18% of the centres in the Basque Country participate in projects related
  to educational technologies,where includes Maristak Durango.
 \end_layout
 

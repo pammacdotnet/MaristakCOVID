@@ -167,18 +167,42 @@ From traditional to home-confined learning: a case study in a school involved
 \begin_layout Author
 Iratxe Lejarreta, Natalia Padilla, and Alberto Corbi 
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
-Your
+Iratxe
 \begin_inset space ~
 \end_inset
 
-Name is with the Department of ..., ...
- Institute of ..., City, Country, e-mail: 
+Lejarreta is a PhD student in computer science at the Universidad Internacional
+ de La Rioja (UNIR, 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.unir.net
+\end_layout
+
+\end_inset
+
+), Logroño (La Rioja), and VET teacher of the Higher Degree in Computer
+ Science at the Maristak Durango school (
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://www.maristak.com
+\end_layout
+
+\end_inset
+
+), Bizkaia (Basque Country), Spain.
+ Email: 
 \begin_inset CommandInset href
 LatexCommand href
-target "xxx@xxx.xxx"
+target "ilejarreta@maristak.com"
 literal "false"
 
 \end_inset
@@ -193,14 +217,60 @@ literal "false"
 status open
 
 \begin_layout Plain Layout
+Natalia
+\begin_inset space ~
+\end_inset
 
+Padilla and Alberto
+\begin_inset space ~
+\end_inset
+
+Corbi are both senior researchers at the Research Institute for Innovation
+ & Technology in Education (UNIR iTED, 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://ited.unir.net
+\end_layout
+
+\end_inset
+
+) and assistant professors at the Engineering School (ESIT, 
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://ingenieria.unir.net
+\end_layout
+
+\end_inset
+
+), both belonging to the Universidad Internacional de La Rioja (UNIR), Logroño
+ (La Rioja), Spain.
+ E-mail: 
+\begin_inset CommandInset href
+LatexCommand href
+target "alberto.corbi@unir.net"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+.
 \end_layout
 
 \end_inset
 
 
-\begin_inset Foot
+\begin_inset Note Note
 status open
+
+\begin_layout Plain Layout
+\begin_inset Foot
+status collapsed
 
 \begin_layout Plain Layout
 Alberto
@@ -252,6 +322,11 @@ literal "false"
 \end_inset
 
 .
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -414,10 +489,11 @@ Acknowledgement
 
 \begin_layout Standard
 The authors would like to thank the Maristak Durango school and the Marist
- community for their commitment to this research work, and special thanks
- to the management team and all the teachers who have actively collaborated
- by providing the necessary information for the study, with a special mention
- to Hostaizka Sainz, who has been involved in an expecional way.
+ community for their commitment to this research work, and with special
+ gratitude towards the management team and all the teachers who have actively
+ collaborated.
+ Authors would also like to make a personal mention to Hostaizka Sainz,
+ who has been involved in an exceptional way.
 \end_layout
 
 \begin_layout Standard

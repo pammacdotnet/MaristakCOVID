@@ -117,11 +117,12 @@ name "sec:covid+education"
 The COVID-19 is an infectious disease detected in Wuhan, China, in December
  2019.
  Its quick spread provoked a worldwide pandemic declared by the World Health
- Organization (WHO) the March 11, 2020, when more than 80.000 cases and 3.100
+ Organisation (WHO) the March 11, 2020, when more than 80.000 cases and 3.100
  deaths were registered in China and more than 37.000 cases were detected
  in the rest of the world.
- Life of citizens around the world was affected, since extraordinary measures
- to contain the pandemic included, between others, preventive quarantine
+ The life of citizens around the world were severely affected and extraordinary
+ measures to contain the pandemic had be decreed, including preventive quarantin
+e
 \begin_inset space ~
 \end_inset
 
@@ -147,9 +148,32 @@ literal "false"
 
 \end_inset
 
+ and education.
+ However, in this paper we are focused on the impact in the latter, where,
+ as already evinced in
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:intro"
+
+\end_inset
+
+, a quick F2F2DL manoeuvre was needed
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "CovidEducation"
+literal "true"
+
+\end_inset
+
 .
- However, in this paper we are focused on the impact in education, where
- a quick transition from face-to-face to online classes was needed.
 \end_layout
 
 \begin_layout Subsection
@@ -294,11 +318,6 @@ name "sec:covid+spain"
 \end_layout
 
 \begin_layout Standard
-XXX Educación descentralizada por comunidad autónoma.
- Introducir el concepto de región autónoma…
-\end_layout
-
-\begin_layout Standard
 The first case of COVID-19 in Spain was published
 \begin_inset Foot
 status open
@@ -395,16 +414,24 @@ https://www.boe.es/eli/es/rd/2020/03/14/463/con
 \end_inset
 
 .
- The most relevant measured imposed by this state of alarm were related
- to the limitation of free circulation of people, being only allowed to
- go out to buy necessities, visit the doctor, caring of dependent people,
- or working when that was not possible to be developed online, and similar
- situation of need.
- 
+ The most relevant measures imposed by this state of alarm were related
+ to the limitation of free circulation of people (only allowed for the acquisiti
+on of food and basic goods, medical reasons, or taking care of dependent
+ people).
+ Travel to work was permitted when the employer/company requested so and
+ for those jobs considered essential (transportation, health, food dispatch,
+ etc.) as well.
+ Perhaps the only exception regarding 
+\emph on
+fundamental activities
+\emph default
+ was the academic one, where the attendance to educational centres was firmly
+ restricted to all the involved players (i.e., learners, teachers and management
+ team).
 \end_layout
 
 \begin_layout Standard
-In the educative field, the legal document
+In the educative field, the Royal Decree 463/2020 document
 \begin_inset Foot
 status open
 
@@ -424,24 +451,15 @@ https://www.boe.es/eli/es/rd/2020/03/14/463/con
 
 \end_inset
 
- 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-¿Qué legal document?
-\end_layout
-
-\end_inset
-
-also indicated 
+ also indicated 
 \emph on
-Containment measures for education and training
+containment measures for education and training
 \emph default
-, which meant the suspension of any kind of formative face-to-face formation,
- promoting the transition to an online method whenever it is possible.
- To concretize this mandate, the Ministry of Education shared a set of resources
- to be used in the online teaching
+.
+ This entailed the suspension of any kind of formative F2F formation, promoting
+ the transition to an online methodology whenever possible.
+ With more detail, in this ministerial order, the Ministry of Education
+ shared a set of resources to be used in the online teaching
 \begin_inset Foot
 status open
 
@@ -503,8 +521,12 @@ literal "true"
 
 , although both teachers and students have done their best to adapt their
  process to online education, the actual situation was not a change to a
- online teaching, but a try to continue a similar approach to the face-to-face
- education in a technology mediated scenario.
+ online teaching, but a try to continue a similar approach to the F2F education
+ in a 
+\emph on
+technology mediated scenario
+\emph default
+.
  That means that there was no time for a formation phase for teachers and
  this sudden switch to tele-working supposed a challenge for some of them.
  It also was a challenge for families, who found themselves confined at
@@ -524,16 +546,33 @@ literal "true"
 After a de-escalating period, the state of alarm was deposed on June 21,
  2020, and the summer break gave the possibility to analyze the results
  and to prepare the next academic year.
- The Ministry of Education promotes the restart of face-to-face education,
- being aware of new restrictions could be imposed and a plan to face them
- needs to be prepared.
+ The Ministry of Education promotes the restart of ordinary classroom education
+ in September 21, being aware of new restrictions could be imposed and a
+ plan to face them needs to be prepared.
  Additionally, the digital gap needs to be considered in order to limit
  its consequences in general but, particularly, in the event of a new quarantine.
- Thus, Spain is currently in a situation of new normality, where social
- distance measures, use of masks, tight control of new cases and outbreaks
- tracking have become usual concerns of citizens, in addition to economic
- crisis derived from quarantine, and expectation for the educational system
- restarting and continuity of the academic year.
+ The circumstances at the moment of writing this lines are even more complicated
+ by the fact that the educational system in Spain is organised in a decentralise
+d manner.
+ That is, each political region (
+\emph on
+autonomous community
+\emph default
+) has delegated powers regarding education, and each regional government
+ has different criteria on how to stand up the re-undertaking of academic
+ activities.
+\end_layout
+
+\begin_layout Standard
+In summary, Spain under currently in a special situation that has been coined
+ as 
+\emph on
+new normality
+\emph default
+, where social distance measures, use of masks, tight control of new cases
+ and outbreaks tracking have become usual concerns of citizens, in addition
+ to economic crisis derived from quarantine, and expectation for the educational
+ system restarting and continuity of the academic year.
  
 \end_layout
 
