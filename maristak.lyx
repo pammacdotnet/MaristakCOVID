@@ -30,7 +30,7 @@
 \use_dash_ligatures false
 \graphics default
 \default_output_format default
-\output_sync 0
+\output_sync 1
 \bibtex_command bibtex
 \index_command default
 \float_placement tbh
@@ -119,11 +119,13 @@ The Marist Brothers were founded by Saint Marcellin Champagnat (1789-1840)
  with more attention to those who need it most.
  Formation is a fundamental pillar on which the present and future of the
  Marist mission are built.
- The missionary dimension of the Marists has a universal expansion and currently
- the Institute of the Marist Brothers is present in 79 countries on five
- continents.
+ The 
+\emph on
+Institute of the Marist Brothers
+\emph default
+ is present in 79 countries on the five continents.
  The Marist charism is expressed in the educational mission, both in formal
- and non-formal education, which educates in solidarity.
+ and informal education and with a special focus on the fostering of solidarity.
 \end_layout
 
 \begin_layout Standard
@@ -144,67 +146,69 @@ Compostela, Ibérica, L'Hermitage and Mediterránea
 \emph on
 Marist Conference of Provinces with activities in Spain
 \emph default
- or CME, for short.The essential objective of the CME is to serve the common
- interests of the member provinces and each year the CME coordinates the
- development of teaching materials and resources around a motto that serves
- as motivation throughout the course for the classrooms.
- The four Marist Provinces offer different formative proposals, which have
- been shaping the 
+ or CME, for short.
+ The CME coordinates the development of teaching materials and resources
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Maristas2018"
+literal "false"
+
+\end_inset
+
+ around a common purpose that serves as motivation throughout each given
+ course.
+ However, each of the four Marist Provinces offer different formative proposals,
+ which have been shaping the 
 \emph on
 General Design of Marist Formation
 \emph default
 .
  
-\end_layout
+\begin_inset Note Note
+status collapsed
 
-\begin_layout Standard
+\begin_layout Plain Layout
 The Marist schools in Spain are distributed among the 4 provinces, with
  10 schools in L’Hermitage, 14 in the Compostela, 17 in Mediterranean and
  14 in Iberian areas, respectively.
- The offered educational stages comprise nursery, infant, primary, secondary,
+\end_layout
+
+\end_inset
+
+ For this reason, each educational district has its own charisma and idiosyncras
+y.
+\end_layout
+
+\begin_layout Standard
+The offered educational stages comprise nursery, infant, primary, secondary,
  HS and VET.
  In addition, the Marist community has another 17 educational districts
- in the world, 3 common works
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Qué son los common works??
-\end_layout
-
-\end_inset
-
-, 5 NGOs and international organisations, 6 social missions, 5 publishing
- houses 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Qué son los publishing houses??
-\end_layout
-
-\end_inset
-
-, 3 College-level institutions and 8 extra centres for coexistence and training
- 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Qué son estos coexistence centres??
-\end_layout
-
-\end_inset
-
-.
+ in the world, 3 common works, 5 NGOs and international organisations, 6
+ social missions, 5 publishing houses, 3 college-level institutions and
+ 8 extra centres for coexistence and training.
 \end_layout
 
 \begin_layout Subsection
 Maristas Ibérica
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:iberica"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The 
+The Marist 
 \begin_inset CommandInset href
 LatexCommand href
 name "Iberian Province"
@@ -213,8 +217,8 @@ literal "false"
 
 \end_inset
 
- is in charge of the teaching work in Spain and Romania, with 15 schools,
- 3 social activities and more than 15,000 students.
+ is in charge of the academic duties in 15 schools which represent more
+ than 15k students.
  The schools are distributed by the communities that belong to the province,
  as can be seen in the map represented in 
 \begin_inset CommandInset ref
@@ -227,13 +231,18 @@ noprefix "false"
 \end_inset
 
 .
- 
+\begin_inset space ~
+\end_inset
+
+
 \begin_inset Float figure
 wide false
 sideways false
 status collapsed
 
 \begin_layout Plain Layout
+\noindent
+\align center
 \begin_inset Graphics
 	filename mapa_maristas.pdf
 	lyxscale 75
@@ -265,23 +274,41 @@ name "fig:map-schools"
 
 \end_inset
 
+ Maristas Ibérica stands out (in comparison with Compostela, Hermitage and
+ Mediterránea) for its involvement in educational innovation, research
+\begin_inset space ~
+\end_inset
 
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Cooperative360"
+literal "true"
+
+\end_inset
+
+ and its strong commitment to technology in the academic environment.
+ Not in vain, a great deal of work has been done in recent years related
+ to the incorporation of ICT in the classroom
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+, which establishes it as a benchmark in this field, allowing an analysis
+ of great interest to the entire educational community, with the aim of
+ continuing to progress in obtaining better results
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status collapsed
 
-\emph on
-Maristas Ibérica
-\emph default
- stands out for its involvement in educational innovation and its strong
- commitment to technology in the educational environment.
- In recent years, a great deal of work has been done on the incorporation
- of ICT in the classroom, which establishes it as a benchmark in this field,
- allowing an analysis of great interest to the entire educational community,
- with the aim of continuing to progress in obtaining better results.
-\end_layout
-
-\begin_layout Standard
+\begin_layout Plain Layout
 The Marist educational community has a social commitment to respond to today's
  society, where the educational proposal must be updated.
  The orientation towards methodological innovation and the culture of continuous
@@ -336,25 +363,41 @@ literal "true"
  
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
-One of the criteria for implementing innovation in a Marist school is that
- of Information and Communication Technologies, where the aim is to promote
- in students the ability to search, analyze, use, produce and share their
- own information, using ICT as transversal knowledge to adequately function
- in digital culture and society.
+In turn, the goal of promoting ICT among students is to foster their ability
+ to search, analyze, use, produce and share their own information.
  Currently, education faces the challenge of preparing professionals to
- be able to integrate into a world mediated by rapid technological advance.
- Students must be prepared to adapt to the current changing society and
- be able to apply for emerging jobs in the best possible conditions.
+ be able to integrate into a world mediated by rapid technological advances.
+ Students must be prepared to adapt to this current rapidly changing society
+ and be able to apply for emerging jobs in the best possible conditions.
  Today's students consider themselves digital natives and use technology
  on a daily basis, but in very different ways, depending on their age and
  economic status.
- Educators' job is to make sure they receive the same tools and knowledge
- to help reduce the digital divide.
- The methodological proposal raises a new technological paradigm, where
- the focus of Information Technology turns to Learning Technology, so that
+ The educators' job is to make sure they receive the same tools and knowledge
+ to help reduce the digital gap.
+ This fact raises a new technological paradigm, where the focus of Information
+ Technology (IT) has now turned to Learning Technology (LT).
+ In other words.
  technology serves as a vehicle to achieve meaningful learning by students.
- As objectives, the aim is to improve the digital competence of students,
+ This fact has proven crucial to face the emergency situation described
+ in 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:covid+spain"
+
+\end_inset
+
+.
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+As objectives, the aim is to improve the digital competence of students,
  measuring the evolution in the acquisition of this competence.
  And on the other hand, establish technological tools as elements of methodologi
 cal support for teachers, to improve and in some cases enable, the teaching-lear
@@ -371,11 +414,28 @@ ning process.
  levels based on different skills that the student is able to demonstrate.
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
-The Department of Education of the Basque Government, by decree approves
- the Model of Technological Maturity of the Educational Center (ICT Maturity)
- and establishes the certifications and accrediting seals of the different
- levels of maturity of the educational centers 
+The Maristak Durango school operatively belongs both the network of centres
+ of the Iberian Marist Province, but organisationally also responds to the
+ Department of Education of the Basque Government (DEBG).
+ Besides the contribution of Marist Ibérica to the implementation of an
+ ICT-grounded culture of their own initiative, the DEBG , by decree, recently
+ approved the 
+\emph on
+Model of Technological Maturity of the Educational Center
+\emph default
+ (ICT Maturity).
+ In this document, it was established the certifications and accrediting
+ seals of the different levels of maturity of the educational centres
+\begin_inset space ~
+\end_inset
+
+
 \begin_inset CommandInset citation
 LatexCommand cite
 key "EducationDepartment2012"
@@ -383,46 +443,171 @@ literal "false"
 
 \end_inset
 
- proposes a new Technological Modernization plan for educational centers
- in order to adapt them to the society of the current century, as well as
- with the aim of promoting a methodological change in teaching processes
- - learning.
+.
  The plan is focused on the technological updating of the teaching staff,
  the incorporation of digital content in the different subjects, the implementat
 ion of telematic platforms that support pedagogical, administrative and
- communication work and relations with the school community.
- The Educational Maturity Model of the Educational Center will serve as
- a frame of reference with which to compare and to have as a shared objective;
- and to be a guide for the effective and efficient digitization of the pedagogic
-al and administrative processes of each educational center.
- This model allows to obtain an exact diagnosis of the technological situation
- of a school, and the improvement path to follow in order to reach the agreed
- level.
- It also makes it possible to assess the degree of digitization of the processes
- of a school and mark the line to follow in terms of technologies, practices
- and capacities of all the agents of the educational community, to reach
- the levels of technological maturity, taking into account the peculiarities
- and specific needs of each center.
- The model is structured in three levels (basic, medium and advanced) that
- gradually increase the degree of digitization of the processes of an educationa
-l center and the involvement of teachers in the use of ICT.
+ communication work and encouraging the digital relations with the school
+ community.
+ This decree also serves as a frame of reference for guiding schools and
+ staff in the digitisation processes of their teaching and administrative
+ duties.
+ The proposed model is structured in three levels: basic, medium and advanced.
+ The Durango centre passed the aforementioned official evaluation, achieving
+ the 
+\emph on
+advanced
+\emph default
+ badge in 2018.
+\end_layout
+
+\begin_layout Subsection
+COVID-19 and Maristak Durango
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:durango"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The 
-\emph on
-Maristak Durango
-\emph default
- school, belonging to the network of centers of the Iberian Marist Province
- and dependent on the Department of Education of the Basque Government,
- passed the evaluation carried out by the Directorate of Educational Innovation
- of the Basque Government, achieving the Advanced Level of ICT maturity
- in 2018.
- For the research on the sudden transition from a F2F to DL training, the
- Maristak Durango school has been taken as a reference, due to its involvement
- and effort in the incorporation of ICT in the educational environment,
- with the aim of benefiting the entire educational community, current and
- future.
+\begin_inset CommandInset href
+LatexCommand href
+name "Maristak Durango Ikastetxea"
+target "https://www.maristak.com/"
+literal "false"
+
+\end_inset
+
+ is an educational community of social initiative, concerted, confessional,
+ committed to today's environment and society, open to all people from simplicit
+y and closeness.
+ It is an charter school (private school that receives public funds) that
+ belongs to the network of educational centres in the Basque Country.
+ Currently, all the academic activities at the center are carried following
+ the F2F/classic model.
+ With more detail, the educational stages taught at Maristak Durango are
+ divided into 3 sections: 
+\end_layout
+
+\begin_layout Description
+High
+\begin_inset space ~
+\end_inset
+
+School
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+Humanistic
+\begin_inset space ~
+\end_inset
+
+and
+\begin_inset space ~
+\end_inset
+
+Social
+\begin_inset space ~
+\end_inset
+
+Sciences consists of 54 students and is taught in two models, A and B.
+ In the first, Spanish as a vehicular language.
+\end_layout
+
+\begin_layout Description
+Scientific
+\begin_inset space ~
+\end_inset
+
+and
+\begin_inset space ~
+\end_inset
+
+Technological consists of 82 students and is also teach in models A and
+ D.
+ In the latter, teaching is done mostly in Basque.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Vocational
+\begin_inset space ~
+\end_inset
+
+Education
+\begin_inset space ~
+\end_inset
+
+and
+\begin_inset space ~
+\end_inset
+
+Training
+\begin_inset space ~
+\end_inset
+
+(VET)
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+Basic
+\begin_inset space ~
+\end_inset
+
+grade consists of 55 students, divided into the two specialties of Electricity
+ and Electronics and Manufacture of Metal Elements, where both are teach
+ in model A.
+ 
+\end_layout
+
+\begin_layout Description
+Middle
+\begin_inset space ~
+\end_inset
+
+grade consists of 130 students, in the three specialities, Administrative
+ Management, Electrical and Automatic Installations, and Mechanized, all
+ in model A.
+ 
+\end_layout
+
+\begin_layout Description
+Higher
+\begin_inset space ~
+\end_inset
+
+degree consists of 185 students distributed in the specialties of Network
+ Computer Systems Administration, Administration and Finance, and Automation
+ and Industrial Robotics, in model A.
+ And Design of Mechanical Manufacturing in model D.
+\end_layout
+
+\begin_layout Description
+Specialisations: Robotics and Cybersecurity, in model A.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Training
+\begin_inset space ~
+\end_inset
+
+for
+\begin_inset space ~
+\end_inset
+
+Employment: various courses are taught according to the current demand of
+ the labour market.
 \begin_inset space ~
 \end_inset
 
@@ -431,7 +616,7 @@ Maristak Durango
 placement h
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \noindent
@@ -479,180 +664,39 @@ name "fig:studentclassification"
 
 \end_layout
 
-\begin_layout Subsection
-COVID-19 and Maristak Durango
-\begin_inset space ~
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "sec:durango"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset href
-LatexCommand href
-name "Maristak Durango Ikastetxea"
-target "https://www.maristak.com/"
-literal "false"
-
-\end_inset
-
- is an educational community of social initiative, concerted, confessional,
- committed to today's environment and society, open to all people from simplicit
-y and closeness.
- It is an charter school (private school that receives public funds) that
- belongs to the network of educational centers in the Basque Country.
- Currently, all the academic activities at the center are carried following
- the F2F/classic model.
- With more detail, the educational stages taught at Maristak Durango are
- divided into 3 sections: 
-\end_layout
-
-\begin_layout Description
-High
-\begin_inset space ~
-\end_inset
-
-School
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-Humanistic
-\begin_inset space ~
-\end_inset
-
-and
-\begin_inset space ~
-\end_inset
-
-Social
-\begin_inset space ~
-\end_inset
-
-Sciences consists of 54 students and is teached in two models, A and B,
- where model A corresponds to teaching in Spanish as a vehicular language,
- except in the subject of Basque Language and Literature.
- And model D, the most common in the Basque Country, refers to teaching
- in Basque as a vehicular language, except in the subject of Spanish Language
- and Literature.
-\end_layout
-
-\begin_layout Description
-Scientific
-\begin_inset space ~
-\end_inset
-
-and
-\begin_inset space ~
-\end_inset
-
-Technological consists of 82 students and is also teach in models A and
- D.
- 
-\end_layout
-
-\end_deeper
-\begin_layout Description
-Vocational
-\begin_inset space ~
-\end_inset
-
-Education
-\begin_inset space ~
-\end_inset
-
-and
-\begin_inset space ~
-\end_inset
-
-Training
-\begin_inset space ~
-\end_inset
-
-(VET)
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-Basic
-\begin_inset space ~
-\end_inset
-
-grade consists of 55 students, divided into the two specialties of Electricity
- and Electronics and Manufacture of Metal Elements, where both are teach
- in model A.
- 
-\end_layout
-
-\begin_layout Description
-Middle
-\begin_inset space ~
-\end_inset
-
-grade consists of 130 students, in the three especialities, Administrative
- Management, Electrical and Automatic Installations, and Mechanized, all
- in model A.
- 
-\end_layout
-
-\begin_layout Description
-Higher
-\begin_inset space ~
-\end_inset
-
-degree consists of 185 students distributed in the specialties of Network
- Computer Systems Administration, Administration and Finance, and Automation
- and Industrial Robotics, in model A.
- And Design of Mechanical Manufacturing in model D.
-\end_layout
-
-\begin_layout Description
-Specialisations: Die-cutter, Robotics, and Cybersecurity, in model A.
-\end_layout
-
-\end_deeper
-\begin_layout Description
-Training
-\begin_inset space ~
-\end_inset
-
-for
-\begin_inset space ~
-\end_inset
-
-Employment: various courses are teach according to the demand of the current
- labour market.
-\end_layout
-
 \begin_layout Standard
 In general terms, the age range of the students enrolled in these stages
- is approximately between 16 and 18 for High School, between 15 and 18 for
- VET basic, between 16 and 17 for VET Middle and greater than or equal to
- 18 for the case of VET High.
- The average age in High School for both genders is 18 years, in basic VET
+ is 16–18 for High School, 15–18 for VET basic, 16–17 for VET Middle and
+ 
+\begin_inset Formula $\geq$
+\end_inset
+
+18 for the case of VET High.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+The average age in High School for both genders is 18 years, in basic VET
  17, in middle VET 18 in females and 19 in males, and in higher VET, 23
  in females and 22 in males.
- The average age in High School is 18 in first and 19 in second, in basic
- VET 18 in first and 19 in second, in middle VET 18 in first and 20 in second,
- and in higher VET, 22 in first and 23 in second.
- All the aforementioned information is also graphically presented in percentages
- in 
+ The average age in High School is 18 in the first year and 19 in second,
+ in basic VET 18 in first and 19 in second, in middle VET 18 in first and
+ 20 in second, and in higher VET, 22 in first and 23 in second.
+\end_layout
+
+\end_inset
+
+ The composition of the student body is graphically presented in 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "fig:categories"
+reference "fig:studentclassification"
 
 \end_inset
 
 .
- These data are consistent with the data from non-university education in
- the Basque Country, published by the Statistics of School Activity
+ These data are consistent with the estimations for non-university education
+ in the Basque Country
 \begin_inset space ~
 \end_inset
 
@@ -665,14 +709,18 @@ literal "false"
 \end_inset
 
 .
- 
-\end_layout
+\begin_inset Note Note
+status open
 
-\begin_layout Standard
+\begin_layout Plain Layout
+\begin_inset space ~
+\end_inset
+
+
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \noindent
@@ -715,7 +763,12 @@ name "fig:categories"
 
 \end_inset
 
- 
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -729,17 +782,22 @@ name "fig:categories"
 \end_layout
 
 \begin_layout Standard
-Following the province's guidelines, Maristak Durango has naturally and
- systematically incorporated ICT as a fundamental part of the classes in
- all its stages.
- This practice has given excellent results so far, since the school has
- higher stages and this has led to the implementation of the technology
- in a more efficient way in the operation of the classes.
+As already stated in 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:iberica"
+
+\end_inset
+
+, Maristak Durango has naturally and systematically incorporated ICT as
+ a fundamental part of the classes in all its stages.
+ This practice has given excellent results so far.
  Maristak Durango has always been at the forefront of educational technology,
- participating in multiple national and international projects and investing
- as much as possible.
- According to the data published from the survey on Information and Communicatio
-n Technologies in the Educational Centers of the Basque Country 
+ participating in multiple national and international projects
+\begin_inset space ~
+\end_inset
+
+
 \begin_inset CommandInset citation
 LatexCommand cite
 key "EducationDepartment2017"
@@ -747,11 +805,28 @@ literal "false"
 
 \end_inset
 
-, 59.18% of the centres in the Basque Country participate in projects related
- to educational technologies,where includes Maristak Durango.
+.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+According to the data published from the survey on Information and Communication
+ Technologies in the Educational Centers of the Basque Country , 59.18% of
+ the centres in the Basque Country participate in projects related to educationa
+l technologies,where includes Maristak Durango.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 In relation to the applied methodologies, Cooperative Learning 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -782,6 +857,11 @@ literal "false"
 
  (a centre promoted by the Deputy Ministry of Vocational Education and Training
  of the Education Department of the Basque Government).
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

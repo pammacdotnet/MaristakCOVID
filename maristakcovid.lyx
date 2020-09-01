@@ -411,7 +411,7 @@ color{blue}
 \backslash
 ttfamily
 \backslash
-footnotesize}
+scriptsize}
 \end_layout
 
 \end_inset
@@ -490,10 +490,10 @@ Acknowledgement
 \begin_layout Standard
 The authors would like to thank the Maristak Durango school and the Marist
  community for their commitment to this research work, and with special
- gratitude towards the management team and all the teachers who have actively
- collaborated.
- Authors would also like to make a personal mention to Hostaizka Sainz,
- who has been involved in an exceptional way.
+ gratitude towards the management team and teachers that have actively collabora
+ted.
+ Authors would also like to make a personal mention to Hostaizka Sainz for
+ her caring involvement.
 \end_layout
 
 \begin_layout Standard
@@ -692,10 +692,9 @@ Dr.
  systems interoperability, medical physics, radiological protection, STEAM
  education, the monitoring of physical activities, the social implications
  of technology (with emphasis on social networks), e-health advancement
- (with emphasis on Alzheimer's disease characterisation and clinical information
- standards) and environmentalism.
- He has published over 20 research papers on all these subjects, and he
- is a speaker and knowledge disseminator at radios, podcasts, scientific
+ (with emphasis on Alzheimer's disease and clinical information standards)
+ and environmentalism.
+ He is a speaker and knowledge disseminator at radios, podcasts, scientific
  workshops, magazines, academic settings, and outreach events.
  
 \end_layout

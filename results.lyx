@@ -240,8 +240,8 @@ status open
 \align center
 \begin_inset Graphics
 	filename scores.pdf
-	lyxscale 75
-	width 94col%
+	lyxscale 44
+	width 100col%
 
 \end_inset
 
@@ -318,7 +318,7 @@ status open
 \begin_inset Graphics
 	filename scores_diff.pdf
 	lyxscale 75
-	width 85col%
+	width 90col%
 
 \end_inset
 
@@ -367,9 +367,9 @@ The results also show how in the High School stage, the average of the students
  the Assessment for Access to University (EAU), where in ordinary call,
  50% of students have chosen to take the test and has been passed by 100%
  of the same, with an average mark of 7.13 points.
- In the extraordinary call the results have not been so good, although better
- than the previous year, where the test has been carried out by 16% of the
- students, of which it has exceeded 77%.
+ In the extraordinary examinations, the results have not been so good, although
+ better than the previous year, where the test has been carried out by 16%
+ of the students, of which it has exceeded 77%.
  In this case, the cause may be due to the fact that students who in a normal
  situation would not have chosen to take the test, have been encouraged
  to present themselves, since it was expected to be easier and more flexible.
@@ -379,17 +379,18 @@ The results also show how in the High School stage, the average of the students
 \end_layout
 
 \begin_layout Standard
-The 
+In 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "fig:maxavg"
 
 \end_inset
 
-, the maximum average results that the students have obtained in both situations
- are shown, where it can be seen that the maximum scores have improved in
- most cases, except in the first course of VETS, which is directly related
- to the decrease in the average of scores commented previously.
+, it is shown the maximum average results that the students have obtained
+ in both situations are shown, where it can be seen that the maximum scores
+ have improved in most cases, except in the first course of VETS, which
+ is directly related to the decrease in the average of scores commented
+ previously.
  The second VETM course is the one that has improved the maximum score the
  most, 1.5 points, up to a maximum of 7 points.
 \end_layout
@@ -494,7 +495,7 @@ status open
 \backslash
 renewcommand{
 \backslash
-arraystretch}{1.8}
+arraystretch}{1.2}
 \end_layout
 
 \end_inset
@@ -1201,7 +1202,7 @@ status open
 \backslash
 renewcommand{
 \backslash
-arraystretch}{1.8}
+arraystretch}{1.2}
 \end_layout
 
 \end_inset
