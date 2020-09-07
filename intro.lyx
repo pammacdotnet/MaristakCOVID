@@ -1490,7 +1490,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Flex URL
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -2344,9 +2344,15 @@ reference "sec:results"
  With more detail, Maristak Durango provides education to 360+ secondary-level
  students, both in vocational education and training (VET) and high-school
  (HS) studies.
- It is also possible to find plenty research works related to online methodologi
-es for high-school and precollege levels.
- However, VET-based scenarios have always been somehow ignored
+ 
+\end_layout
+
+\begin_layout Standard
+Regarding VET-type studies, they represent another important rationale behind
+ our exploration and analysis.
+ While it is possible to find plenty of reviews related to online methodologies
+ for HS and precollege levels, vocational training scenarios have always
+ been somehow ignored
 \begin_inset space ~
 \end_inset
 
@@ -2359,11 +2365,7 @@ literal "true"
 \end_inset
 
 .
- 
-\end_layout
-
-\begin_layout Standard
-The paper is organised as follows.
+ This paper addresses this research niche and is organised as follows.
  Since the recent pandemic is acting as a background for this study, 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -2372,7 +2374,7 @@ reference "sec:covid+education"
 \end_inset
 
  reviews the impact that the 2019 coronavirus crisis has had in the learning
- sphere, both globally and in the Spanish educational system in particular.
+ sphere, both globally and in the Spanish teaching system in particular.
  The Maristas educational community and its strong relation with ICT is
  discussed in
 \begin_inset space ~

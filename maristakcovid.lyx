@@ -221,12 +221,30 @@ Natalia
 \begin_inset space ~
 \end_inset
 
-Padilla and Alberto
+Padilla (
+\begin_inset CommandInset href
+LatexCommand href
+target "natalia.padilla@unir.net"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+) and Alberto
 \begin_inset space ~
 \end_inset
 
-Corbi are both senior researchers at the Research Institute for Innovation
- & Technology in Education (UNIR iTED, 
+Corbi (
+\begin_inset CommandInset href
+LatexCommand href
+target "alberto.corbi@unir.net"
+type "mailto:"
+literal "false"
+
+\end_inset
+
+) are both senior researchers at the Research Institute for Innovation &
+ Technology in Education (UNIR iTED, 
 \begin_inset Flex URL
 status open
 
@@ -250,16 +268,6 @@ http://ingenieria.unir.net
 
 ), both belonging to the Universidad Internacional de La Rioja (UNIR), Logroño
  (La Rioja), Spain.
- E-mail: 
-\begin_inset CommandInset href
-LatexCommand href
-target "alberto.corbi@unir.net"
-type "mailto:"
-literal "false"
-
-\end_inset
-
-.
 \end_layout
 
 \end_inset
