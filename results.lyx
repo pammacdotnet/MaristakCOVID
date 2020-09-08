@@ -114,38 +114,41 @@ name "sec:results"
 \end_layout
 
 \begin_layout Standard
-This section shows the results of the analysis conducted on the marks/academic
- scores obtained by students in the time span associated with the scenario
- tackled in 
+The scenario tackled in 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "sec:durango"
 
 \end_inset
 
-.
- In order to compare the students' results to analyse the impact of the
- sudden change in format on their learning, some specific data have been
- selected.
- On the one hand, the marks obtained in a period prior to the emergency
- situation, where the training was carried out normally (F2F).
- And on the other hand, the marks obtained in the period of the state of
- emergency, where 100% of the training has been conducted in DL.
+ was about the Covid -19 and its impact in Maristak Durango.
+ In Section five, it is shown the results of the analysis conducted on the
+ marks/academic scores obtained by students in the time span of that scenario.
+ Thus, some specific data has been selected in order to compare and analyse
+ the students’ academic results to the impact of the sudden change in format
+ on their learning system.
+ On the one hand, the analysis of the marks obtained in the run-up period
+ to the emergency situation, where the teaching was carried out normally
+ (F2F).
+ And on the other hand, the analysis of the marks obtained in the period
+ of the state of emergency, where 100% of the training has been conducted
+ in DL.
 \end_layout
 
 \begin_layout Standard
-In general, as displayed in 
+As it is displayed in 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "fig:studentclassification"
 
 \end_inset
 
-, the mostly of students are male, but in VET there is still more evidence
- of the difference between the number of women and men.
- The most evident cause comes from the specialties imparted at the school
- (according to the needs of the area), where most are related to jobs traditiona
-lly associated with the male sector.
+, most of the students are male.
+ But, there is still more evidence of the difference between the number
+ of women and men in VET.
+ The most evident cause might come from the specialties imparted at the
+ school (according to the needs of the local industry around the school).
+ Most of the jobs are traditionally associated with the male sector.
 \end_layout
 
 \begin_layout Standard
@@ -162,9 +165,10 @@ noprefix "false"
 \end_inset
 
 .
- Most of students have improved in all stages, excep int the first year
- of higher VET, which being the group with the highest number of students,
- the average result has decreased.
+ Most of the students have improved in all their stages, except for those
+ students who have attended the first year of higher VET.
+ Being the group with the highest number of students.
+ Indeed, the marks of these students have decreased.
 \end_layout
 
 \begin_layout Standard
@@ -220,24 +224,25 @@ name "fig:improvement"
 \end_layout
 
 \begin_layout Standard
-As evidenced in 
+As evident from 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "fig:improvement"
 
 \end_inset
 
- in most cases, the line of scores in the COVID-19 situation is above the
- line of scores in the normal situation.
+, after the COVID-19 situation, the line of the scores is in most cases
+ above the line of scores in the previous situation.
  The first High School course achieves the highest average score and however,
- the second VETB course is the one with the lowest score, which fails to
- achieve the average passed mark.
- The cause is not directly related to the current emergency situation, since
- the data comparison does not show a general deterioration of the marks
- as such.
- In this case, there are few students who had previous academic difficulties
- and have dropped out of online classes, which significantly lowers the
- average score for the course.
+ the second VETB course is the one with the lowest score.
+ This one fails to achieve the average passed mark.
+ The reason for this failure is not directly related to the current emergency
+ situation, since the data comparison does not show a general deterioration
+ of the marks.
+ One of the main reasons for this failure could be the fact that there are
+ few students who already had previous academic difficulties.
+ Therefore, these students’ marks have dropped out of online classes, which
+ significantly lowers the average score for the course.
 \end_layout
 
 \begin_layout Standard
@@ -303,20 +308,22 @@ reference "fig:avgbycourse"
 .
  In most cases, the difference has been positive (66%) compared to 34% of
  the students who have not benefited from the change.
- The greatest positive difference has been achieved by the second VETM course,
- with an average improvement of 0.76 points.
- However, the first of VETM and VETS have obtained a negative difference
- of -0.04 and -0.21 points.
- Even though the decrease in scores is not excessive, the reason may be
- due to the fact that the students have not benefited from the scores of
- the group work, since in normal situation the resolution of challenges
- is conducted with teamwork and the score is shared.
- From the data extracted, it can be deduced that collaborative work has
- failed in online classes, not being able to band together affects work
- and consequently the results.
- As mentioned in the previous section, the second VET courses have worked
- differently, not having to work on the challenges in groups, but individually
- in the COVID period.
+ The greatest positive difference has been achieved by the second year of
+ VETM course, with the average improvement of 0.76 points.
+ However, the first year of VETM and VETS courses have obtained a negative
+ score between -0.04 and -0.21 points.
+ Even though the decrease in scores is not excessive.
+ The reason may be due to the fact that the students have not benefited
+ from the scores of the group work.
+ In a normal situation the resolution of challenges is conducted with teamwork
+ and the score is shared .
+ Therefore, it can be deduced that collaborative work has failed in online
+ classes from the data extracted from the final results of the students.
+ The fact that the students cannot work together affects their work and
+ consequently their results.
+ As mentioned in the previous section, the second year of VET courses have
+ worked differently, not having to work on the challenges in groups, but
+ individually in the COVID period.
 \end_layout
 
 \begin_layout Standard
@@ -371,26 +378,36 @@ name "fig:diffscores"
 \end_layout
 
 \begin_layout Standard
-The results display how in the High School stage, the average of the students
- of the all levels, has obtained good results in the evaluation carried
- conducted in DL against the F2F.
- This shows that these students are digitally qualified to face a situation
- of sudden change, in relation to digital resources used in learning.
- In the case of HS, one evidence is in the results achieved in the Assessment
- for Access to University (EAU), where in ordinary call, 50% of the students
- have chosen to take the test, being passed by 100% of them with an average
- mark of 7.13 points.
- In extraordinary call, the results have not been so good, although they
- have improved compared to the previous year.
- On this occasion, the test has been conducted by 16% of the students, of
- which 77% have passed.
- In this case, one cause may be due to the fact that those students who
- in a normal situation would not have chosen to take the test, have been
- encouraged to present themselves, assuming that it would be easier and
- more flexible than previous years.
- Another cause may be due to the delay in the carrying out of the test,
- negatively affecting the result, since the students were in a state of
- exhaustion in need of holidays.
+The results display the good results of the average of the students of the
+ High School stage in all its levels.
+ These results belong to the evaluation conducted in DL which are higher
+ than those obtained in F2F.
+ Consequently, this shows that the High School students are digitally qualified
+ to face a sudden change in the situation, in relation to digital resources
+ used in learning.
+ 
+\end_layout
+
+\begin_layout Standard
+In the case of HS, one positive evidence is the results the students have
+ achieved in the Assessment for Access to University (EAU) in the ordinary
+ call.
+ The 50% of the students of the second year of HS have chosen to take the
+ test in the ordinary call.
+ The 100% of those students have passed the EAU test with an average mark
+ of 7.13 points.
+ On the other hand, the extraordinary call has not been so successful, the
+ results have not been so good compared to the first call but better than
+ the previous year.
+ The test of the extraordinary call has been conducted by 16% of the students,
+ and 77% of them have passed the test.
+ There may be two possible scenarios for not achieving 100% pass rates on
+ the university entrance exam.
+ One could be that some students who in a normal situation would not have
+ taken the test, have been encouraged to attend it assuming that the test
+ would be easier and more flexible than previous years.
+ And, another cause may be the delay in carrying out the test since the
+ students were in a state of exhaustion in need of holidays.
 \end_layout
 
 \begin_layout Standard
@@ -401,13 +418,13 @@ reference "fig:maxavg"
 
 \end_inset
 
-shows the maximum average results obtained by the students in both situations
- (pre-COVID and COVID).
- It can be seen that the maximum scores have improved in most cases, except
- in the first course of VETS, which is directly related to the decrease
- in the average scores mentioned previously.
- The second VETM course is the one that has improved the maximum score the
- most, 1.5 points up to a maximum of 7 points.
+ shows the maximum average results obtained by the students in both situations
+ (pre-COVID and during the COVID).
+ It can be seen that the maximum scores have been improved in most cases,
+ except in the first year of VETS courses, which is directly related to
+ the decrease in the average scores mentioned previously.
+ The second year of VETM course is the one that has most improved the maximum
+ score the most, 1.5 points up to a maximum of 7 points .
 \end_layout
 
 \begin_layout Standard
@@ -469,27 +486,29 @@ reference "tab:finalresults"
 
 \end_inset
 
- shows the final results of the students evaluated in the study, where it
- is evident that except in VETS (average: -0.17 points), the rest of the
+ shows the results of the students´ final evaluation.
+ It is clear that except in VETS (average: -0.17 points), the rest of the
  stages have been positively affected.
- The 361 students evaluated have obtained an average of 6.19 points in the
- evaluation of the subjects of the corresponding stage, during a period
- prior to the COVID situation (normal/F2F), compared to an average of 6.35
- points in the situation of COVID (DL).
+ The 361 students have been evaluated run-up to the covid and during the
+ covid.
+ The average obtained in the evaluation of the subjects corresponding to
+ each stage during the period prior to the covid is 6.19 (normal/F2F),while
+ the average during the COVID period is 6.35 (DL).
  The difference is positive, 0.16 points.
  66% of the students have improved or maintained their results, compared
- to 34% who have decreased their scores.
- High school, with 37.67% of the students, is the stage where the best results
- have been obtained.
- The improvement has been 0.45 points, where 79% of the students have benefited
- from an increase in their marks.
+ to 34% who have decreased their grades.
+ High school, being 37.67% of the students of the Maristak School, is the
+ stage where the best results can be found.
+ The increase has been 0.45 points, where 79% of the students have benefited
+ from an increase in their grades.
  Higher Degree Vocational Education and Training, which represents 29.09%
- of students, is the only stage which the average result has decreased 0.17
- points, although 43% of students have improved their marks.
- Middle Grade Vocational Education and Training, which means 23.27% of students,
- has increased its average score by 0.13 points.
- And finally, in Basic Vocational Education and Training, which represent
- 9.97%, 61% of students have improved with an average 0.06 poits improvement.
+ of students of the school, is the only stage where the average result has
+ decreased 0.17 points, although 43% of students have improved their grades.
+ Middle Grade Vocational Education and Training, which means 23.27% of students
+ of Maristak School, has increased its average score by 0.13 points.
+ Finally, Basic Vocational Education and Training represents 9.97% of students
+ of the school.
+ The 61% have improved by an average of 0.06 points.
 \end_layout
 
 \begin_layout Standard
@@ -1178,21 +1197,13 @@ name "tab:finalresults"
 
 \end_inset
 
-The results presented in 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:resultsbysex"
-
-\end_inset
-
- show that females are in a clear minority, but despite this the result
- has been more positive for them.
+The results presented in Table III show that women are in the minority,
+ but the results have been more positive in female students.
  In a classification by gender, of the total number of students evaluated
- in the COVID situation, 28% are represented by the females, compared to
- 72% who are males.
- Regarding the results, from the gender point of view, both have improved
- their scores, although the female gender has obtained better results, with
- 0.52 average points of improvement.
+ in the COVID situation, 28% are represented by the female sector, compared
+ to 72% who are males.** Regarding the results, from the gender point of
+ view, both have improved their scores, although the female gender has obtained
+ better results, with 0.52 average points of improvement.
  The cause of the difference could be due to the minority of females, where
  positive results are more relevant.
  On the other hand, the favorable result of the women could be due to the
