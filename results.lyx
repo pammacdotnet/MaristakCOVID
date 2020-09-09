@@ -114,6 +114,10 @@ name "sec:results"
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 The scenario tackled in 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -135,26 +139,24 @@ reference "sec:durango"
  in DL.
 \end_layout
 
-\begin_layout Standard
-As it is displayed in 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "fig:studentclassification"
-
 \end_inset
 
-, most of the students are male.
- But, there is still more evidence of the difference between the number
- of women and men in VET.
- The most evident cause might come from the specialties imparted at the
- school (according to the needs of the local industry around the school).
- Most of the jobs are traditionally associated with the male sector.
+
 \end_layout
 
 \begin_layout Standard
-The comparative percentages of the number of students who have maintained
- or improved their score, versus those who have worsened, together with
- the number of students in each stage and course are represented 
+After carrying out the statistical analysis described in 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:materials+methods"
+
+\end_inset
+
+, we have achieved the following results.
+ To begin with, the comparative percentages of the number of students who
+ have maintained or improved their score, versus those who have worsened,
+ together with the number of students in each stage and course, are represented
+ 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "fig:improvement"
@@ -165,9 +167,9 @@ noprefix "false"
 \end_inset
 
 .
- Most of the students have improved in all their stages, except for those
- students who have attended the first year of higher VET.
- Being the group with the highest number of students.
+ Most of the students have improved in all their corresponding stages, except
+ for those students who were enrolled in the first year of VETM.
+ Being the group with the highest number of students XXX.
  Indeed, the marks of these students have decreased.
 \end_layout
 
@@ -224,25 +226,25 @@ name "fig:improvement"
 \end_layout
 
 \begin_layout Standard
-As evident from 
+As shown in 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "fig:improvement"
 
 \end_inset
 
-, after the COVID-19 situation, the line of the scores is in most cases
- above the line of scores in the previous situation.
- The first High School course achieves the highest average score and however,
- the second VETB course is the one with the lowest score.
- This one fails to achieve the average passed mark.
- The reason for this failure is not directly related to the current emergency
- situation, since the data comparison does not show a general deterioration
- of the marks.
- One of the main reasons for this failure could be the fact that there are
- few students who already had previous academic difficulties.
- Therefore, these students’ marks have dropped out of online classes, which
- significantly lowers the average score for the course.
+, after the DL scholar timespan, the scores are almost always higher than
+ their F2F counterparts.
+ The first year of HS achieves the highest average score.
+ In contrast, the second VETB course is the one with the lowest score difference.
+ From our point of view, the reason for this result is not directly related
+ to the current emergency situation, but with the fact that some of these
+ VETB 1st-year students had previous academic difficulties.
+ Consequently, this 
+\emph on
+dropouts 
+\emph default
+group lowers the average score for the course.
 \end_layout
 
 \begin_layout Standard
@@ -307,21 +309,22 @@ reference "fig:avgbycourse"
 
 .
  In most cases, the difference has been positive (66%) compared to 34% of
- the students who have not benefited from the change.
+ the students who have not benefited from the transition.
  The greatest positive difference has been achieved by the second year of
- VETM course, with the average improvement of 0.76 points.
- However, the first year of VETM and VETS courses have obtained a negative
+ VETM course, with an average improvement of 0.76 points.
+ However, the first year of the VETM and VETS courses have obtained a negative
  score between -0.04 and -0.21 points.
  Even though the decrease in scores is not excessive, the reason may be
- due to the fact that the students have not benefited from the scores of
- the group work.
- In a normal situation the resolution of challenges is conducted with teamwork
- and the score is shared .
+ due to the fact that the students have not benefited from the scoring rewards
+ associated to group work.
+ In a normal situation the resolution of challenges is conducted in a teamwork
+ fashion and the achieved grades are shared.
  Therefore, it can be deduced that collaborative work has failed in online
  classes from the data extracted from the final results of the students.
- The fact that the students cannot work together affects their work and
- consequently their results.
- As mentioned in the section 
+ The fact that the students cannot work together has proven to affect their
+ work and consequently, their results.
+ This situation has not significantly affected VET levels who, as mentioned
+ in 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "sec:materials+methods"
@@ -331,8 +334,7 @@ noprefix "false"
 
 \end_inset
 
-, the second year of VET courses have worked differently, not having to
- work on the challenges in groups, but individually in the COVID period.
+, have worked mainly individually in the DL period.
 \end_layout
 
 \begin_layout Standard
@@ -347,7 +349,7 @@ status open
 \begin_inset Graphics
 	filename scores_diff.pdf
 	lyxscale 75
-	width 90col%
+	width 92col%
 
 \end_inset
 
@@ -358,11 +360,59 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Difference scores by stage and course.
- 1: first level, 2: second level.
- HS: High School, VETB: Basic Vocational Education and Training, VETM: Middle
- Grade Vocational Education and Training, VETS: Higher Degree Vocational
- Education and Training.
+Difference in scores (F2F - DL) by stage (HS, VETB/M/S) and course (
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{1}
+\end_layout
+
+\end_inset
+
+ and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{2}
+\end_layout
+
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+).
 \begin_inset space ~
 \end_inset
 
@@ -387,53 +437,42 @@ name "fig:diffscores"
 \end_layout
 
 \begin_layout Standard
-The results display the good results of the average of the students of the
- High School stage in all its levels.
- These results belong to the evaluation conducted in DL which are higher
- than those obtained in F2F.
- Consequently, this shows that the High School students are digitally qualified
- to face a sudden change in the situation, in relation to digital resources
- used in learning.
- 
-\end_layout
-
-\begin_layout Standard
-In the case of HS, one positive evidence is the results the students have
- achieved in the Assessment for Access to University (EAU) in the ordinary
- call.
+Our results also show general very good results regarding all HS students/states
+, where DL-attained scores have been higher than those obtained in the F2F
+ season.
+ This clearly evidences that well trained (HS) students are more than qualified
+ to confront future similar F2F2FL situations.
+ These students have also achieved very good marks in the Access to University
+ (EAU) tests that took place in late July 2020.
  The 50% of the students of the second year of HS have chosen to take the
- test in the ordinary call.
- The 100% of those students have passed the EAU test with an average mark
- of 7.13 points.
- On the other hand, the extraordinary call has not been so successful, the
- results have not been so good compared to the first call but better than
- the previous year.
- The test of the extraordinary call has been conducted by 16% of the students,
- and 77% of them have passed the test.
- There may be two possible scenarios for not achieving 100% pass rates on
- the university entrance exam.
- One could be that some students who in a normal situation would not have
- taken the test, have been encouraged to attend it assuming that the test
- would be easier and more flexible than previous years.
- And, another cause may be the delay in carrying out the test since the
- students were in a state of exhaustion in need of holidays.
+ test in the aforementioned (ordinary) call.
+ All of these students (100%) did successfully pass their exams with an
+ average mark of 7.13 (of 10) points.
+ On the other hand, the extraordinary (September) call has not been so successfu
+l: the results have not been so good compared to the July call (only a 77%
+ of the students were successful) but better than those achieved in the
+ September call that took place in the 2019.
+ There may be two possible explanations for this.
+ One could be that some students were encouraged to take the EAU tests assuming
+ that they would be easier and more flexible than previous years (which
+ was not the case).
+ The second cause may be have been associated to the generalised state of
+ exhaustion (mostly due to the bothering confinement setting) and undoubtedly,
+ the psychologically need for holidays.
 \end_layout
 
 \begin_layout Standard
-The 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "fig:maxavg"
 
 \end_inset
 
- shows the maximum average results obtained by the students in both situations
- (pre-COVID and during the COVID).
- It can be seen that the maximum scores have been improved in most cases,
- except in the first year of VETS courses, which is directly related to
- the decrease in the average scores mentioned previously.
- The second year of VETM course is the one that has most improved the maximum
- score the most, 1.5 points up to a maximum of 7 points .
+ shows the maximum scores obtained by the students in both situations.
+ It can be seen these values have improved in most cases, except in the
+ first year of VETS, which is directly related to the decrease in the average
+ scores mentioned above.
+ The second year of VETM course is the one that has improved the most XXXporque.
 \end_layout
 
 \begin_layout Standard
@@ -459,12 +498,59 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Maximum average results by stage and course, in normal situation compared
- to the COVID situation.
- 1: first level, 2: second level.
- HS: High School, VETB: Basic Vocational Education and Training, VETM: Middle
- Grade Vocational Education and Training, VETS: Higher Degree Vocational
- Education and Training.
+Maximum average results by stage (HS, VETB/M/S) and course (
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{1}
+\end_layout
+
+\end_inset
+
+ and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{2}
+\end_layout
+
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+) for both the F2F and the DL academic periods.
 \begin_inset space ~
 \end_inset
 
@@ -495,27 +581,26 @@ reference "tab:finalresults"
 
 \end_inset
 
- shows the results of the students´ final evaluation.
- It is clear that except in VETS (average: -0.17 points), the rest of the
- stages have been positively affected.
- 361 students have been evaluated run-up to the COVID and during the COVID.
+ shows the results of the students' final grades.
+ It is clear that except for the VETS (average: -0.17 points), the rest of
+ the stages have been positively affected.
  The average obtained in the evaluation of the subjects corresponding to
- each stage during the period prior to the COVID is 6.19 (normal/F2F),while
+ each stage during the period prior to the COVID is 6.19 (normal/F2F), while
  the average during the COVID period is 6.35 (DL).
  The difference is positive, 0.16 points.
  66% of the students have improved or maintained their results, compared
  to 34% who have decreased their grades.
- High school, being 37.67% of the students of the Maristak School, is the
- stage where the best results can be found.
+ HS levels, representing 37.67% of the students in the Maristak School, is
+ where the best results can be found.
  The increase has been 0.45 points, where 79% of the students have benefited
  from an increase in their grades.
- Higher Degree Vocational Education and Training, which represents 29.09%
- of students of the school, is the only stage where the average result has
- decreased 0.17 points, although 43% of students have improved their grades.
- Middle Grade Vocational Education and Training, which means 23.27% of students
- of Maristak School, has increased its average score by 0.13 points.
- Finally, Basic Vocational Education and Training represents 9.97% of students
- of the school and 61% have improved by an average of 0.06 points.
+ VETS students (29.09% of the students), is the only stage where the average
+ result has decreased (-0.17 points), although almost half of the leaners
+ (43%) have improved their grades.
+ VETM students (23.27% of the students) have increased their average score
+ by 0.13 points.
+ Finally, in VETB (9.97% of students), 61% have improved their marks by an
+ average of 0.06 points.
 \end_layout
 
 \begin_layout Standard
@@ -982,7 +1067,7 @@ cellcolor[gray]{0.9}
 
 
 \size small
-VETH
+VETS
 \end_layout
 
 \end_inset
@@ -1204,19 +1289,34 @@ name "tab:finalresults"
 
 \end_inset
 
-The results presented in Table III show that women are in the minority,
- but the results have been more positive in female students.
- In a classification by gender, of the total number of students evaluated
- in the COVID situation, 28% are represented by the female sector, compared
- to 72% who are males.
- Regarding the results, from the gender point of view, both have improved
- their scores, although the female gender has achieved better results with
- an average improvement of 0.52 points.
- The cause of the difference could be due to the minority of females, where
- the positive results are more relevant.
- On the other hand, the favorable outcome for women could be too due to
- the fact that they have been able to organize themselves better autonomously
- with less computer distraction.
+The results presented in 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:resultsbysex"
+
+\end_inset
+
+ show that girls, though a minority group, have attained better results.
+ From the gender point of view, both boys and girls have improved their
+ scores in the DL term, although the female group have performed better
+ with an average improvement of 0.52 points.
+ This outcome could have been due to the fact that this specific group of
+ female students have presumably organised themselves better than their
+ male counterparts and with less computer distraction.
+ However, as evinced by the work carried out by
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "GenderDiffs"
+literal "true"
+
+\end_inset
+
+, in general terms, there seems not to be critical differences regarding
+ gender differences in online learning settings.
 \end_layout
 
 \begin_layout Standard
@@ -1567,40 +1667,41 @@ name "tab:resultsbysex"
 
 \end_inset
 
-The teaching staff emphasizes that the students in general have adapted
- well to the DL situation.
- This Covid situation has been a challenge for the teacher in some stages.
- Teachers,taking into account the casuistry of the different students in
- each stage,have been able to keep the students`attention even from the
- distance..
- The teaching staff have made a great effort and done a good job trying
- to avoid the abandonment and disconnection of the students taking into
- account that they were not physically at the centre.
- Monitoring the many students from a distance is an arduous task that teachers
- have had to face, taking into account the uncontrolled distractions that
- can exist today at a distance.
+The teaching staff emphasises that, in general, most of the students have
+ adapted well to the DL situation, which has been an authentic challenge
+ for the teaching staff in some stages.
+ Educators have made a great effort and done a good job trying to avoid
+ the abandonment and disconnection of the students.
+ Monitoring students from a distance is an arduous task that teachers have
+ had to face, taking into account the uncontrolled distractions that exist
+ today among teenagers and youngsters.
  
 \end_layout
 
 \begin_layout Standard
-As a general rule, teachers have tried to respect the class schedule and
- the classes themselves in the F2F format, trying to reproduce as many activitie
-s as possible in the new format.
- It has been inevitable that some activities have to be adapted and some
- even have to be postponed Teamwork by students has been a great challenge
- as the methodologies applied in the centre require students to work on
- activities as a team.
- However, in this atypical situation at COVID, evaluation has been the most
- difficult problem to solve as the teachers have had to keep track of the
- students from a distance.
- As a result, the assessment tasks have had to be adapted to ensure that
- the students have achieved the required learning objectives at each stage.
- Therefore, it has been essential to maintain continuous contact through
+As a general rule, teachers have tried to respect learning contents and
+ class timetables in the F2F format, while reproducing as many activities
+ as possible in the new format.
+ Transforming teamwork activities to their online version has been a great
+ (but more or less achievable) challenge.
+ However, evaluations (exams) have been the most difficult problem to solve
+ as the teachers have had to monitor the students reactions from a distance.
+ XXXcono se han hecho los examens
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Therefore, it has been essential to maintain continuous contact through
  the meeting between the teachers of each stage in order to be well coordinated.
  Definitively, the difficulties and problems that exist in the classroom
  have been transferred to the online classes (DL), highlighting that the
  transition in the newly chosen education system has been successful in
  terms of the digital resources used in the classroom.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection*
@@ -1638,7 +1739,7 @@ A study carried out by the school to find out the degree of satisfaction
 \end_layout
 
 \begin_layout Itemize
-91.1% were fairly or very satisfied with the schedule .
+91.1% were fairly or very satisfied with the schedule.
 \end_layout
 
 \end_body

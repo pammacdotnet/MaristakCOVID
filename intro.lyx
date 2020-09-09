@@ -181,7 +181,7 @@ y switched to online methodologies.
 \begin_inset space ~
 \end_inset
 
-
+XXX
 \begin_inset Float table
 placement h
 wide false
@@ -211,7 +211,7 @@ arraystretch}{1.1}
 <column alignment="center" valignment="middle" width="0.65cm">
 <column alignment="center" valignment="middle" width="0.95cm">
 <column alignment="center" valignment="middle" width="2.2cm">
-<column alignment="center" valignment="middle" width="2.5cm">
+<column alignment="center" valignment="middle" width="2.45cm">
 <row>
 <cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
@@ -1106,7 +1106,7 @@ literal "true"
 \end_inset
 
 
-\begin_inset space ~
+\begin_inset space \thinspace{}
 \end_inset
 
 

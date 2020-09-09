@@ -36,6 +36,11 @@
                         \let\makelabel\descriptionlabel}}%
                {\endlist}
 \makeatother
+\usepackage[super]{nth}
+%\usepackage{termcal}
+%\usepackage[pdf]{pstricks}
+%\usepackage[on]{auto-pst-pdf}
+%\usepackage{pst-calendar}
 \end_preamble
 \options journal
 \use_default_options false
