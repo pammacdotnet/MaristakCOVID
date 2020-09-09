@@ -181,7 +181,11 @@ y switched to online methodologies.
 \begin_inset space ~
 \end_inset
 
-XXX hablar de la novedad y como brecha de investigación.
+This fact (lack of examples) may point to a new research field associated
+ to the exploration of new learning methodologies and the application of
+ state-of-the-art educational technologies in CLE-grounded learning circumstance
+s.
+ 
 \begin_inset Float table
 placement h
 wide false
@@ -198,7 +202,7 @@ status open
 \backslash
 renewcommand{
 \backslash
-arraystretch}{1.1}
+arraystretch}{1.25}
 \end_layout
 
 \end_inset
