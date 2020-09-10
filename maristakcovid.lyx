@@ -36,11 +36,6 @@
                         \let\makelabel\descriptionlabel}}%
                {\endlist}
 \makeatother
-\usepackage[super]{nth}
-%\usepackage{termcal}
-%\usepackage[pdf]{pstricks}
-%\usepackage[on]{auto-pst-pdf}
-%\usepackage{pst-calendar}
 \end_preamble
 \options journal
 \use_default_options false
@@ -98,18 +93,18 @@ End
 \paperfontsize default
 \spacing single
 \use_hyperref true
-\pdf_title "Your Title"
-\pdf_author "Your Name"
+\pdf_title "From traditional to home-confined learning: a casestudy in a school involved with ICT"
+\pdf_author "Iratxe Lejarreta and Natalia Padilla and Alberto Corbi"
 \pdf_bookmarks true
 \pdf_bookmarksnumbered true
 \pdf_bookmarksopen true
 \pdf_bookmarksopenlevel 1
-\pdf_breaklinks false
+\pdf_breaklinks true
 \pdf_pdfborder true
-\pdf_colorlinks false
+\pdf_colorlinks true
 \pdf_backref false
 \pdf_pdfusetitle false
-\pdf_quoted_options "pdfpagelayout=OneColumn, pdfnewwindow=true, pdfstartview=XYZ, plainpages=false"
+\pdf_quoted_options "pdfpagelayout=OneColumn, pdfnewwindow=true, pdfstartview=XYZ, plainpages=false, pdfpagelayout=OneColumn, pdfnewwindow=true, pdfstartview=XYZ, plainpages=false,linktocpage=true, urlcolor=blue, pagebackref=true,colorlinks, linkcolor=blue, citecolor=blue,bookmarks,bookmarksopen,bookmarksnumbered"
 \papersize default
 \use_geometry false
 \use_package amsmath 1

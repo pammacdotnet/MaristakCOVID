@@ -635,9 +635,9 @@ arraystretch}{1.3}
 <column alignment="center" valignment="middle" width="0.9cm">
 <column alignment="center" valignment="middle" width="0.34cm">
 <column alignment="center" valignment="middle" width="0.34cm">
-<column alignment="center" valignment="middle" width="0.7cm">
 <column alignment="center" valignment="middle" width="0.65cm">
 <column alignment="center" valignment="middle" width="0.6cm">
+<column alignment="center" valignment="middle" width="0.7cm">
 <column alignment="center" valignment="middle" width="0.9cm">
 <column alignment="center" valignment="middle" width="0.9cm">
 <row>
@@ -1296,7 +1296,8 @@ reference "tab:resultsbysex"
 
 \end_inset
 
- show that girls, though a minority group, have attained better results.
+ show that girls, though a minority group, have attained better results
+ XXXmedias??.
  From the gender point of view, both boys and girls have improved their
  scores in the DL term, although the female group have performed better
  with an average improvement of 0.52 points.
@@ -1347,10 +1348,10 @@ arraystretch}{1.3}
 <lyxtabular version="3" rows="4" columns="6">
 <features tabularvalignment="middle">
 <column alignment="center" valignment="middle" width="1cm">
-<column alignment="center" valignment="middle" width="1.7cm">
-<column alignment="center" valignment="middle" width="1.8cm">
-<column alignment="center" valignment="middle" width="0.55cm">
 <column alignment="center" valignment="middle" width="0.6cm">
+<column alignment="center" valignment="middle" width="0.6cm">
+<column alignment="center" valignment="middle" width="1.5cm">
+<column alignment="center" valignment="middle" width="1.4cm">
 <column alignment="center" valignment="middle" width="0.55cm">
 <row>
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
@@ -1378,7 +1379,7 @@ GENDER
 \begin_inset Text
 
 \begin_layout Plain Layout
-# STUDENTS
+# 
 \end_layout
 
 \end_inset
@@ -1387,7 +1388,7 @@ GENDER
 \begin_inset Text
 
 \begin_layout Plain Layout
-% STUDENTS
+% 
 \end_layout
 
 \end_inset
@@ -1396,7 +1397,7 @@ GENDER
 \begin_inset Text
 
 \begin_layout Plain Layout
-F2F
+F2F SCORE
 \end_layout
 
 \end_inset
@@ -1405,7 +1406,7 @@ F2F
 \begin_inset Text
 
 \begin_layout Plain Layout
-DL
+DL SCORE
 \end_layout
 
 \end_inset
@@ -1646,7 +1647,7 @@ TOTAL
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Final results (F2F vs DL) grouped by gender.
+Final average results (F2F vs DL) grouped by gender.
 \begin_inset space ~
 \end_inset
 
