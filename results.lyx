@@ -169,8 +169,8 @@ noprefix "false"
 .
  Most of the students have improved in all their corresponding stages, except
  for those students who were enrolled in the first year of VETM.
- Being the group with the highest number of students XXX.
- Indeed, the marks of these students have decreased.
+ Being the group with the highest number of students, the marks of these
+ students have decreased.
 \end_layout
 
 \begin_layout Standard
@@ -472,7 +472,9 @@ reference "fig:maxavg"
  It can be seen these values have improved in most cases, except in the
  first year of VETS, which is directly related to the decrease in the average
  scores mentioned above.
- The second year of VETM course is the one that has improved the most XXXporque.
+ The second year of VETM course is the one that has improved the most.
+ Students have made a greater effort, as the final global assessments are
+ more important than the intermediate assessments.
 \end_layout
 
 \begin_layout Standard
@@ -1296,11 +1298,11 @@ reference "tab:resultsbysex"
 
 \end_inset
 
- show that girls, though a minority group, have attained better results
- XXXmedias??.
+ show that girls, though a minority group (28%), have attained better results,
+ with an average improvement of 0.52 points.
  From the gender point of view, both boys and girls have improved their
  scores in the DL term, although the female group have performed better
- with an average improvement of 0.52 points.
+ with a difference of 0.16 points.
  This outcome could have been due to the fact that this specific group of
  female students have presumably organised themselves better than their
  male counterparts and with less computer distraction.
@@ -1687,7 +1689,11 @@ As a general rule, teachers have tried to respect learning contents and
  (but more or less achievable) challenge.
  However, evaluations (exams) have been the most difficult problem to solve
  as the teachers have had to monitor the students reactions from a distance.
- XXXcono se han hecho los examens
+ The exams have had to be adapted, developed more types, shorter, time-controlle
+d and complemented by other measurements.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Note Note
 status open
 

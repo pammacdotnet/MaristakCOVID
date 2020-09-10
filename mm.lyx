@@ -152,6 +152,15 @@ reference "tab:periods"
 \end_inset
 
 .
+ The selected periods are different for each group, in HS they correspond
+ to the assessment periods (common to all groups at each level) and in VET
+ to the start and end dates of the challenges.In the latter case, each stage,
+ level, and specialty manages different dates, according to the challenges
+ defined for each group.
+ In the second VET courses, students with subjects not passed in the regular
+ call have been selected.
+ In these cases, the dates coincide with the regular and extraordinary assessmen
+t periods.
 \end_layout
 
 \begin_layout Standard
@@ -1739,20 +1748,6 @@ s for each scholar cycle.
 \end_layout
 
 \begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
 \begin_inset Note Note
 status open
 
