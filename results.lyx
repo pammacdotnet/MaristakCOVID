@@ -115,7 +115,7 @@ name "sec:results"
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 The scenario tackled in 
@@ -184,10 +184,9 @@ noprefix "false"
 
 .
  Most of the students have improved in all their corresponding stages, except
- for those students who were enrolled in the first year of VETM XXXQué ha
- pasado?? No sería VETS??.
+ for those students who were enrolled in the first year of VETS.
  Being the group with the highest number of students, the marks of these
- students have decreased XXXNo hay más explicación.
+ students have decreased (detailed below).
 \begin_inset space ~
 \end_inset
 
@@ -195,7 +194,7 @@ noprefix "false"
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \noindent
@@ -267,7 +266,7 @@ name "fig:improvement"
 placement h
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \noindent
@@ -356,10 +355,14 @@ reference "fig:avgbycourse"
  fashion and the achieved grades are shared.
  Therefore, it can be deduced that collaborative work has failed in online
  classes from the data extracted from the final results of the students.
- The fact that the students cannot work together has proven to affect their
+ 
+\end_layout
+
+\begin_layout Standard
+The fact that the students cannot work together has proven to affect their
  learning process and motivation and consequently, their grades.
- This situation has not significantly affected VET levels who, as mentioned
- in 
+ This situation has not significantly affected the second VET courses who,
+ as mentioned in 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "sec:materials+methods"
@@ -370,8 +373,7 @@ noprefix "false"
 \end_inset
 
 , have worked mainly individually in the DL period.
- XXXNo me queda claro: VET hace trabajo en grupo o no?? En este párrafo
- estamos diciendo una cosa y la contraria.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -1757,7 +1759,15 @@ As a general rule, teachers have tried to respect the already scheduled
  as the teachers have had to monitor the students reactions from a distance.
  The exams have had to be adapted, diversified, shorter, time-controlled
  and complemented by other measurements.
- XXX más detalles de los exámenes.
+ For example, create different exams for students in the same group to avoid
+ plagiarism as much as possible, switch to the written exam orally, do the
+ exams in smaller groups, even individually.
+ The exams have been recorded to have evidence in case of doubts in the
+ correction and in HS specific software has been used to monitor the momento
+ of the exam.
+ In some cases, digital tools (forms) have been used and in other cases
+ a combination of resources (do the task by hand, take a photo and upload
+ to the online platform).
 \end_layout
 
 \begin_layout Standard
@@ -1796,15 +1806,17 @@ name "sec:satisfaction"
 \begin_layout Standard
 As a side result, we present here a study carried out by the school to find
  out the degree of satisfaction of the students’ families.
+ A survey of 12 questions (selection and development) related DL was sent
+ through the school’s communication platform.
+ It was done as an exception to get to know the opinions of families.
  A total of 84 replies (concerning the levels/courses used for this study)
- were received, leading to the following conclusions: XXX más detalles del
- survey (num preguntas, formato, comparación general con otros años, etc.).
+ were received, leading to the following conclusions: 
 \end_layout
 
 \begin_layout Itemize
-97.8% knew the situation of the tasks and follow-up of the students carried
- out from the school.
- XXX no entiendo la frase
+97.8% of families knew the situation of the students' tasks and follow-up
+ of the students carried out from the school.
+ 
 \end_layout
 
 \begin_layout Itemize
