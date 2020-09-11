@@ -153,10 +153,26 @@ reference "sec:materials+methods"
 \end_inset
 
 , we have achieved the following results.
- To begin with, the comparative percentages of the number of students who
- have maintained or improved their score, versus those who have worsened,
- together with the number of students in each stage and course, are represented
- 
+ However, in 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sec:satisfaction"
+
+\end_inset
+
+, we also present the outcomes derived from an anonymous satisfaction questionna
+ire sent to the families at the end of the academic year in order to know
+ the sincere opinion about the course development.
+\end_layout
+
+\begin_layout Subsection
+F2F2DL grades analysis
+\end_layout
+
+\begin_layout Standard
+The comparative percentages of the number of students who have maintained
+ or improved their score, versus those who have worsened, together with
+ the number of students in each stage and course, are represented 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "fig:improvement"
@@ -168,16 +184,18 @@ noprefix "false"
 
 .
  Most of the students have improved in all their corresponding stages, except
- for those students who were enrolled in the first year of VETM.
+ for those students who were enrolled in the first year of VETM XXXQué ha
+ pasado?? No sería VETS??.
  Being the group with the highest number of students, the marks of these
- students have decreased.
-\end_layout
+ students have decreased XXXNo hay más explicación.
+\begin_inset space ~
+\end_inset
 
-\begin_layout Standard
+
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \noindent
@@ -196,12 +214,34 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Percentage of students by stage and course, with percentage of students
- who have improved the score with those who have worsened.
- 1: first level, 2: second level.
- HS: High School, VETB: Basic Vocational Education and Training, VETM: Middle
- Grade Vocational Education and Training, VETS: Higher Degree Vocational
- Education and Training.
+Percentage of students by study (HS, VETB, VETM and VETS) and course (
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{1}
+\end_layout
+
+\end_inset
+
+ and 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{2}
+\end_layout
+
+\end_inset
+
+), together with the ratios of students who have improved their scores and
+ those who have not.
 \begin_inset space ~
 \end_inset
 
@@ -223,35 +263,11 @@ name "fig:improvement"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-As shown in 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "fig:improvement"
-
-\end_inset
-
-, after the DL scholar timespan, the scores are almost always higher than
- their F2F counterparts.
- The first year of HS achieves the highest average score.
- In contrast, the second VETB course is the one with the lowest score difference.
- From our point of view, the reason for this result is not directly related
- to the current emergency situation, but with the fact that some of these
- VETB 1st-year students had previous academic difficulties.
- Consequently, this 
-\emph on
-dropouts 
-\emph default
-group lowers the average score for the course.
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float figure
+placement h
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \noindent
@@ -270,11 +286,15 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Average scores grouped by stage and course.
- 1: first level, 2: second level.
- HS: High School, VETB: Basic Vocational Education and Training, VETM: Middle
- Grade Vocational Education and Training, VETS: Higher Degree Vocational
- Education and Training.
+Detailed view of 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:improvement"
+
+\end_inset
+
+, including also average scores grouped by stage, course and period (F2F
+ vs DL).
 \begin_inset space ~
 \end_inset
 
@@ -299,8 +319,23 @@ name "fig:avgbycourse"
 \end_layout
 
 \begin_layout Standard
-The difference between the average scores in the normal situation compared
- to the COVID situation is displayed in 
+The first year of HS achieves the highest average score.
+ This fact may surely have to do with the preparation of the EAU official
+ exams commented below.
+ In contrast, the second VETB course is the one with the lowest score difference.
+ From our point of view, the reason for this result is not directly related
+ to the current emergency situation, but with the fact that some of these
+ VETB 1st-year students had previous academic difficulties.
+ Consequently, this 
+\emph on
+dropouts 
+\emph default
+group lowers the average score for the course.
+\end_layout
+
+\begin_layout Standard
+The difference between the average scores between the F2F (pre-COVID) and
+ DL (COVID) scenarios is displayed in 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "fig:avgbycourse"
@@ -308,8 +343,8 @@ reference "fig:avgbycourse"
 \end_inset
 
 .
- In most cases, the difference has been positive (66%) compared to 34% of
- the students who have not benefited from the transition.
+ Again, in most cases, the difference has been positive (66%) compared to
+ 34% of the students who have not benefited from the transition.
  The greatest positive difference has been achieved by the second year of
  VETM course, with an average improvement of 0.76 points.
  However, the first year of the VETM and VETS courses have obtained a negative
@@ -322,7 +357,7 @@ reference "fig:avgbycourse"
  Therefore, it can be deduced that collaborative work has failed in online
  classes from the data extracted from the final results of the students.
  The fact that the students cannot work together has proven to affect their
- work and consequently, their results.
+ learning process and motivation and consequently, their grades.
  This situation has not significantly affected VET levels who, as mentioned
  in 
 \begin_inset CommandInset ref
@@ -335,6 +370,8 @@ noprefix "false"
 \end_inset
 
 , have worked mainly individually in the DL period.
+ XXXNo me queda claro: VET hace trabajo en grupo o no?? En este párrafo
+ estamos diciendo una cosa y la contraria.
 \end_layout
 
 \begin_layout Standard
@@ -437,51 +474,38 @@ name "fig:diffscores"
 \end_layout
 
 \begin_layout Standard
-Our results also show general very good results regarding all HS students/states
-, where DL-attained scores have been higher than those obtained in the F2F
- season.
+As affirted above, our survey also shows general very good results regarding
+ all HS students/states.
+ In this case, the DL-attained scores have been higher than those obtained
+ in the F2F season.
  This clearly evidences that well trained (HS) students are more than qualified
  to confront future similar F2F2FL situations.
  These students have also achieved very good marks in the Access to University
  (EAU) tests that took place in late July 2020.
- The 50% of the students of the second year of HS have chosen to take the
- test in the aforementioned (ordinary) call.
+ Half of the students of the second year of HS have chosen to take the test
+ in the aforementioned (ordinary) call.
  All of these students (100%) did successfully pass their exams with an
  average mark of 7.13 (of 10) points.
  On the other hand, the extraordinary (September) call has not been so successfu
 l: the results have not been so good compared to the July call (only a 77%
  of the students were successful) but better than those achieved in the
- September call that took place in the 2019.
+ September call that took place in 2019.
  There may be two possible explanations for this.
  One could be that some students were encouraged to take the EAU tests assuming
  that they would be easier and more flexible than previous years (which
  was not the case).
  The second cause may be have been associated to the generalised state of
- exhaustion (mostly due to the bothering confinement setting) and undoubtedly,
- the psychologically need for holidays.
-\end_layout
-
-\begin_layout Standard
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "fig:maxavg"
-
+ exhaustion (mostly due to the bothering and stressful confinement setting)
+ and undoubtedly, the psychological need for holidays and for a return to
+ a normal life/routines.
+\begin_inset space ~
 \end_inset
 
- shows the maximum scores obtained by the students in both situations.
- It can be seen these values have improved in most cases, except in the
- first year of VETS, which is directly related to the decrease in the average
- scores mentioned above.
- The second year of VETM course is the one that has improved the most.
- Students have made a greater effort, as the final global assessments are
- more important than the intermediate assessments.
-\end_layout
 
-\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \noindent
@@ -574,6 +598,48 @@ name "fig:maxavg"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:maxavg"
+
+\end_inset
+
+ shows the maximum scores obtained by the students in both situations.
+ It can be seen these values have improved in most cases, except in the
+ 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{1}
+\end_layout
+
+\end_inset
+
+-year VETS, which is directly related to the decrease in the average scores
+ mentioned above.
+ The 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{2}
+\end_layout
+
+\end_inset
+
+-year of VETM is the one that has improved the most.
+ Students have made a greater effort, as the final global assessments are
+ more important than the intermediate ones.
 \end_layout
 
 \begin_layout Standard
@@ -1301,11 +1367,11 @@ reference "tab:resultsbysex"
  show that girls, though a minority group (28%), have attained better results,
  with an average improvement of 0.52 points.
  From the gender point of view, both boys and girls have improved their
- scores in the DL term, although the female group have performed better
- with a difference of 0.16 points.
- This outcome could have been due to the fact that this specific group of
- female students have presumably organised themselves better than their
- male counterparts and with less computer distraction.
+ scores in the DL term, although the female group has performed better with
+ a difference of 0.16 points.
+ This outcome could have been due to the fact that female students have
+ presumably organised themselves better than their male counterparts and
+ have suffered from less digital/social network (SN) distractions.
  However, as evinced by the work carried out by
 \begin_inset space ~
 \end_inset
@@ -1319,7 +1385,7 @@ literal "true"
 \end_inset
 
 , in general terms, there seems not to be critical differences regarding
- gender differences in online learning settings.
+ gender in online learning settings.
 \end_layout
 
 \begin_layout Standard
@@ -1672,25 +1738,26 @@ name "tab:resultsbysex"
 
 The teaching staff emphasises that, in general, most of the students have
  adapted well to the DL situation, which has been an authentic challenge
- for the teaching staff in some stages.
+ for the teaching staff, specially in some stages.
  Educators have made a great effort and done a good job trying to avoid
  the abandonment and disconnection of the students.
  Monitoring students from a distance is an arduous task that teachers have
- had to face, taking into account the uncontrolled distractions that exist
- today among teenagers and youngsters.
+ had to face, taking into account the above mentioned uncontrolled SN-based
+ distractions that exist today among teenagers and youngsters.
  
 \end_layout
 
 \begin_layout Standard
-As a general rule, teachers have tried to respect learning contents and
- class timetables in the F2F format, while reproducing as many activities
- as possible in the new format.
+As a general rule, teachers have tried to respect the already scheduled
+ learning contents and class timetables organised for the F2F format, while
+ reproducing as many activities as possible in the new online format.
  Transforming teamwork activities to their online version has been a great
  (but more or less achievable) challenge.
  However, evaluations (exams) have been the most difficult problem to solve
  as the teachers have had to monitor the students reactions from a distance.
- The exams have had to be adapted, developed more types, shorter, time-controlle
-d and complemented by other measurements.
+ The exams have had to be adapted, diversified, shorter, time-controlled
+ and complemented by other measurements.
+ XXX más detalles de los exámenes.
 \end_layout
 
 \begin_layout Standard
@@ -1711,20 +1778,33 @@ Therefore, it has been essential to maintain continuous contact through
 
 \end_layout
 
-\begin_layout Subsection*
+\begin_layout Subsection
 Family satisfaction Report
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:satisfaction"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-A study carried out by the school to find out the degree of satisfaction
- of the students’ families, with 84 replies received, leads to the following
- conclusions:
+As a side result, we present here a study carried out by the school to find
+ out the degree of satisfaction of the students’ families.
+ A total of 84 replies (concerning the levels/courses used for this study)
+ were received, leading to the following conclusions: XXX más detalles del
+ survey (num preguntas, formato, comparación general con otros años, etc.).
 \end_layout
 
 \begin_layout Itemize
 97.8% knew the situation of the tasks and follow-up of the students carried
  out from the school.
- 
+ XXX no entiendo la frase
 \end_layout
 
 \begin_layout Itemize

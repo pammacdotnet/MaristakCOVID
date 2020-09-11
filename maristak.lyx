@@ -114,10 +114,30 @@ name "sec:maristas"
 \end_layout
 
 \begin_layout Standard
-The Marist Brothers were founded by Saint Marcellin Champagnat (1789-1840)
- and are especially dedicated to the education of children and young people,
- with more attention to those who need it most.
- Formation is a fundamental pillar on which the present and future of the
+The Marist Brothers
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://maristas.es
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ were founded by Saint Marcellin Champagnat (1789-1840) and are especially
+ dedicated to the education of children and young people, with more attention
+ to those who need it most.
+ Education is a fundamental pillar on which the present and future of the
  Marist mission are built.
  The 
 \emph on
@@ -129,20 +149,11 @@ Institute of the Marist Brothers
 \end_layout
 
 \begin_layout Standard
-The 
-\begin_inset CommandInset href
-LatexCommand href
-name "Marist"
-target "https://maristas.es/"
-literal "false"
-
-\end_inset
-
- Provinces with activities in Spain (
+The Marist Provinces develop activities in Spain (
 \emph on
 Compostela, Ibérica, L'Hermitage and Mediterránea
 \emph default
-) constitute a group called 
+) under the name 
 \emph on
 Marist Conference of Provinces with activities in Spain
 \emph default
@@ -197,12 +208,23 @@ name "sec:iberica"
 \end_layout
 
 \begin_layout Standard
-The Marist 
-\begin_inset CommandInset href
-LatexCommand href
-name "Iberian Province"
-target "https://maristasiberica.es/"
-literal "false"
+The Marist Iberian Province
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+https://maristasiberica.es
+\end_layout
+
+\end_inset
+
+
+\end_layout
 
 \end_inset
 
@@ -289,7 +311,8 @@ literal "true"
 
  and its strong commitment in the advancement of technology in the academic
  environment.
- The innovative approach of the schools are cooperative learning 
+ Besides the aforementioned strong points, another pioneering pedagogic
+ approach is the advocacy for cooperative 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Kagan1994"
@@ -297,21 +320,7 @@ literal "false"
 
 \end_inset
 
- and collaborative learning.
- Not in vain, a great deal of work has been done in recent years related
- to the incorporation of ICT in the classroom
-\begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-, which establishes it as a benchmark in this field, allowing an analysis
- of great interest to the entire educational community, with the aim of
- continuing to progress in obtaining better results
-\end_layout
-
-\end_inset
-
-.
+ and collaborative learning in the classroom.
  
 \end_layout
 
@@ -384,15 +393,15 @@ In turn, the goal of promoting ICT among students is to foster their ability
  to search, analyze, use, produce and share their own information.
  Currently, education faces the challenge of preparing professionals to
  be able to integrate into a world mediated by rapid technological advances.
- Students must be prepared to adapt to this current rapidly changing society
- and be able to apply for emerging jobs in the best possible conditions.
+ Students should also be prepared to be able to apply for emerging jobs
+ and in the best possible conditions.
  Today's students consider themselves digital natives and use technology
  on a daily basis, but in very different ways, depending on their age and
  economic status.
  The educators' job is to make sure they receive the same tools and knowledge
  to help reduce the digital gap.
- This fact raises a new technological paradigm, where the focus of Information
- Technology (IT) has now turned to Learning Technology (LT).
+ This fact raises a new technological paradigm, where the focus of information
+ technology (IT) has now turned to learning technology (LT).
  In other words.
  technology serves as a vehicle to achieve meaningful learning by students.
  This fact has proven crucial to face the emergency situation described
@@ -846,9 +855,6 @@ l technologies,where includes Maristak Durango.
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -888,9 +894,6 @@ literal "false"
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -904,7 +907,7 @@ The effort and investment made so far, has led to the decision to measure
 
 \end_inset
 
- 
+
 \begin_inset Note Note
 status collapsed
 
@@ -928,9 +931,6 @@ Due to the current situation in relation to COVID-19, the Durango school
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -998,8 +998,8 @@ The F2F digital infrastructure of Maristak-Durango already comprised an
  Chrome (with some useful extensions), Gmail, Calendar, Drive, Documents,
  Sheets, Slides, Forms, CoRubrics, Moodle, Classroom, Google Meet, Hangouts,
  Jamboard, etc.
- Here are some examples of how these tools were implemented in a regular
- DL school day: 
+ Here are some examples of these LT tools and how they have been implemented
+ in a regular DL home-based school day: 
 \end_layout
 
 \begin_layout Enumerate
@@ -1086,28 +1086,30 @@ https://jamboard.google.com
 \end_inset
 
  is used as a whiteboard in the virtual class and some Chrome extensions
- to make corrections about the student's work.
+ are enabled to make corrections about the student's work.
  
 \end_layout
 
 \begin_layout Enumerate
 Google Hangouts are used for instant communications (chat), for example
  in an exam.
- 
+ XXXcomo?
 \end_layout
 
 \begin_layout Standard
-During the learning process, student cooperation is very important, because
- students work virtually both individually and in teams.
- Regarding the evaluation process, individual or group demonstrations have
- been carried out through videoconference, in addition to individual virtual
- exams and questionnaires (sharing desk, recording and limiting time).
- To alleviate the situation, some measures have been devised: 
+Regarding the evaluation process, individual or group demonstrations have
+ been carried out through videoconference.
+ XXXcomo los examenes?
+\end_layout
+
+\begin_layout Standard
+To alleviate the situation XXXqué situación, some measures have been devised:
+ 
 \end_layout
 
 \begin_layout Itemize
 Slightly reduce the weight (in the final score) of the last challenges.
- 
+ XXXque son los challenges??
 \end_layout
 
 \begin_layout Itemize

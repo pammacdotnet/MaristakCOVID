@@ -142,55 +142,18 @@ hanges
  other relevant social circumstances.
  Students are also generally able to adapt themselves to these transitions
  with ease.
- 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Needless to say, the teaching/institutional workforce may also count on
- youth as a powerful ally.
-\end_layout
-
-\end_inset
-
  However, when these events take place in a radical short period of time,
  it might be no so straightforward to circumvent all the possible associated
  problems and issues.
-\end_layout
-
-\begin_layout Standard
-A special kind of adaptation is that related to the sudden and unrehearsed
- transitions from conventional classroom to online learning.
- This might be the typical disastrous outline associated to catastrophe-level
- events (CLE) that take place in a city or a region (floods, fires, earthquakes,
- etc.), country-wise (political instability, widespread riots, civil confrontatio
-ns, etc.), or even globally (pandemics, incidents at nuclear power plants,
- large-scale tsunamis, etc.) or in a single school (construction deficiencies,
- etc.).
- Some real and contemporary examples of these CLEs (and their tangible impact
- on education) have been summarised in 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "tab:cles"
-
-\end_inset
-
-.
- Only in three occasions (highlighted in grey), learning institutions temporaril
-y switched to online methodologies.
 \begin_inset space ~
 \end_inset
 
-This fact (lack of examples) may point to a new research field associated
- to the exploration of new learning methodologies and the application of
- state-of-the-art educational technologies in CLE-grounded learning circumstance
-s.
- 
+
 \begin_inset Float table
 placement h
 wide false
 sideways false
-status open
+status collapsed
 
 \begin_layout Plain Layout
 \begin_inset ERT
@@ -2256,6 +2219,35 @@ name "tab:cles"
 \end_layout
 
 \begin_layout Standard
+A special kind of adaptation is that related to the sudden and unrehearsed
+ transitions from conventional classroom to online learning.
+ This might be the typical disastrous outline associated to catastrophe-level
+ events (CLE) that take place in a city or a region (floods, fires, earthquakes,
+ etc.), country-wise (political instability, widespread riots, civil confrontatio
+ns, etc.), or even globally (pandemics, incidents at nuclear power plants,
+ large-scale tsunamis, etc.) or in a single school (construction deficiencies,
+ etc.).
+ Some real and contemporary examples of these CLEs (and their tangible impact
+ on education) have been summarised in 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "tab:cles"
+
+\end_inset
+
+.
+ Only in three occasions (highlighted in grey), learning institutions temporaril
+y switched to online methodologies.
+\begin_inset space ~
+\end_inset
+
+This fact (lack of examples of cataclysmic eventualities forcing home-schooling
+ intervals) may point to a new research field associated to the exploration
+ of new learning methodologies and the application of state-of-the-art education
+al technologies in CLE-grounded learning circumstances.
+\end_layout
+
+\begin_layout Standard
 \begin_inset Note Note
 status collapsed
 
@@ -2299,10 +2291,6 @@ recs.pdf
 
 \end_inset
 
-
-\end_layout
-
-\begin_layout Standard
 Another good example that perfectly follows a global scale CLE-orbit (i.e.,
  worldwide rapid and unforeseen emergency situation) is the recent COVID-19
  outbreak.
