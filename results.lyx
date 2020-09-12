@@ -399,7 +399,8 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Difference in scores (F2F - DL) by stage (HS, VETB/M/S) and course (
+Difference in scores (F2F - DL) by stage (HS, VETB/M/S) and school year
+ (
 \family roman
 \series medium
 \shape up
@@ -476,7 +477,7 @@ name "fig:diffscores"
 \end_layout
 
 \begin_layout Standard
-As affirted above, our survey also shows general very good results regarding
+As affirmed above, our survey also shows general very good results regarding
  all HS students/states.
  In this case, the DL-attained scores have been higher than those obtained
  in the F2F season.
@@ -655,8 +656,8 @@ reference "tab:finalresults"
  It is clear that except for the VETS (average: -0.17 points), the rest of
  the stages have been positively affected.
  The average obtained in the evaluation of the subjects corresponding to
- each stage during the period prior to the COVID is 6.19 (normal/F2F), while
- the average during the COVID period is 6.35 (DL).
+ each stage during the period prior to the COVID period is 6.19 (normal/F2F),
+ while the average during the pandemic timespan is 6.35 (DL).
  The difference is positive, 0.16 points.
  66% of the students have improved or maintained their results, compared
  to 34% who have decreased their grades.
@@ -1804,13 +1805,14 @@ name "sec:satisfaction"
 \end_layout
 
 \begin_layout Standard
-As a side result, we present here a study carried out by the school to find
- out the degree of satisfaction of the students’ families.
- A survey of 12 questions (selection and development) related DL was sent
- through the school’s communication platform.
- It was done as an exception to get to know the opinions of families.
- A total of 84 replies (concerning the levels/courses used for this study)
- were received, leading to the following conclusions: 
+As a side result, we present here the summarised outcomes of an exceptional
+ study carried out by the school to find out the degree of satisfaction
+ of the students’ families.
+ A survey of 12 questions (multiple choice and free form filling types)
+ related to the teaching staff response during the DL period was sent through
+ the school’s communication platform.
+ A total of 84 replies (concerning the same levels/courses used for this
+ study) were received, leading to the following conclusions: 
 \end_layout
 
 \begin_layout Itemize
@@ -1820,14 +1822,15 @@ As a side result, we present here a study carried out by the school to find
 \end_layout
 
 \begin_layout Itemize
-74.2% were fairly or very satisfied with the volume of work sent to the student.
- 14.9% indicated an excess of workload.
+74.2% were fairly or very satisfied with the volume of work sent to the students,
+ while only a 14.9% indicated an excess of workload.
  
 \end_layout
 
 \begin_layout Itemize
-89.9% were fairly or very satisfied with the information sent to the families.
- 6.4% indicated a lack of information.
+89.9% were fairly or very satisfied with the information sent to the families
+ about the development of academic activities, while a 6.4% indicated a lack
+ of information.
  
 \end_layout
 
@@ -1839,6 +1842,13 @@ As a side result, we present here a study carried out by the school to find
 
 \begin_layout Itemize
 91.1% were fairly or very satisfied with the schedule.
+\end_layout
+
+\begin_layout Standard
+These positive figures contribute to strengthen even more our perception
+ about the satisfactory outcome of the school year despite the encountered
+ difficulties.
+ 
 \end_layout
 
 \end_body

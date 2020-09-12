@@ -121,8 +121,8 @@ reference "sec:covid+spain"
 
 \end_inset
 
-, on March 14, the state of alarm was decreed in order cope with the health
- crisis situation caused by COVID-19.
+, on March 14, the state of alarm was decreed in Spain in order cope with
+ the health crisis situation caused by COVID-19.
  From that moment on, the period of confinement tackled in
 \begin_inset space ~
 \end_inset
@@ -1636,6 +1636,20 @@ Beginning and end periods of the F2F and DL periods used for the statistical
  analysis carried out in this work.
  The beginning of the DL range is common and agrees with the official proclamati
 on date of the state of alarm.
+ the different start dates in VETM and VETS 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{1}
+\end_layout
+
+\end_inset
+
+ correspond to the beginning of the different challenge-based activities.
 \begin_inset space ~
 \end_inset
 
