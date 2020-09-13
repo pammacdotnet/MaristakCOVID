@@ -149,7 +149,11 @@ Institute of the Marist Brothers
 \end_layout
 
 \begin_layout Standard
-The Marist Provinces develop activities in Spain (
+The Marist schools in Spain are organised in what is called 
+\emph on
+provinces
+\emph default
+, which develop activities in Spain (
 \emph on
 Compostela, Ibérica, L'Hermitage and Mediterránea
 \emph default
@@ -171,7 +175,7 @@ Marist Conference of Provinces with activities in Spain
 \end_layout
 
 \begin_layout Subsection
-Maristas Ibérica
+Maristas Ibérica (or Marist Iberian Province)
 \begin_inset space ~
 \end_inset
 
@@ -370,14 +374,15 @@ literal "true"
 In turn, the goal of promoting ICT among students is to foster their ability
  to search, analyze, use, produce and share their own information.
  Currently, education faces the challenge of preparing professionals to
- be able to integrate into a world mediated by rapid technological advances.
+ be able to integrate themselves into a world mediated by rapid technological
+ advances.
  Students should also be prepared to be able to apply for emerging jobs
  and in the best possible conditions.
  Today's students consider themselves digital natives and use technology
  on a daily basis, but in very different ways, depending on their age and
  economic status.
  The educators' job is to make sure they receive the same tools and knowledge
- to help reduce the digital gap.
+ to help reducing the digital gap.
  This fact raises a new technological paradigm, where the focus of information
  technology (IT) has now turned to learning technology (LT).
  In other words.
@@ -500,10 +505,22 @@ https://www.maristak.com
 y and closeness.
  It is an subsidised school  (private school that receives public funds)
  that belongs to the network of educational centres in the Basque Country.
- Currently, all the academic activities at the center are carried following
- the F2F/classic model.
- With more detail, the educational stages taught at Maristak Durango are
- divided into 3 sections: 
+ All the academic activities at the center were, until March 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{14}
+\end_layout
+
+\end_inset
+
+, carried out following the F2F/classic model.
+ With more detail, the educational stages taught at Maristak Durango are:
+ 
 \end_layout
 
 \begin_layout Description
@@ -532,8 +549,10 @@ Social
 \begin_inset space ~
 \end_inset
 
-Sciences consisting of 54 students and is taught in two models, A and B.
- In the first, Spanish is used as a vehicular language.
+Sciences consisting of 54 students and is taught in two models, A and D.
+ In the first, Spanish is used as a vehicular language, and in the latter,
+ teaching is done mostly in Basque.
+ 
 \end_layout
 
 \begin_layout Description
@@ -545,8 +564,7 @@ and
 \begin_inset space ~
 \end_inset
 
-Technological with 82 students and is also teach in models A and D.
- In the latter, teaching is done mostly in Basque.
+Technological with 82 students and is taught in models A and D.
  
 \end_layout
 
@@ -589,7 +607,7 @@ Middle
 \end_inset
 
 grade or VETM has 130 students, in the three specialities, Administrative
- Management, Electrical and Automatic Installations, and Mechanized, all
+ Management, Electrical and Automatic Installations, and Mechanised, all
  in model A.
  
 \end_layout
@@ -938,8 +956,8 @@ Currently, 100% of the students have the opportunity to apply the learnt
  Teachers receive continuous training in this area, as well.
  Most of the content is delivered to the students as digital assets, through
  the school's own online campus.
- Additionally, students are provided the necessary software licenses to
- install on their devices.
+ Additionally, students are provided with the necessary software licenses
+ to install on their devices.
  In terms of devices, it is followed the 
 \emph on
 bring your own device
@@ -961,7 +979,7 @@ literal "true"
  (in the form of a device to work from home).
  These learners were all vocational students (19 in VETS, 14 in VETM and
  3 in VETB).
- The fact that his teenagers might come from families with fewer economic
+ The fact that these teenagers might come from families with fewer economic
  resources or from dysfunctional family situations (and were in the need
  for the school's support) has had an almost negligible impact in their
  academic results, as reflected in 
@@ -981,15 +999,16 @@ noprefix "false"
 The F2F digital infrastructure of Maristak-Durango already comprised an
  Internet connection and a multimedia classroom with computers for the exclusive
  use of students.
- For DL, each of the student's own device (SOD) was pre-configured with
- the necessary software (including training sessions).
+ For DL, each of the student's own device (SOD) was quickly pre-configured
+ with the necessary software (including training sessions) or counselling
+ was provided through an online helpdesk.
  Almost all of the utilities are Google platform-centric and were adapted
  to the educational environment and pre-integrated in every SOD: Google
  Chrome (with some useful extensions), Gmail, Calendar, Drive, Documents,
  Sheets, Slides, Forms, CoRubrics, Moodle, Classroom, Google Meet, Hangouts,
  Jamboard, etc.
- Here are some examples of these LT tools and how they have been implemented
- in a regular DL home-based school day: 
+ Here are some examples of these LT tools and their implemented in a regular
+ DL home-based school day: 
 \end_layout
 
 \begin_layout Enumerate
@@ -998,7 +1017,7 @@ The class is created in Google Classroom.
 \end_layout
 
 \begin_layout Enumerate
-The class assignments are created (with due date).
+The class assignments are registered.
  
 \end_layout
 
@@ -1032,13 +1051,14 @@ Students' work is reviewed directly in Classroom.
 \end_layout
 
 \begin_layout Enumerate
-For exams, questionnaires are created in Classroom with the forms tool.
+For exams, questionnaires are created in Classroom with the Google Forms
+ tool.
  
 \end_layout
 
 \begin_layout Enumerate
 The schedules of the virtual classes are stored in the Classroom calendar,
- which are linked to the corresponding meet room.
+ which are linked to the corresponding Google Meet room.
  
 \end_layout
 
@@ -1081,7 +1101,7 @@ https://jamboard.google.com
 \end_layout
 
 \begin_layout Enumerate
-Google Hangouts are used for instant communications (chat).
+Google Hangouts are used for instant communications.
  For example, in an exam, to solve doubts individually.
 \end_layout
 
@@ -1089,23 +1109,20 @@ Google Hangouts are used for instant communications (chat).
 Regarding the evaluation process, individual or group demonstrations have
  been carried out through videoconference, to replace or complement the
  exam grade.
-\end_layout
-
-\begin_layout Standard
-To alleviate the confinement situation in the F2F period, some measures
- have been devised: 
+ To further alleviate the confinement situation in the F2F period, some
+ additional measures have been devised: 
 \end_layout
 
 \begin_layout Itemize
 Slightly reduce the weight (in the final score) of those challenge-based
- activities (or just 
+ activities that were carried out in the last weeks of VET courses.
+ 
 \emph on
-challenges
+Challenges
 \emph default
-) that were carried out in the last weeks of VET courses.
- Challenges are normal homework duties, but in contrast with normal tasks,
- students are required to do some research on their own and apply some more
- thorough developments.
+ are normal homework duties, but in contrast with normal tasks, students
+ are required to do some research on their own and apply some more thorough
+ developments.
  Challenges allow students to gaining more insight about a problem and its
  possible solutions, all  through a discovery perspective.
  

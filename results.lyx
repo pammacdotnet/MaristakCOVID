@@ -162,7 +162,8 @@ reference "sec:satisfaction"
 
 , we also present the outcomes derived from an anonymous satisfaction questionna
 ire sent to the families at the end of the academic year in order to know
- the sincere opinion about the course development.
+ their sincere opinion about the course development and the change to a
+ completely online education outline.
 \end_layout
 
 \begin_layout Subsection
@@ -183,10 +184,21 @@ noprefix "false"
 \end_inset
 
 .
- Most of the students have improved in all their corresponding stages, except
- for those students who were enrolled in the first year of VETS.
- Being the group with the highest number of students, the marks of these
- students have decreased (detailed below).
+ Most of the students have improved in all their corresponding stages, (very
+ slightly) except for those students who were enrolled in VETS 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{1}
+\end_layout
+
+\end_inset
+
+-year.
 \begin_inset space ~
 \end_inset
 
@@ -318,7 +330,21 @@ name "fig:avgbycourse"
 \end_layout
 
 \begin_layout Standard
-The first year of HS achieves the highest average score.
+The 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{2}
+\end_layout
+
+\end_inset
+
+ year of HS achieves the highest difference in score (in favour of the online
+ cycle).
  This fact may surely have to do with the preparation of the EAU official
  exams commented below.
  In contrast, the second VETB course is the one with the lowest score difference.
@@ -399,60 +425,7 @@ status open
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Difference in scores (F2F - DL) by stage (HS, VETB/M/S) and school year
- (
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\xout off
-\uuline off
-\uwave off
-\noun off
-\color none
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-nth{1}
-\end_layout
-
-\end_inset
-
- and 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-nth{2}
-\end_layout
-
-\end_inset
-
-
-\family default
-\series default
-\shape default
-\size default
-\emph default
-\bar default
-\strikeout default
-\xout default
-\uuline default
-\uwave default
-\noun default
-\color inherit
-).
+Difference in scores (F2F - DL) by study and school year.
 \begin_inset space ~
 \end_inset
 
@@ -482,13 +455,13 @@ As affirmed above, our survey also shows general very good results regarding
  In this case, the DL-attained scores have been higher than those obtained
  in the F2F season.
  This clearly evidences that well trained (HS) students are more than qualified
- to confront future similar F2F2FL situations.
+ to confront future similar F2F2DL situations.
  These students have also achieved very good marks in the Access to University
  (EAU) tests that took place in late July 2020.
  Half of the students of the second year of HS have chosen to take the test
  in the aforementioned (ordinary) call.
  All of these students (100%) did successfully pass their exams with an
- average mark of 7.13 (of 10) points.
+ average mark of 7.13 (out of 10) points.
  On the other hand, the extraordinary (September) call has not been so successfu
 l: the results have not been so good compared to the July call (only a 77%
  of the students were successful) but better than those achieved in the
@@ -1755,25 +1728,26 @@ As a general rule, teachers have tried to respect the already scheduled
  learning contents and class timetables organised for the F2F format, while
  reproducing as many activities as possible in the new online format.
  Transforming teamwork activities to their online version has been a great
- (but more or less achievable) challenge.
+ (but achievable) challenge.
  However, evaluations (exams) have been the most difficult problem to solve
  as the teachers have had to monitor the students reactions from a distance.
- The exams have had to be adapted, diversified, shorter, time-controlled
+ The exams have had to be adapted, diversified, shortened, time-controlled
  and complemented by other measurements.
- For example, create different exams for students in the same group to avoid
- plagiarism as much as possible, switch to the written exam orally, do the
- exams in smaller groups, even individually.
- The exams have been recorded to have evidence in case of doubts in the
- correction and in HS specific software has been used to monitor the momento
- of the exam.
- In some cases, digital tools (forms) have been used and in other cases
- a combination of resources (do the task by hand, take a photo and upload
- to the online platform).
+ For example, different exam models were designed in order to to avoid plagiaris
+m as much as possible and some tests were performed as auditions through
+ videoconferencing software.
+ In this last case, sessions were recorded as have evidence.
+ Regarding written exams, live web forms were seldom used, but 
+\emph on
+old-school
+\emph default
+ handwriting was also allowed (in this case, the student just had to take
+ a photo and upload it to the online campus).
 \end_layout
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Therefore, it has been essential to maintain continuous contact through

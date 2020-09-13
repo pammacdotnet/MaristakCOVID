@@ -121,8 +121,7 @@ The COVID-19 is an infectious disease detected in Wuhan, China, in December
  deaths were registered in China and more than 37.000 cases were detected
  in the rest of the world.
  The life of citizens around the world were severely affected and extraordinary
- measures to contain the pandemic had be decreed, including preventive quarantin
-e
+ measures to contain the pandemic were decreed, including preventive quarantine
 \begin_inset space ~
 \end_inset
 
@@ -366,8 +365,20 @@ https://bit.ly/spaincovid
 
 \end_inset
 
- by social media on January 31st, 2020, and was reflected by the WHO in
- its report
+ by social media on January 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{31}
+\end_layout
+
+\end_inset
+
+, 2020, and was reflected by the WHO in its report
 \begin_inset Foot
 status open
 
@@ -388,10 +399,35 @@ trep-12-ncov.pdf?sfvrsn=273c5d35_2
 
 \end_inset
 
- number 12 from February, the 1st 2020.
- From this date to March, the 14th, when the state of alarm was declared
- in Spain, a total amount of 4231 cases and 120 deaths were confirmed in
- Spain by the WHO.
+ number 12 (February 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{1}
+\end_layout
+
+\end_inset
+
+ 2020).
+ From this date to March 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{14}
+\end_layout
+
+\end_inset
+
+, when the state of alarm was declared in Spain, a total amount of 4231
+ cases and 120 deaths were confirmed in Spain by the WHO.
  
 \end_layout
 
@@ -584,8 +620,9 @@ autonomous community
 \emph on
 new normality
 \emph default
-, where social distance measures, use of masks, tight control of new cases
- and the tracking of minor outbreaks on the official and personal agendas.
+, where social distance measures, use of masks and face shields, tight control
+ of new cases and the tracking/monitoring of minor outbreaks have become
+ part of everyday life.
  In addition, the shadow of an economic crisis threatens the country at
  both the micro- and macroeconomic scales while there is a high expectation
  regarding the restart and continuity of the 2020/2010 academic year.
@@ -594,7 +631,7 @@ new normality
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Let’s face it: catastrophes have happened in the past and will undoubtedly

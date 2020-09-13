@@ -121,8 +121,21 @@ reference "sec:covid+spain"
 
 \end_inset
 
-, on March 14, the state of alarm was decreed in Spain in order cope with
- the health crisis situation caused by COVID-19.
+, on March 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+nth{14}
+\end_layout
+
+\end_inset
+
+, the state of alarm was decreed in Spain in order cope with the health
+ crisis situation caused by COVID-19.
  From that moment on, the period of confinement tackled in
 \begin_inset space ~
 \end_inset
@@ -137,10 +150,14 @@ reference "sec:globalcovid"
  began.
  All students and teachers were sent home and the DL-mode was activated.
  Although everything has seem to work out fine, from the first instants
- it was clear for the school management team that a technical and academic
- inquiry very similar to the one presented in this research work had to
- be carried out once the initial threats due to the pandemic had been controlled.
- A timetable view of the scope of this study is shown in
+ it was clear for the Maristak Durango school management team that after
+ coping with the initial threats due to the pandemic, a technical and academic
+ inquiry needed to be performed.
+ This research is the one presented in this paper.
+\end_layout
+
+\begin_layout Standard
+A timetable view of the scope of this study is shown in
 \begin_inset space ~
 \end_inset
 
@@ -152,16 +169,21 @@ reference "tab:periods"
 \end_inset
 
 .
- The selected periods are different for each group.
+ The selected periods are different for each group due to their different
+ study plans and curriculum.
  In HS they correspond to the assessment periods (common to all groups at
- each level) and in VET, to the start and end dates of the challenges, tackled
- above.
- In the second VET courses, only those students with failed exams in the
- regular call have been selected.
- This call ends in February, and the students who had passed everything
- were doing business internships during the DL period.
+ each level) and in VET, to the start and end dates of the challenge-based
+ exercises, tackled above.
+ In the second VET courses, only those students that had not passed their
+ exams in the regular call have been selected.
+ This call ended in February, and the students who had passed all their
+ exams were carrying out (also online) business internships during the DL
+ period.
  In these cases, the dates coincide with the regular and extraordinary assessmen
 t periods.
+ The beginning of the DL range is common and agrees with the official proclamati
+on date of the state of alarm.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -1634,22 +1656,6 @@ nth{2}
 \begin_layout Plain Layout
 Beginning and end periods of the F2F and DL periods used for the statistical
  analysis carried out in this work.
- The beginning of the DL range is common and agrees with the official proclamati
-on date of the state of alarm.
- the different start dates in VETM and VETS 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-nth{1}
-\end_layout
-
-\end_inset
-
- correspond to the beginning of the different challenge-based activities.
 \begin_inset space ~
 \end_inset
 
@@ -1704,9 +1710,10 @@ With evident uncertainty, the situation required an analysis in order to
 \end_layout
 
 \begin_layout Standard
-After the approval of the analysis proposal by the School principal, the
- teachers were summoned to a meeting by videoconference, to explain the
- purpose of the present study and request their collaboration.
+This research proposal was approved by the School principal and teachers
+ were summoned to a meeting by videoconference.
+ The goal of this kickoff meeting was to explain the purpose of the present
+ study and request their kind collaboration.
  The purpose was to collect as much data as possible during the span of
  the DL scenario and about students scores (including individual/group evolution
 ).
