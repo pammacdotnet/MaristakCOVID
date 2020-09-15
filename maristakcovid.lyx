@@ -165,7 +165,7 @@ From traditional to home-confined learning: a case study in a school involved
 \end_layout
 
 \begin_layout Author
-Iratxe Lejarreta, Natalia Padilla-Zea, and Alberto Corbi 
+Iratxe Lejarreta, Natalia Padilla-Zea, Alberto Corbi and Daniel Burgos
 \begin_inset Foot
 status open
 
@@ -214,7 +214,7 @@ literal "false"
 
 
 \begin_inset Foot
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Natalia
@@ -273,68 +273,42 @@ http://ingenieria.unir.net
 \end_inset
 
 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
 \begin_inset Foot
 status collapsed
 
 \begin_layout Plain Layout
-Alberto
+Daniel
 \begin_inset space ~
 \end_inset
 
-Corbi is senior researcher at the Research Institute for Innovation & Technology
- in Education (UNIR iTED, 
+Burgos is is a professor of technologies for education and communication
+ and the vice chancellor for transfer and technology (UNIR Research, 
 \begin_inset Flex URL
 status open
 
 \begin_layout Plain Layout
 
-http://ited.unir.net
+http://research.unir.net
 \end_layout
 
 \end_inset
 
-) and an assistant professor at the Engineering School (ESIT, 
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-http://ingenieria.unir.net
-\end_layout
-
-\end_inset
-
-), both belonging to the Universidad Internacional de La Rioja (UNIR, 
-\begin_inset Flex URL
-status open
-
-\begin_layout Plain Layout
-
-http://www.unir.net
-\end_layout
-
-\end_inset
-
-), Logroño (La Rioja), Spain.
+) at the Universidad Internacional de La Rioja (UNIR), Logroño (La Rioja),
+ Spain.
+ He is also the director of the UNESCO Chair on eLearning and of the ICDE
+ on Open Educational Resources.
+ He is also the director of UNIR iTED (Institute for Educational Research,
+ Innovation, and Technology).
  E-mail: 
 \begin_inset CommandInset href
 LatexCommand href
-target "alberto.corbi@unir.net"
+target "daniel.burgos@unir.net"
 type "mailto:"
 literal "false"
 
 \end_inset
 
 .
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \end_inset
@@ -502,6 +476,14 @@ The authors would like to thank the Maristak Durango school and the Marist
 ted.
  Authors would also like to make a personal mention to Hostaizka Sainz for
  her caring involvement.
+ 
+\end_layout
+
+\begin_layout Standard
+This research is partially funded by Universidad Internacional de la Rioja
+ (UNIR)  through the Research Institute for Innovation & Technology in Education
+ (UNIR iTED).
+ 
 \end_layout
 
 \begin_layout Standard
@@ -704,6 +686,57 @@ Dr.
  disease and clinical information standards) and environmentalism.
  He is a speaker and knowledge disseminator at radios, podcasts, scientific
  workshops, magazines, academic settings, and outreach events.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Biography
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ../COOLERPaper/daniel.jpg
+	lyxscale 30
+	width 1in
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Argument 2
+status open
+
+\begin_layout Plain Layout
+Prof.
+ Daniel Burgos
+\end_layout
+
+\end_inset
+
+ is the Vice-rector for International Research, director of the UNESCO Chair
+ on eLearning and of the ICDE Chair on Open Educational Resources, at Universida
+d Internacional de La Rioja (UNIR).
+ He is also director of the Research Institute for Innovation & Technology
+ in Education (UNIR iTED).
+ His work is focused on Adaptive, Personalised and Informal eLearning, Learning
+ Analytics, eGames, and eLearning Specifications.
+ He has published over 150 scientific papers, 20 books and 15 special issues
+ on indexed journals.
+ He has developed +55 European and Worldwide R&D projects.
+ He holds degrees in Communication (PhD), Computer Science (Dr.
+ Ing), Education (PhD), Anthropology (PhD), Business Administration (DBA),
+ and Artificial Intelligence & Machine Learning (postgraduate, at MIT).
  
 \end_layout
 

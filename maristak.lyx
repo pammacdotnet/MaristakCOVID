@@ -30,7 +30,7 @@
 \use_dash_ligatures false
 \graphics default
 \default_output_format default
-\output_sync 1
+\output_sync 0
 \bibtex_command bibtex
 \index_command default
 \float_placement tbh
@@ -371,13 +371,14 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 In turn, the goal of promoting ICT among students is to foster their ability
  to search, analyze, use, produce and share their own information.
- Currently, education faces the challenge of preparing professionals to
- be able to integrate themselves into a world mediated by rapid technological
- advances.
- Students should also be prepared to be able to apply for emerging jobs
- and in the best possible conditions.
+ Students should be prepared to be able to apply for emerging jobs and in
+ the best possible conditions.
  Today's students consider themselves digital natives and use technology
  on a daily basis, but in very different ways, depending on their age and
  economic status.
@@ -396,6 +397,11 @@ reference "sec:covid+spain"
 \end_inset
 
 .
+\end_layout
+
+\end_inset
+
+
 \begin_inset Note Note
 status collapsed
 
@@ -519,7 +525,11 @@ nth{14}
 \end_inset
 
 , carried out following the F2F/classic model.
- With more detail, the educational stages taught at Maristak Durango are:
+ 
+\end_layout
+
+\begin_layout Standard
+With more detail, the educational stages taught at Maristak Durango are:
  
 \end_layout
 
@@ -817,11 +827,12 @@ reference "fig:studentclassification"
 \end_inset
 
 , most of the students are male.
- But, there is still more evidence of the difference between the number
- of women and men in VET.
- The most evident cause might come from the specialties imparted at the
- school (according to the needs of the local industry around the school).
- Most of the jobs are traditionally associated with the male sector.
+ This gender difference is even greater in the case of VET.
+ The most plausible cause might be grounded on the professional specialties
+ lectured at the school themselves.
+ The associated curricula were originally planed according to the needs
+ of the local industry, and majority of the jobs are traditionally associated
+ with the male sector.
 \end_layout
 
 \begin_layout Standard
@@ -954,7 +965,7 @@ Within the school's digital project, a plan is established for the next
 Currently, 100% of the students have the opportunity to apply the learnt
  digital skills in the classroom.
  Teachers receive continuous training in this area, as well.
- Most of the content is delivered to the students as digital assets, through
+ Most of the content is delivered to the students as digital assets through
  the school's own online campus.
  Additionally, students are provided with the necessary software licenses
  to install on their devices.
@@ -1135,11 +1146,7 @@ Greater flexibility and sensitivity with the current situation in the evaluation
 \end_layout
 
 \begin_layout Itemize
-Regarding student commitment and sustained work, attendance at online sessions,
- level of communication/participation with teachers and work teams, emails,
- etc., have been measured weekly.
- Work delivery, task development and deadline compliances, etc., have also
- been taken into account (transversal competences).
+Some tasks and homework deadlines have been postponed.
 \end_layout
 
 \end_body

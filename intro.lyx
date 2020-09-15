@@ -165,7 +165,7 @@ status open
 \backslash
 renewcommand{
 \backslash
-arraystretch}{1.2}
+arraystretch}{1.3}
 \end_layout
 
 \end_inset
