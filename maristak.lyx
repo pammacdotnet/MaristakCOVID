@@ -372,7 +372,7 @@ literal "true"
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 In turn, the goal of promoting ICT among students is to foster their ability
@@ -430,7 +430,7 @@ ning process.
 
 \begin_layout Standard
 The Maristak Durango school operatively belongs to the network of centres
- of the Iberian Marist Province, but organisationally also responds to the
+ of the Iberian Marist Province, but organizationally also responds to the
  Department of Education of the Basque Government (DEBG).
  Besides the contribution of Marist Ibérica to the implementation of an
  ICT-grounded culture of their own initiative, the DEBG, by decree, recently
@@ -462,8 +462,8 @@ ion of telematic platforms that support pedagogical, administrative and
  staff in the digitisation processes of their teaching and administrative
  duties.
  The proposed model is structured in three levels: basic, medium and advanced.
- The Durango centre passed the aforementioned official evaluation, achieving
- the 
+ The Maristak Durango centre passed the aforementioned official evaluation,
+ achieving the 
 \emph on
 advanced
 \emph default
@@ -658,7 +658,7 @@ Employment which comprises courses that are instructed according to the
 placement h
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \noindent
@@ -991,9 +991,9 @@ literal "true"
  These learners were all vocational students (19 in VETS, 14 in VETM and
  3 in VETB).
  The fact that these teenagers might come from families with fewer economic
- resources or from dysfunctional family situations (and were in the need
- for the school's support) has had an almost negligible impact in their
- academic results, as reflected in 
+ resources or from other special family situations (and were in the need
+ for the school's support) has not had a negative impact in their academic
+ results, as reflected in 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "sec:results"
@@ -1007,7 +1007,7 @@ noprefix "false"
 \end_layout
 
 \begin_layout Standard
-The F2F digital infrastructure of Maristak-Durango already comprised an
+The F2F digital infrastructure of Maristak Durango already comprised an
  Internet connection and a multimedia classroom with computers for the exclusive
  use of students.
  For DL, each of the student's own device (SOD) was quickly pre-configured
@@ -1140,8 +1140,8 @@ Challenges
 \end_layout
 
 \begin_layout Itemize
-Greater flexibility and sensitivity with the current situation in the evaluation
- sessions.
+Greater flexibility and sensitivity with the uncommon situation in the evaluatio
+n sessions.
  
 \end_layout
 

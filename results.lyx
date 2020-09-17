@@ -274,6 +274,9 @@ name "fig:improvement"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
 \begin_inset Float figure
 placement h
 wide false
@@ -343,11 +346,11 @@ nth{2}
 
 \end_inset
 
--year of HS achieves the highest difference in score (in favour of the online
- cycle).
+-year of HS achieves the highest number of students with improvement score.
  This fact may surely have to do with the preparation of the EAU official
  exams commented below.
- In contrast, the second VETB course is the one with the lowest score difference.
+ In contrast, the second VETB course is the one with the lowest average
+ score.
  From our point of view, the reason for this result is not directly related
  to the current emergency situation, but with the fact that some of these
  VETB 1st-year students had previous academic difficulties.
@@ -368,8 +371,8 @@ reference "fig:avgbycourse"
 \end_inset
 
 .
- Again, in most cases, the difference has been positive (66%) compared to
- 34% of the students who have not benefited from the transition.
+ Again, in most cases, the difference has been positive compared to 34%
+ of the students who have not benefited from the transition.
  The greatest positive difference has been achieved by the second year of
  VETM course, with an average improvement of 0.76 points.
  However, the first year of the VETM and VETS courses have obtained a negative
@@ -457,15 +460,15 @@ As affirmed above, our survey also shows general very good results regarding
  This clearly evidences that well trained (HS) students are more than qualified
  to confront future similar F2F2DL situations.
  These students have also achieved very good marks in the Access to University
- (EAU) tests that took place in late July 2020.
+ (EAU) tests that took place in early July 2020.
  Half of the students of the second year of HS have chosen to take the test
  in the aforementioned (ordinary) call.
- All of these students (100%) did successfully pass their exams with an
- average mark of 7.13 (out of 10) points.
- On the other hand, the extraordinary (September) call has not been so successfu
-l: the results have not been so good compared to the July call (only a 77%
- of the students were successful) but better than those achieved in the
- September call that took place in 2019.
+ All of these students (100%) did successfully pass their exams achieving
+ an average mark of 7.13 (out of 10) points.
+ On the other hand, the extraordinary (late July) call has not been so successfu
+l: the results have not been so good compared to the ordinary call (only
+ a 77% of the students were successful) but better than those achieved in
+ the July call that took place in 2019.
  There may be two possible explanations for this.
  One could be that some students were encouraged to take the EAU tests assuming
  that they would be easier and more flexible than previous years (which
@@ -481,7 +484,7 @@ l: the results have not been so good compared to the July call (only a 77%
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \noindent
@@ -626,8 +629,8 @@ reference "tab:finalresults"
 \end_inset
 
  shows the results of the students' final grades.
- It is clear that except for the VETS (average: -0.17 points), the rest of
- the stages have been positively affected.
+ It is clear that except for the VETS (average difference: -0.17 points),
+ the rest of the stages have been positively affected.
  The average obtained in the evaluation of the subjects corresponding to
  each stage during the period prior to the COVID period is 6.19 (normal/F2F),
  while the average during the pandemic timespan is 6.35 (DL).
@@ -639,8 +642,8 @@ reference "tab:finalresults"
  The increase has been 0.45 points, where 79% of the students have benefited
  from an increase in their grades.
  VETS students (29.09% of the students), is the only stage where the average
- result has decreased (-0.17 points), although almost half of the leaners
- (43%) have improved their grades.
+ result has decreased (-0.17 points), although more than half of the learners
+ (51%) have improved their grades.
  VETM students (23.27% of the students) have increased their average score
  by 0.13 points.
  Finally, in VETB (9.97% of students), 61% have improved their marks by an
@@ -1031,7 +1034,7 @@ VETM
 \begin_layout Plain Layout
 
 \size small
-22
+23
 \end_layout
 
 \end_inset
@@ -1131,9 +1134,7 @@ VETS
 \begin_inset Text
 
 \begin_layout Plain Layout
-
-\size small
-30
+29
 \end_layout
 
 \end_inset
@@ -1177,7 +1178,7 @@ VETS
 \begin_layout Plain Layout
 
 \size small
-43%
+51%
 \end_layout
 
 \end_inset
@@ -1188,7 +1189,7 @@ VETS
 \begin_layout Plain Layout
 
 \size small
-57%
+49%
 \end_layout
 
 \end_inset
@@ -1344,7 +1345,7 @@ reference "tab:resultsbysex"
  with an average improvement of 0.52 points.
  From the gender point of view, both boys and girls have improved their
  scores in the DL term, although the female group has performed better with
- a difference of 0.16 points.
+ a difference of 0.51 points.
  This outcome could have been due to the fact that female students have
  presumably organised themselves better than their male counterparts and
  have suffered from less digital/social network (SN) distractions.
@@ -1733,11 +1734,13 @@ As a general rule, teachers have tried to respect the already scheduled
  as the teachers have had to monitor the students reactions from a distance.
  The exams have had to be adapted, diversified, shortened, time-controlled
  and complemented by other measurements.
- For example, different exam models were designed in order to to avoid plagiaris
-m as much as possible and some tests were performed as auditions through
+ For example, different exam models were designed in order to avoid plagiarism
+ as much as possible and some tests were performed as auditions through
  videoconferencing software.
- In this last case, sessions were recorded as have evidence.
- Regarding written exams, live web forms were seldom used, but 
+ Exam sessions were recorded as have evidence and in HS it was combined
+ with a real-time monitoring tool.
+ Regarding written exams more complex to digitize (e.g.
+ math), live web forms were seldom used, but 
 \emph on
 old-school
 \emph default
