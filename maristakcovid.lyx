@@ -214,7 +214,7 @@ literal "false"
 
 
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Natalia
@@ -266,7 +266,7 @@ http://ingenieria.unir.net
 
 \end_inset
 
-), both belonging to the Universidad Internacional de La Rioja (UNIR), Logroño
+), both part of the Universidad Internacional de La Rioja (UNIR), Logroño
  (La Rioja), Spain.
 \end_layout
 
@@ -274,15 +274,16 @@ http://ingenieria.unir.net
 
 
 \begin_inset Foot
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Daniel
 \begin_inset space ~
 \end_inset
 
-Burgos is is a professor of technologies for education and communication
- and the vice chancellor for transfer and technology (UNIR Research, 
+Burgos is a professor of technologies for education and communication and
+ the vice chancellor for knowledge transfer and technology (UNIR Research,
+ 
 \begin_inset Flex URL
 status open
 
@@ -296,9 +297,8 @@ http://research.unir.net
 ) at the Universidad Internacional de La Rioja (UNIR), Logroño (La Rioja),
  Spain.
  He is also the director of the UNESCO Chair on eLearning and of the ICDE
- on Open Educational Resources.
- He is also the director of UNIR iTED (Institute for Educational Research,
- Innovation, and Technology).
+ on Open Educational Resources, and the director of UNIR iTED (Institute
+ for Educational Research, Innovation, and Technology).
  E-mail: 
 \begin_inset CommandInset href
 LatexCommand href
@@ -471,18 +471,17 @@ Acknowledgement
 
 \begin_layout Standard
 The authors would like to thank the Maristak Durango school and the Marist
- community for their commitment to this research work, and with special
- gratitude towards the management team and teachers that have actively collabora
-ted.
- Authors would also like to make a personal mention to Hostaizka Sainz for
- her caring involvement.
+ community for their commitment to this research work, and to express special
+ gratitude to the management team and teachers that have actively collaborated.
+ The authors would also like to make a personal mention of Hostaizka Sainz
+ for her caring involvement.
  
 \end_layout
 
 \begin_layout Standard
-This research is partially funded by Universidad Internacional de la Rioja
- (UNIR)  through the Research Institute for Innovation & Technology in Education
- (UNIR iTED).
+This research is partially funded by the Universidad Internacional de la
+ Rioja (UNIR)  through the Research Institute for Innovation & Technology
+ in Education (UNIR iTED).
  
 \end_layout
 
@@ -531,9 +530,9 @@ Iratxe Lejarreta Errasti
 
 \end_inset
 
- is PhD student in Computer Science at the Universidad Internacional de
- La Rioja (UNIR) and teacher of Higher Vocational Education and Training
- (VETS), specializing in Information Technology and Cybersecurity at Maristak
+ is a PhD student in Computer Science at the Universidad Internacional de
+ La Rioja (UNIR) and a teacher of Higher Vocational Education and Training
+ (VETS), specialising in Information Technology and Cybersecurity at Maristak
  Durango (
 \begin_inset Flex URL
 status open
@@ -546,8 +545,8 @@ http://www.maristak.com
 \end_inset
 
 ).
- She has a training in the Computer Science area at the Universities of
- Mondragon Unibertsitatea (MU) (
+ She has a degree in Computer Science area at the Universities of Mondragon
+ Unibertsitatea (MU) (
 \begin_inset Flex URL
 status open
 
@@ -610,9 +609,10 @@ Dra.
 
 \end_inset
 
- is Assistant Professor at the Universidad Internacional de La Rioja (UNIR).
+ is an Assistant Professor at the Universidad Internacional de La Rioja
+ (UNIR).
  She received her PhD from the University of Granada.
- She is researcher at the Research Institute for Innovation & Technology
+ She is a researcher at the Research Institute for Innovation & Technology
  in Education (UNIR iTED, 
 \begin_inset Flex URL
 status open
@@ -624,7 +624,8 @@ http://ited.unir.net
 
 \end_inset
 
-), as part of Vice-chancellor for Knowledge Transfer and Technology (
+), as part of the vice-chancellorship for Knowledge Transfer and Technology
+ (
 \begin_inset Flex URL
 status open
 
@@ -638,8 +639,8 @@ http://transfer.unir.net
 ).
  Her main line of research is focused on e-learning, gamification and game-based
  learning.
- She develops her teaching activity at the Engineering and Technology School
- of UNIR.
+ She is developing her teaching experience at the Engineering and Technology
+ School of UNIR.
  
 \end_layout
 
@@ -679,14 +680,13 @@ Dr.
 \end_inset
 
  is a researcher at the Research Institute for Innovation & Technology in
- Education (UNIR iTED) and as an assistant professor at the Engineering
- School, which are both part of the Universidad Internacional de La Rioja
- (UNIR).
+ Education (UNIR iTED) and an assistant professor at the Engineering School,
+ both of which are part of the Universidad Internacional de La Rioja (UNIR).
  He is currently involved in e-learning standards, systems interoperability,
  medical physics, radiological protection, STEAM education, the monitoring
  of physical activities, e-health advancement (with emphasis on Alzheimer's
  disease and clinical information standards) and environmentalism.
- He is a speaker and knowledge disseminator at radios, podcasts, scientific
+ He is a speaker and knowledge disseminator for radios podcasts, scientific
  workshops, magazines, academic settings, and outreach events.
  
 \end_layout
@@ -727,8 +727,8 @@ Prof.
 \end_inset
 
  is the Vice-rector for International Research, director of the UNESCO Chair
- on eLearning and of the ICDE Chair on Open Educational Resources, at Universida
-d Internacional de La Rioja (UNIR).
+ on eLearning and of the ICDE Chair on Open Educational Resources, at the
+ Universidad Internacional de La Rioja (UNIR).
  He is also director of the Research Institute for Innovation & Technology
  in Education (UNIR iTED).
  His work is focused on Adaptive, Personalised and Informal eLearning, Learning

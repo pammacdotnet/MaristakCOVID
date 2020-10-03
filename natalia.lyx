@@ -114,14 +114,15 @@ name "sec:covid+education"
 \end_layout
 
 \begin_layout Standard
-The COVID-19 is an infectious disease detected in Wuhan, China, in December
- 2019.
- Its quick spread provoked a worldwide pandemic declared by the World Health
- Organisation (WHO) the March 11, 2020, when more than 80.000 cases and 3.100
- deaths were registered in China and more than 37.000 cases were detected
+COVID-19 is an infectious disease that was detected in Wuhan, China, in
+ December 2019.
+ Its quick spread provoked the World Health Organisation (WHO) to declare
+ a global pandemic on March 11, 2020, when more than 80 000 cases and 3100
+ deaths were registered in China and more than 37 000 cases were detected
  in the rest of the world.
- The life of citizens around the world were severely affected and extraordinary
- measures to contain the pandemic were decreed, including preventive quarantine
+ The lives of citizens around the world were severely affected and extraordinary
+ measures to contain the pandemic were decreed, including a preventive quarantin
+e
 \begin_inset space ~
 \end_inset
 
@@ -135,7 +136,7 @@ literal "false"
 
 .
  Diverse spheres of society were affected by those measures, with a high
- impact in economy
+ impact on the economy
 \begin_inset space ~
 \end_inset
 
@@ -148,8 +149,8 @@ literal "false"
 \end_inset
 
  and education.
- However, in this paper we are focused on the impact in the latter, where,
- as already evinced in
+ However, in this paper we focus on the impact on the latter, where, as
+ already revealed in
 \begin_inset space ~
 \end_inset
 
@@ -176,7 +177,7 @@ literal "true"
 \end_layout
 
 \begin_layout Subsection
-Global impact of the 2019 coronavirus crisis in education
+Global impact of the 2019 coronavirus crisis on education
 \begin_inset space ~
 \end_inset
 
@@ -204,13 +205,12 @@ literal "false"
 \end_inset
 
  studied the global impact of COVID-19 and found that 107 countries had
- closed their schools by March 2020, with around 862 million of students
- affected.
- Firstly, Chinese Universities closed their doors and tried to adapt their
- teaching methods to the new scenario.
- While taking into consideration teachers and students health and the economic
- impact for campus, Universities also studied how to adapt teaching and
- research to the new situation 
+ closed their schools by March 2020, affecting around 862 million students.
+ Firstly, Chinese universities closed their doors and tried to adapt their
+ teaching methods to the new situation.
+ While taking into consideration teachers' and students' health and the
+ economic impact for the campus, universities also studied how to adapt
+ teaching and research 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Wang2020"
@@ -220,9 +220,9 @@ literal "false"
 
 .
  Besides delaying the start of the academic course, the Chinese authorities
- asked to innovation in education, leading to the implementation of online
- educational platforms to support teachers in the training to new scenarios
- and overcome technological difficulties, as well as sharing high-quality
+ asked for innovation in education, leading to the implementation of online
+ educational platforms to support teachers in training for new scenarios
+ and overcoming technological difficulties, as well as sharing high-quality
  resources.
 \end_layout
 
@@ -245,19 +245,20 @@ literal "false"
 \end_inset
 
 , which encouraged traditional schools to migrate to online courses.
- As later would happen in many other countries, time to develop proposals
- and actions was really short and some details were missing.
+ As would later happen in many other countries, time to develop proposals
+ and actions was extremely short and some details were missing.
  However, what was assumed in the first place was that education during
- the pandemic would have different features, and would be fed with sanitary
- recommendations, including mental health care.
- Besides, this quick F2F2DL manoeuvre has generated several doubts about
- work overload and the status work-life balance which are still under study.
+ the pandemic would have different features, and would be supplied with
+ sanitary recommendations, including mental health care.
+ Further, this quick F2F2DL manoeuvre has generated several doubts about
+ work overload and the status of work-life balance, which are still under
+ study.
 \end_layout
 
 \begin_layout Standard
-While the effect of the pandemic advanced worldwide, the different countries
+As the effect of the pandemic advanced worldwide, the different countries
  took social distancing, isolation and quarantine measures, including restrictio
-ns to educational centres
+ns for educational centres
 \begin_inset space ~
 \end_inset
 
@@ -270,17 +271,17 @@ literal "false"
 \end_inset
 
 .
- More than 100 countries have closed their schools, although some small
- differences or exceptions could be found.
+ More than 100 countries closed their schools, although some small differences
+ or exceptions could be found.
  For example, Germany and Italy declared a complete closure of schools,
- but United Kingdom allowed classes assistance to children of workers of
+ but the United Kingdom allowed classes to run for children of workers in
  the key industries.
  
 \end_layout
 
 \begin_layout Standard
-Although these initiatives have a clear goal to break the spread of the
- disease, some co-lateral effects have been found.
+Although these initiatives have the clear goal of preventing the spread
+ of the disease, some co-lateral effects have been found.
  For example, authors in 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -289,7 +290,7 @@ literal "false"
 
 \end_inset
 
- have put the focus on sedentarism and gain of weight of confined students,
+ have put the focus on sedentarism and weight gain of confined students,
  and
 \begin_inset space ~
 \end_inset
@@ -302,15 +303,15 @@ literal "false"
 
 \end_inset
 
- pointed out that the dropout rates can increase, as well as students with
- low incomes are unable to receive their free meals.
+ pointed out that dropout rates may increase, and students with low incomes
+ are unable to receive their free meals.
  Moreover, families in that situation experience other difficulties related
- to education of children, such as a poor access to ICT.
+ to education of children, such as poor access to ICT.
  
 \end_layout
 
 \begin_layout Subsection
-The COVID19 outbreak and the Spanish schooling system
+The COVID-19 outbreak and the Spanish schooling system
 \begin_inset space ~
 \end_inset
 
@@ -345,7 +346,7 @@ https://bit.ly/covidevolspain
 
 \end_inset
 
-
+,
 \begin_inset Foot
 status open
 
@@ -365,20 +366,8 @@ https://bit.ly/spaincovid
 
 \end_inset
 
- by social media on January 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-nth{31}
-\end_layout
-
-\end_inset
-
-, 2020, and was reflected by the WHO in its report
+ on social media on January 31, 2020, and was reflected by the WHO in its
+ report
 \begin_inset Foot
 status open
 
@@ -426,13 +415,13 @@ nth{14}
 
 \end_inset
 
-, when the state of alarm was declared in Spain, a total amount of 4231
- cases and 120 deaths were confirmed in Spain by the WHO.
+, when the state of emergency was declared in Spain, a total of 4231 cases
+ and 120 deaths were confirmed in Spain by the WHO.
  
 \end_layout
 
 \begin_layout Standard
-The state of alarm was intended to 
+The state of emergency was intended to 
 \emph on
 guarantee citizens’ health, contain the spread of the disease and reinforce
  the sanitary system
@@ -458,16 +447,16 @@ https://www.boe.es/eli/es/rd/2020/03/14/463/con
 \end_inset
 
 .
- The most relevant measures imposed by this state of alarm were related
+ The most relevant measures imposed by this state of emergency were related
  to the limitation of free circulation of people (only allowed for the acquisiti
 on of food and basic goods, medical reasons, or taking care of dependent
  people).
- Travel to work was permitted when the employer requested so and for those
- jobs considered essential (transportation, health, food dispatch, etc.)
+ Travel to work was permitted when the employer requested it and for those
+ jobs considered essential (transportation, health, food delivery, etc.)
  as well.
  
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Perhaps the only exception regarding 
@@ -485,7 +474,7 @@ fundamental activities
 \end_layout
 
 \begin_layout Standard
-In the educative field, the Royal Decree 463/2020 document
+In the education field, the Royal Decree 463/2020 document
 \begin_inset Foot
 status open
 
@@ -510,10 +499,10 @@ https://www.boe.es/eli/es/rd/2020/03/14/463/con
 containment measures for education and training
 \emph default
 .
- This entailed the suspension of any kind of formative F2F formation, promoting
+ This entailed the suspension of any kind of formative F2F training, promoting
  the transition to an online methodology whenever possible.
- With more detail, in this ministerial order, the Ministry of Education
- shared a set of resources to be used in the online teaching
+ In this ministerial order, the Ministry of Education shared a set of resources
+ to be used in the online teaching
 \begin_inset Foot
 status open
 
@@ -534,11 +523,11 @@ http://www.educacionyfp.gob.es/destacados/covid19.html
 \end_inset
 
 , including a collection of digital resources, open courses for teachers,
- TV channel with educational contents divided by ages, access to private
- initiatives freely available, recommendations, etc.
+ a TV channel with educational content divided by age, access to freely
+ available private initiatives, recommendations, etc.
  Moreover, the Ministry of Education provided students in economic difficulties
- with SIM cards with Internet connection, in order to ease their continuity
- in the educative system
+ with SIM cards with Internet connection, in order to enable continuity
+ in the education system
 \begin_inset Foot
 status open
 
@@ -563,8 +552,8 @@ http://www.educacionyfp.gob.es/prensa/actualidad/2020/03/20200330-tarjetasdatos.
 \end_layout
 
 \begin_layout Standard
-Despite all these measures, some reports highlight difficulties to put the
- online education in action.
+Despite all these measures, some reports highlight difficulties in putting
+ the online education in action.
  According to 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -574,18 +563,18 @@ literal "true"
 \end_inset
 
 , although both teachers and students have done their best to adapt their
- process to online education, the actual situation was not a change to a
- online teaching, but a try to continue a similar approach to the F2F education
+ process to online education, the actual situation was not a change to online
+ teaching, but an attempt to continue a similar approach to the F2F education
  in a 
 \emph on
 technology mediated scenario
 \emph default
 .
- That means that there was no time for a formation phase for teachers and
- this sudden switch to tele-working supposed a challenge for some of them.
+ That means that there was no time for a training phase for teachers and
+ this sudden switch to tele-working posed a challenge for some of them.
  It also was a struggle for families, who found themselves confined at home,
- having to care of children and their formation at the same time that most
- of them had to tele-work, too 
+ having to care for children and their education while at the same time
+ tele-working as well 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Moreno"
@@ -597,15 +586,15 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-After a de-escalating period, the state of alarm was deposed on June 21,
- 2020, and the summer break gave the possibility to analyze the results
- and to prepare the next academic year.
- The Ministry of Education promotes the restart of ordinary classroom education
- in September 21, being aware of new restrictions could be imposed and a
- plan to face them needs to be prepared.
+Because the severity of the pandemic lessened, the state of emergency was
+ stopped (June 21, 2020), and the summer break allowed an opportunity to
+ analyse the results and prepare for the next academic year.
+ The Ministry of Education is promoting the restart of ordinary classroom
+ education in September 2020, being aware that new restrictions could be
+ imposed and a plan to face them needs to be prepared.
  Additionally, the digital gap needs to be considered in order to limit
  its consequences in general but, particularly, in the event of a new quarantine.
- The circumstances at the moment of writing this lines are even more complicated
+ The circumstances at the moment of writing this are even more complicated
  by the fact that the educational system in Spain is organised in a decentralise
 d manner.
  That is, each political region (
@@ -613,10 +602,9 @@ d manner.
 autonomous community
 \emph default
 ) has delegated powers regarding education, and each regional government
- has different criteria on how to stand up the re-undertaking of academic
- activities.
- In summary, Spain is currently under a special situation that has been
- coined as 
+ has different criteria on how to face the re-undertaking of academic activities.
+ In summary, Spain is currently in a special situation that has been coined
+ the 
 \emph on
 new normality
 \emph default
@@ -625,7 +613,7 @@ new normality
  part of everyday life.
  In addition, the shadow of an economic crisis threatens the country at
  both the micro- and macroeconomic scales while there is a high expectation
- regarding the restart and continuity of the 2020/2010 academic year.
+ regarding the restart and continuity of the 2020/2021 academic year.
  
 \end_layout
 
