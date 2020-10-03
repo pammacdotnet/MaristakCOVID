@@ -144,8 +144,8 @@ https://maristas.es
 Institute of the Marist Brothers
 \emph default
  is present in 79 countries on five continents.
- The Marist charism is expressed in the educational mission, both in formal
- and informal education and with a special focus on the fostering of solidarity.
+ The Marist charism is expressed in their educational mission (formal and
+ informal learning) and with a special focus on the fostering of solidarity.
 \end_layout
 
 \begin_layout Standard
@@ -468,6 +468,7 @@ ion of telematic platforms that support pedagogical, administrative and
 advanced
 \emph default
  badge in 2018.
+ 
 \end_layout
 
 \begin_layout Subsection
@@ -1013,14 +1014,14 @@ The F2F digital infrastructure of Maristak Durango already comprised an
  use of students.
  For DL, each student's own device (SOD) was quickly pre-configured with
  the necessary software (including training sessions) or counselling was
- provided through an online helpdesk.
+ provided through an online help-desk.
  Almost all of the utilities are Google platform-centric and were adapted
  to the educational environment and pre-integrated in every SOD: Google
  Chrome (with some useful extensions), Gmail, Calendar, Drive, Documents,
  Sheets, Slides, Forms, CoRubrics, Moodle, Classroom, Google Meet, Hangouts,
  Jamboard, etc.
- Here are some examples of these LT tools and their implementation in a
- regular DL home-based school day: 
+ Here are some examples of these tools and their implementation in a regular
+ DL home-based school day: 
 \end_layout
 
 \begin_layout Enumerate
@@ -1147,7 +1148,14 @@ Greater flexibility and sensitivity towards the unusual situation in the
 \end_layout
 
 \begin_layout Itemize
-Some tasks and homework deadlines wew postponed.
+Some tasks and homework deadlines were postponed.
+\end_layout
+
+\begin_layout Standard
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \end_body

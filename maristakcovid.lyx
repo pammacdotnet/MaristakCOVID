@@ -186,8 +186,8 @@ http://www.unir.net
 
 \end_inset
 
-), Logroño (La Rioja), and VET teacher of the Higher Degree in Computer
- Science at the Maristak Durango school (
+), Logroño (La Rioja), and vocational education teacher of the higher degree
+ in computer science at the Maristak Durango school (
 \begin_inset Flex URL
 status open
 
@@ -296,7 +296,7 @@ http://research.unir.net
 
 ) at the Universidad Internacional de La Rioja (UNIR), Logroño (La Rioja),
  Spain.
- He is also the director of the UNESCO Chair on eLearning and of the ICDE
+ He is also the director of the UNESCO Chair on e-Learning and of the ICDE
  on Open Educational Resources, and the director of UNIR iTED (Institute
  for Educational Research, Innovation, and Technology).
  E-mail: 
@@ -463,6 +463,10 @@ filename "conclusions.lyx"
 \end_inset
 
 
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section*
@@ -483,6 +487,10 @@ This research is partially funded by the Universidad Internacional de la
  Rioja (UNIR)  through the Research Institute for Innovation & Technology
  in Education (UNIR iTED).
  
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -530,10 +538,10 @@ Iratxe Lejarreta Errasti
 
 \end_inset
 
- is a PhD student in Computer Science at the Universidad Internacional de
- La Rioja (UNIR) and a teacher of Higher Vocational Education and Training
- (VETS), specialising in Information Technology and Cybersecurity at Maristak
- Durango (
+ is a PhD student in computer science at the Universidad Internacional de
+ La Rioja (UNIR) and a teacher of higher vocational education and training,
+ specialising in information technology and cybersecurity at Maristak Durango
+ (
 \begin_inset Flex URL
 status open
 
@@ -545,8 +553,8 @@ http://www.maristak.com
 \end_inset
 
 ).
- She has a degree in Computer Science area at the Universities of Mondragon
- Unibertsitatea (MU) (
+ She holds a degree in computer science area at Universidad of Mondragon
+ Unibertsitatea (MU, 
 \begin_inset Flex URL
 status open
 
@@ -557,7 +565,7 @@ https://www.mondragon.edu
 
 \end_inset
 
-) and Universidad Internacional de La Rioja (UNIR) (
+) and at Universidad Internacional de La Rioja (UNIR) (
 \begin_inset Flex URL
 status open
 
@@ -572,6 +580,10 @@ https://www.unir.net
  She is supported by a long career in the corporate world, where she has
  worked in many companies as project manager of software implementation
  and development.
+\begin_inset VSpace -0.5cm
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -587,8 +599,8 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename natalia.jpg
-	lyxscale 33
+	filename natalia2.jpg
+	lyxscale 15
 	width 1in
 
 \end_inset
@@ -642,6 +654,10 @@ http://transfer.unir.net
  She is developing her teaching experience at the Engineering and Technology
  School of UNIR.
  
+\begin_inset VSpace -0.5cm
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -689,6 +705,10 @@ Dr.
  He is a speaker and knowledge disseminator for radios podcasts, scientific
  workshops, magazines, academic settings, and outreach events.
  
+\begin_inset VSpace -0.5cm
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -727,18 +747,18 @@ Prof.
 \end_inset
 
  is the Vice-rector for International Research, director of the UNESCO Chair
- on eLearning and of the ICDE Chair on Open Educational Resources, at the
+ on e-learning and of the ICDE Chair on Open Educational Resources, at the
  Universidad Internacional de La Rioja (UNIR).
  He is also director of the Research Institute for Innovation & Technology
  in Education (UNIR iTED).
- His work is focused on Adaptive, Personalised and Informal eLearning, Learning
- Analytics, eGames, and eLearning Specifications.
+ His work is focused on adaptive, personalised and informal e-learning,
+ learning analytics, e-games, and e-learning specifications.
  He has published over 150 scientific papers, 20 books and 15 special issues
  on indexed journals.
- He has developed +55 European and Worldwide R&D projects.
- He holds degrees in Communication (PhD), Computer Science (Dr.
- Ing), Education (PhD), Anthropology (PhD), Business Administration (DBA),
- and Artificial Intelligence & Machine Learning (postgraduate, at MIT).
+ He has developed +55 European and worldwide R&D projects.
+ He holds degrees in communication (PhD), computer science (Dr.
+ Ing), education (PhD), anthropology (PhD), business administration (DBA),
+ and artificial intelligence & machine learning (postgraduate, at MIT).
  
 \end_layout
 

@@ -153,17 +153,17 @@ reference "sec:materials+methods"
 \end_inset
 
 , we achieved the following results.
- However, in 
+ In addition, in 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "sec:satisfaction"
 
 \end_inset
 
-, we also present the outcomes derived from an anonymous satisfaction questionna
-ire sent to the families at the end of the academic year in order to know
- their sincere opinions about the course development and the change to a
- completely online education programme.
+, we present the outcomes derived from an anonymous satisfaction questionnaire
+ sent to the families at the end of the academic year in order to know their
+ sincere opinions about the course development and the change to a completely
+ online education programme.
 \end_layout
 
 \begin_layout Subsection
@@ -171,9 +171,9 @@ F2F2DL grades analysis
 \end_layout
 
 \begin_layout Standard
-The comparative percentages of the number of students who maintained or
- improved their score, versus those whose score worsened, together with
- the number of students in each stage and course, are represented in 
+The comparative percentages of of students who maintained or improved their
+ score, versus those whose score worsened, together with the number of students
+ in each stage and course, are represented in 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "fig:improvement"
@@ -1776,6 +1776,10 @@ These positive figures contributed to further strengthening our perception
  of the satisfactory outcome of the school year despite the encountered
  difficulties.
  
+\begin_inset VSpace bigskip
+\end_inset
+
+
 \end_layout
 
 \end_body
