@@ -281,7 +281,7 @@ literal "false"
 
 \begin_layout Standard
 Although these initiatives have the clear goal of preventing the spread
- of the disease, some co-lateral effects have been found.
+ of the disease, some collateral effects have been found.
  For example, authors in 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -388,35 +388,10 @@ trep-12-ncov.pdf?sfvrsn=273c5d35_2
 
 \end_inset
 
- number 12 (February 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-nth{1}
-\end_layout
-
-\end_inset
-
- 2020).
- From this date to March 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-nth{14}
-\end_layout
-
-\end_inset
-
-, when the state of emergency was declared in Spain, a total of 4231 cases
- and 120 deaths were confirmed in Spain by the WHO.
+ number 12 (February 1, 2020).
+ From this date to March 14, when the state of emergency was declared in
+ Spain, a total of 4231 cases and 120 deaths were confirmed in Spain by
+ the WHO.
  
 \end_layout
 
@@ -586,12 +561,34 @@ literal "true"
 \end_layout
 
 \begin_layout Standard
-Because the severity of the pandemic diminished, the state of emergency
- was stopped (June 21, 2020), and the summer break allowed an opportunity
- to analyse the results and prepare for the next academic year.
- The Ministry of Education is promoting the restart of ordinary classroom
- education in September 2020, being aware that new restrictions could be
- imposed and a plan to face them needs to be prepared.
+Because the severity of the pandemic lessened, restrictive measures where
+ gradually softened and, finally, the state of emergency was stopped (June
+ 21, 2020), and the summer break allowed an opportunity to analyse the results
+ and prepare for the next academic year.
+ The Ministry of Education provided guidelines to restart the face-to-face
+ education in September 2020, in order to ensure the safety of all the actors
+ in the educational community
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset Flex URL
+status open
+
+\begin_layout Plain Layout
+
+http://www.educacionyfp.gob.es/dam/jcr:dcaa684d-ff9f-4383-a89d-cf7b6e5818ee/instruc
+ciones-curso-2020-2021.pdf
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+.
  Additionally, the digital gap needs to be considered in order to limit
  its consequences in general but, particularly, in the event of a new quarantine.
  The circumstances at the moment of writing this are even more complicated
@@ -612,8 +609,8 @@ new normality
  of new cases and the tracking/monitoring of minor outbreaks have become
  part of everyday life.
  In addition, the shadow of an economic crisis threatens the country at
- both the micro- and macroeconomic scales while there is a high expectation
- regarding the restart and continuity of the 20/21 academic year.
+ both the micro- and macroeconomic scales while a tight control about infections
+ is being performed by local, regional and national authorities.
  
 \begin_inset VSpace bigskip
 \end_inset

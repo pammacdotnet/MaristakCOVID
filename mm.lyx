@@ -121,21 +121,8 @@ reference "sec:covid+spain"
 
 \end_inset
 
-, on March 
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-nth{14}
-\end_layout
-
-\end_inset
-
-, a state of emergency was decreed in Spain in order the cope with the health
- crisis caused by COVID-19.
+, on March 14, a state of emergency was decreed in Spain in order to cope
+ with the health crisis caused by COVID-19.
  From that moment on, the period of confinement discussed in
 \begin_inset space ~
 \end_inset

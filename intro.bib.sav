@@ -1,0 +1,51 @@
+% Encoding: UTF-8
+%% This BibTeX bibliography file was created using BibDesk.
+%% https://bibdesk.sourceforge.io/
+
+%% Created for Alberto Corbi Bellot at 2020-09-07 11:53:22 +0200 
+
+
+%% Saved with string encoding Unicode (UTF-8)
+
+@TechReport{FluElearnign,
+  author        = {{Readiness and Emergency Management for Schools}},
+  institution   = {United State Department of Education},
+  title         = {{Preparing for the Flu: Department of Education Recommendations to Ensure the Continuity of Learning for Schools (K-12) During Extended Student Absence or School Dismissal}},
+  year          = {2009},
+  date-added    = {2020-09-07 11:45:55 +0200},
+  date-modified = {2020-09-07 11:48:00 +0200},
+}
+
+@techreport{EbolaElearning,
+	Author = {Hallgarten, Joe},
+	Date-Added = {2020-09-07 11:35:35 +0200},
+	Date-Modified = {2020-09-07 11:53:22 +0200},
+	Institution = {Institute of Development Studies},
+	Title = {Evidence on efforts to mitigate the negative educational impact of past disease outbreaks},
+	Year = {2020}}
+
+@article{VETOnline,
+	Author = {de Lange, Peter and Neumann, Alexander Tobias and Nicolaescu, Petru and Klamma, Ralf},
+	Date-Added = {2020-09-02 08:59:48 +0200},
+	Date-Modified = {2020-09-02 09:00:00 +0200},
+	Journal = {IJIMAI},
+	Number = {2},
+	Pages = {32--38},
+	Title = {An integrated learning analytics approach for virtual vocational training centers},
+	Volume = {5},
+	Year = {2018}}
+
+@Article{Nepal,
+  author        = {Naruho Ezaki},
+  journal       = {Education 3-13},
+  title         = {{Impact of the 2015 Nepal earthquakes on children's schooling: focusing on individual children's enrolment flow}},
+  year          = {2018},
+  number        = {7},
+  pages         = {867-878},
+  volume        = {46},
+  bdsk-url-1    = {https://doi.org/10.1080/03004279.2017.1383502},
+  date-added    = {2020-08-31 14:42:05 +0200},
+  date-modified = {2020-08-31 14:42:05 +0200},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
