@@ -1,0 +1,135 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass IEEEtran
+\begin_preamble
+% for subfigures/subtables
+\usepackage[caption=false,font=footnotesize]{subfig}
+\end_preamble
+\options journal
+\use_default_options false
+\maintain_unincluded_children false
+\language british
+\language_package none
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures false
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command bibtex
+\index_command default
+\float_placement tbh
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "Your Title"
+\pdf_author "Your Name"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle false
+\pdf_quoted_options "pdfpagelayout=OneColumn, pdfnewwindow=true, pdfstartview=XYZ, plainpages=false"
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 0
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style british
+\dynamic_quotes 0
+\papercolumns 2
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Abstract
+The global educational community is trying to counteract the effects of
+ the SARS-CoV-2 health pandemic began at the end of 2019 in the city of
+ Wuhan and quickly spread over the rest of the globe.
+ Almost all of the academic systems had to frantically switch, in a matter
+ of days, to an online format.
+ It quickly became clear that not all schools/staff had the knowledge or
+ means to cope with such an unexpected change in the teaching/learning paradigms.
+ The objective of this study is to quantify the learning results in the
+ scenario of a sudden transition from face-to-face (F2F) to distant learning
+ (DL).
+ For this purpose, the research question is whether it is possible for students
+ to retain (or improve) their grades in such an abrupt alteration in the
+ schooling methodologies.
+ In this context, we focus on the abrupt home-confinement process experienced
+ by the Maristak school in Durango (Spain) during the COVID-19 outbreak.
+ This educational centre was chosen on an ad hoc basis because of its reputation
+ regarding the widespread implementation of information and communications
+ technologies (ICT) among all stages (vocational + higher education) and
+ actors (students, teachers and administration).
+ The research question is answered through a statistical analysis of the
+ grades of the 360+ students who went through this F2F to DL transition
+ (F2F2DL) and it was done subject by subject, course by course, and in many
+ other areas (gender, type of study, family situation, individual level
+ of digital literacy, etc.).
+ The results prove how a good ICT-based background can, at least for the
+ considered academic stages, tangibly alleviate any radical F2F2DL shift
+ brought by an unforeseen chain of events (like the recent coronavirus global
+ infection).
+\end_layout
+
+\begin_layout Keywords
+ICT, catastrophes, transitions, digital literacy, COVID-19 pandemic, vocational
+ education, online education
+\end_layout
+
+\end_body
+\end_document
